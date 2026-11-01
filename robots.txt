@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://press.lootura.com/sitemap.xml

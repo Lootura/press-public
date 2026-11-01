@@ -1,0 +1,9 @@
+# Lootura Press
+
+An archive of personal bylines and source-linked articles collected by Lootura.
+
+- [Spain](https://press.lootura.com/es/)
+- [US](https://press.lootura.com/us/)
+- [Sitemap](https://press.lootura.com/sitemap.xml)
+
+Profiles are scoped to a publisher domain and a name. Matching names across publishers do not establish identity. Counts describe the collected archive, not a complete bibliography or a quality ranking. Portraits, when available, come from the publisher profile cited in the receipts. Always attribute reporting to the original publishers and authors.
