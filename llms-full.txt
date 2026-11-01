@@ -76,30 +76,30 @@ Collected articles: 4
 - 2026-10-29T15:29:32.000Z — [Estados Unidos cree que el CEO de NVIDIA fue blanco de una espía china](https://hipertextual.com/actualidad/jensen-huang-nvidia-fue-blanco-de-una-espia-china-cree-eeuu) — Hipertextual
 - 2026-10-29T13:26:39.000Z — [Hasta la caca de perro será un arma en ‘GTA 6’: revelada la última locura de Rockstar](https://hipertextual.com/videojuegos/hasta-la-caca-de-perro-sera-un-arma-en-gta-6) — Hipertextual
 
-### Juan Manuel Delgado — 20minutos
+### Juan Manuel Delgado — Computer Hoy
 Profile: https://press.lootura.com/es/author/20minutos.es/juan-manuel-delgado/
 Collected articles: 4
-- 2026-11-01T10:00:00.000Z — [Antonio Cañavate, ingeniero telemático: "Así puedes mejorar tu cobertura WiFi sin pagar a tu operadora"](https://computerhoy.20minutos.es/moviles/antonio-canavate-ingeniero-telematico-asi-puedes-mejorar-tu-cobertura-wifi-sin-pagar-tu-operadora_7052069_0.html) — 20minutos
-- 2026-11-01T09:00:00.000Z — [Max Shestov, programador y desarrollador web: "Si la IA escribe mejor código que tú, ¿qué te convierte entonces en programador?"](https://computerhoy.20minutos.es/software/max-shestov-programador-desarrollador-web-si-ia-escribe-mejor-codigo-que-tu-que-te-convierte-entonces-programador_7048082_0.html) — 20minutos
-- 2026-11-01T08:00:00.000Z — [Qué significa Mbps y MB/s y por qué no son lo mismo](https://computerhoy.20minutos.es/tecnologia/que-significa-mbps-mb-s-por-que-no-son-mismo_7026503_0.html) — 20minutos
-- 2026-10-31T13:00:00.000Z — [Linus Torvalds, creador de Linux: "No creo en un mundo en el que a todos los niños se les deba enseñar a programar"](https://computerhoy.20minutos.es/software/linus-torvalds-creador-linux-no-creo-un-mundo-que-todos-los-ninos-se-les-deba-ensenar-programar_7051005_0.html) — 20minutos
+- 2026-11-01T10:00:00.000Z — [Antonio Cañavate, ingeniero telemático: "Así puedes mejorar tu cobertura WiFi sin pagar a tu operadora"](https://computerhoy.20minutos.es/moviles/antonio-canavate-ingeniero-telematico-asi-puedes-mejorar-tu-cobertura-wifi-sin-pagar-tu-operadora_7052069_0.html) — Computer Hoy
+- 2026-11-01T09:00:00.000Z — [Max Shestov, programador y desarrollador web: "Si la IA escribe mejor código que tú, ¿qué te convierte entonces en programador?"](https://computerhoy.20minutos.es/software/max-shestov-programador-desarrollador-web-si-ia-escribe-mejor-codigo-que-tu-que-te-convierte-entonces-programador_7048082_0.html) — Computer Hoy
+- 2026-11-01T08:00:00.000Z — [Qué significa Mbps y MB/s y por qué no son lo mismo](https://computerhoy.20minutos.es/tecnologia/que-significa-mbps-mb-s-por-que-no-son-mismo_7026503_0.html) — Computer Hoy
+- 2026-10-31T13:00:00.000Z — [Linus Torvalds, creador de Linux: "No creo en un mundo en el que a todos los niños se les deba enseñar a programar"](https://computerhoy.20minutos.es/software/linus-torvalds-creador-linux-no-creo-un-mundo-que-todos-los-ninos-se-les-deba-ensenar-programar_7051005_0.html) — Computer Hoy
 
-### Marta García — elnacional.cat
+### Marta García — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/marta-garcia/
 Collected articles: 3
-- 2026-11-01T10:00:00.000Z — [Arteta i el Barça coincideixen per un davanter que dispara el seu preu, però el Bruges no pensa regalar-lo](https://www.elnacional.cat/ca/esports/arteta-barca-coincideixen-davanter-dispara-seu-preu-tot-bruges-no-pensa-regalar-lo_1717831_102.html) — elnacional.cat
-- 2026-11-01T09:40:00.000Z — [Alex Márquez, lesionat per Marc Márquez, obligat a passar per quiròfan per tornar a guanyar a MotoGP](https://www.elnacional.cat/ca/esports/alex-marquez-lesionat-marc-marquez-obligat-passar-quirofan-tornar-guanyar-motogp_1718785_102.html) — elnacional.cat
-- 2026-11-01T09:00:00.000Z — [El United es fica en la cursa per Nico Paz, però el Reial Madrid té una carta que ningú més posseeix](https://www.elnacional.cat/ca/esports/united-es-fica-en-cursa-nico-paz-pero-reial-madrid-te-carta-ningu-mes-posseeix_1717828_102.html) — elnacional.cat
+- 2026-11-01T10:00:00.000Z — [Arteta i el Barça coincideixen per un davanter que dispara el seu preu, però el Bruges no pensa regalar-lo](https://www.elnacional.cat/ca/esports/arteta-barca-coincideixen-davanter-dispara-seu-preu-tot-bruges-no-pensa-regalar-lo_1717831_102.html) — El Nacional
+- 2026-11-01T09:40:00.000Z — [Alex Márquez, lesionat per Marc Márquez, obligat a passar per quiròfan per tornar a guanyar a MotoGP](https://www.elnacional.cat/ca/esports/alex-marquez-lesionat-marc-marquez-obligat-passar-quirofan-tornar-guanyar-motogp_1718785_102.html) — El Nacional
+- 2026-11-01T09:00:00.000Z — [El United es fica en la cursa per Nico Paz, però el Reial Madrid té una carta que ningú més posseeix](https://www.elnacional.cat/ca/esports/united-es-fica-en-cursa-nico-paz-pero-reial-madrid-te-carta-ningu-mes-posseeix_1717828_102.html) — El Nacional
 
 ### Ana Fernández Abad — El País
 Profile: https://press.lootura.com/es/author/elpais.com/ana-fernandez-abad/
 Collected articles: 1
 - 2026-11-01T09:59:39.000Z — [Aria Vega: “Aprendí que uno no firma con una discográfica y se vuelve Beyoncé al día siguiente, que es lo que pensaba que iba a suceder”](https://elpais.com/smoda/placeres/2026-11-01/aria-vega-aprendi-que-uno-no-firma-con-una-discografica-y-se-vuelve-beyonce-al-dia-siguiente-que-es-lo-que-pensaba-que-iba-a-suceder.html) — El País
 
-### Ketty Calatayud — elnacional.cat
+### Ketty Calatayud — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/ketty-calatayud/
 Collected articles: 1
-- 2026-11-01T09:57:32.000Z — [Renfe i Adif, el xoc de dues empreses públiques: la tragèdia de Toledo reobre la guerra de responsabilitats](https://www.elnacional.cat/ca/societat/renfe-adif-xoc-dues-empreses-publiques-tragedia-toledo-reobre-guerra-responsabilitats_1718806_102.html) — elnacional.cat
+- 2026-11-01T09:57:32.000Z — [Renfe i Adif, el xoc de dues empreses públiques: la tragèdia de Toledo reobre la guerra de responsabilitats](https://www.elnacional.cat/ca/societat/renfe-adif-xoc-dues-empreses-publiques-tragedia-toledo-reobre-guerra-responsabilitats_1718806_102.html) — El Nacional
 
 ### Rocío Barrantes — 20minutos
 Profile: https://press.lootura.com/es/author/20minutos.es/rocio-barrantes/
@@ -110,7 +110,7 @@ Collected articles: 1
 Profile: https://press.lootura.com/es/author/20minutos.es/maria-del-mar-lopez-barrionuevo/
 Collected articles: 2
 - 2026-11-01T09:52:14.000Z — [Las primeras palabras de Andrea Duro tras darse el 'sí, quiero' con Guillermo Sánchez: "Muy bonito"](https://www.20minutos.es/television/las-primeras-palabras-andrea-duro-tras-darse-si-quiero-con-guillermo-sanchez-ha-sido-muy-bonito_7055888_0.html) — 20minutos
-- 2026-10-31T20:11:22.000Z — [Juan del Val se pronuncia sobre la polémica de Mbappé y China: "Que me quiten los contratos que tengo allí"](https://www.20minutos.es/television/juan-val-se-pronuncia-sobre-polemica-mbappe-china-que-me-quiten-los-contratos-que-tengo-alli-me-da-igual_7055880_0.html) — 20minutos
+- 2026-10-31T20:11:22.000Z — [Juan del Val se pronuncia sobre la polémica de Mbappé y China: "Que me quiten los contratos que tengo allí"](https://www.20minutos.es/television/juan-val-se-pronuncia-sobre-polemica-mbappe-china-que-me-quiten-los-contratos-que-tengo-alli-me-da-igual_7055880_0.html) — Computer Hoy
 
 ### Sandra Moreno Quintanilla — elDiario.es
 Profile: https://press.lootura.com/es/author/eldiario.es/sandra-moreno-quintanilla/
@@ -134,10 +134,10 @@ Collected articles: 3
 - 2026-10-31T21:57:59.000Z — [Así queda la clasificación de la Liga tras la victoria del Barcelona contra el Alavés](https://okdiario.com/deportes/asi-queda-clasificacion-liga-victoria-del-barcelona-contra-alaves-4-20677068) — OK Diario
 - 2026-10-31T21:40:22.000Z — [Espeluznante: evacúan al hospital a Quadri, jugador del Sabadell, tras una escalofriante patada en la cabeza](https://okdiario.com/deportes/espeluznante-evacuan-hospital-quadri-jugador-del-sabadell-escalofriante-patada-cabeza-20677224) — OK Diario
 
-### Nacho Caballero — elplural.com
+### Nacho Caballero — El Plural
 Profile: https://press.lootura.com/es/author/elplural.com/nacho-caballero/
 Collected articles: 1
-- 2026-11-01T09:45:19.000Z — [Marc Márquez ha aprendido a ganar de otra manera](https://www.elplural.com/el-regate/marc-marquez-ha-aprendido-ganar-manera_802942102) — elplural.com
+- 2026-11-01T09:45:19.000Z — [Marc Márquez ha aprendido a ganar de otra manera](https://www.elplural.com/el-regate/marc-marquez-ha-aprendido-ganar-manera_802942102) — El Plural
 
 ### Christian Pérez — OK Diario
 Profile: https://press.lootura.com/es/author/okdiario.com/christian-perez/
@@ -160,16 +160,16 @@ Profile: https://press.lootura.com/es/author/abc.es/jaime-garcia/
 Collected articles: 1
 - 2026-11-01T09:39:13.000Z — [El Gobierno prepara el cese del presidente de Adif para proteger a Puente y a Sánchez](https://www.abc.es/espana/gobierno-preve-dejar-caer-presidente-adif-cortafuegos-20261030014015-nt.html) — ABC
 
-### Robert Rodriguez — elnacional.cat
+### Robert Rodriguez — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/robert-rodriguez/
 Collected articles: 1
-- 2026-11-01T09:35:00.000Z — [Leo Messi té mil i un cotxes, però per anar per Miami prefereix portar el Mini perfecte per a la ciutat](https://www.elnacional.cat/ca/motor/leo-messi-te-mil-cotxes-pero-anar-miami-prefereix-portar-mini-perfecte-ciutat_1718299_102.html) — elnacional.cat
+- 2026-11-01T09:35:00.000Z — [Leo Messi té mil i un cotxes, però per anar per Miami prefereix portar el Mini perfecte per a la ciutat](https://www.elnacional.cat/ca/motor/leo-messi-te-mil-cotxes-pero-anar-miami-prefereix-portar-mini-perfecte-ciutat_1718299_102.html) — El Nacional
 
-### Arnau Ruiz — elnacional.cat
+### Arnau Ruiz — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/arnau-ruiz/
 Collected articles: 2
-- 2026-11-01T09:31:26.000Z — [La CUP carrega contra Parlon i acusa els Mossos de fer "identificacions racistes"](https://www.elnacional.cat/ca/politica/cup-carrega-contra-parlon-acusa-mossos-fer-identificacions-racistes_1718803_102.html) — elnacional.cat
-- 2026-10-31T21:03:34.000Z — [Accident de tren a Toledo, DIRECTE | Última hora del xoc entre un AVE i un Iryo](https://www.elnacional.cat/ca/societat/accident-tren-ave-iryo-toledo-directe-ultima-hora_13324_126.html) — elnacional.cat
+- 2026-11-01T09:31:26.000Z — [La CUP carrega contra Parlon i acusa els Mossos de fer "identificacions racistes"](https://www.elnacional.cat/ca/politica/cup-carrega-contra-parlon-acusa-mossos-fer-identificacions-racistes_1718803_102.html) — El Nacional
+- 2026-10-31T21:03:34.000Z — [Accident de tren a Toledo, DIRECTE | Última hora del xoc entre un AVE i un Iryo](https://www.elnacional.cat/ca/societat/accident-tren-ave-iryo-toledo-directe-ultima-hora_13324_126.html) — El Nacional
 
 ### Esther Gómez — El Mundo
 Profile: https://press.lootura.com/es/author/elmundo.es/esther-gomez/
@@ -205,18 +205,18 @@ Collected articles: 2
 - 2026-11-01T09:23:00.000Z — [Qué supermercados abren el lunes 2 de noviembre: Lidl, Carrefour, Dia y Alcampo](https://www.elconfidencial.com/espana/2026-11-01/que-supermercados-abren-lunes-noviembre-lidl-carrefour-dia-alcampo_4456940) — El Confidencial
 - 2026-11-01T08:58:00.000Z — [Dónde es festivo este 2 de noviembre en España: todas las comunidades que tienen el puente de Todos los Santos](https://www.elconfidencial.com/espana/2026-11-01/donde-festivo-noviembre-espana-puente-todos-santos_4457074) — El Confidencial
 
-### Marina Amposta — naciodigital.cat
+### Marina Amposta — Nació Digital
 Profile: https://press.lootura.com/es/author/naciodigital.cat/marina-amposta/
 Collected articles: 2
-- 2026-11-01T09:21:52.000Z — [Renfe nega responsabilitats en l'accident de Toledo](https://naciodigital.cat/societat/renfe-nega-responsabilitats-en-laccident-de-toledo.html) — naciodigital.cat
-- 2026-10-31T13:41:42.000Z — [Presó provisional per al presumpte fundador de Blocus Espanya](https://naciodigital.cat/societat/preso-provisional-per-al-presumpte-fundador-de-blocus-espanya.html) — naciodigital.cat
+- 2026-11-01T09:21:52.000Z — [Renfe nega responsabilitats en l'accident de Toledo](https://naciodigital.cat/societat/renfe-nega-responsabilitats-en-laccident-de-toledo.html) — Nació Digital
+- 2026-10-31T13:41:42.000Z — [Presó provisional per al presumpte fundador de Blocus Espanya](https://naciodigital.cat/societat/preso-provisional-per-al-presumpte-fundador-de-blocus-espanya.html) — Nació Digital
 
-### Encarnación Arcoya — businessinsider.es
+### Encarnación Arcoya — Business Insider España
 Profile: https://press.lootura.com/es/author/businessinsider.es/encarnacion-arcoya/
 Collected articles: 3
-- 2026-11-01T09:15:00.000Z — [Japón se queda sin dibujantes para producir anime y encuentra una solución inesperada: recurrir a la inteligencia artificial](https://www.businessinsider.es/tecnologia/japon-sin-dibujantes-producir-anime-solucion-inteligencia-artificial_7053737_0.html) — businessinsider.es
-- 2026-10-31T11:35:00.000Z — [Buscan personas para contar pingüinos en la Antártida: pagan hasta 2.500 euros al mes](https://www.businessinsider.es/economia/buscan-personas-contar-pinguinos-antartida-2500-euros-mes_7053217_0.html) — businessinsider.es
-- 2026-10-31T08:20:00.000Z — [El país vecino que ha encontrado una fórmula para reforzar las pensiones y acumula una gran reserva](https://www.businessinsider.es/economia/pais-vecino-encontrado-formula-eforzar-pensiones-acumula-gran-reserva_7051815_0.html) — businessinsider.es
+- 2026-11-01T09:15:00.000Z — [Japón se queda sin dibujantes para producir anime y encuentra una solución inesperada: recurrir a la inteligencia artificial](https://www.businessinsider.es/tecnologia/japon-sin-dibujantes-producir-anime-solucion-inteligencia-artificial_7053737_0.html) — Business Insider España
+- 2026-10-31T11:35:00.000Z — [Buscan personas para contar pingüinos en la Antártida: pagan hasta 2.500 euros al mes](https://www.businessinsider.es/economia/buscan-personas-contar-pinguinos-antartida-2500-euros-mes_7053217_0.html) — Business Insider España
+- 2026-10-31T08:20:00.000Z — [El país vecino que ha encontrado una fórmula para reforzar las pensiones y acumula una gran reserva](https://www.businessinsider.es/economia/pais-vecino-encontrado-formula-eforzar-pensiones-acumula-gran-reserva_7051815_0.html) — Business Insider España
 
 ### Ignacio Juanilla Bernardo — COPE
 Profile: https://press.lootura.com/es/author/cope.es/ignacio-juanilla-bernardo/
@@ -224,10 +224,10 @@ Collected articles: 2
 - 2026-11-01T09:14:24.000Z — [Madrid desafía el caos y la llamada a los saqueos de 'Blocus' termina en fracaso](https://www.cope.es/actualidad/espana/noticias/madrid-desafia-caos-llamada-saqueos-blocus-termina-fracaso-20261101_3466553.html) — COPE
 - 2026-10-31T22:19:07.000Z — [Así te hemos contado durante toda la jornada la últimas novedades de la tragedia ferroviaria en Urda](https://www.cope.es/actualidad/espana/al-minuto/sigue-ultima-hora-accidente-ferroviario-urda-toledo-20261031_3465804.html) — COPE
 
-### S. Montero — elnacional.cat
+### S. Montero — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/s-montero/
 Collected articles: 1
-- 2026-11-01T09:10:00.000Z — [Abans del Camp Nou, el Barça tenia 22.000 espectadors: així era la casa del Barça de Samitier i Alcántara](https://www.elnacional.cat/ca/esports/abans-camp-nou-barca-nomes-tenia-22000-espectadors-aixi-era-casa-barca-samitier-alcantara_1718776_102.html) — elnacional.cat
+- 2026-11-01T09:10:00.000Z — [Abans del Camp Nou, el Barça tenia 22.000 espectadors: així era la casa del Barça de Samitier i Alcántara](https://www.elnacional.cat/ca/esports/abans-camp-nou-barca-nomes-tenia-22000-espectadors-aixi-era-casa-barca-samitier-alcantara_1718776_102.html) — El Nacional
 
 ### Guille Álvarez — El País
 Profile: https://press.lootura.com/es/author/elpais.com/guille-alvarez/
@@ -241,10 +241,10 @@ Collected articles: 3
 - 2026-11-01T08:30:15.000Z — [La Santa Compaña sembraba el terror en los caminos gallegos: encontrarse con ella podía condenarte a guiar a los muertos](https://www.eldiario.es/spin/santa-compana-sembraba-terror-caminos-gallegos-encontrarse-podia-condenarte-guiar-muertos-pm_1_13629944.html) — elDiario.es
 - 2026-10-31T22:59:06.000Z — [El Urco aterrorizaba en la tradición gallega: un perro monstruoso relacionado con el mar que presagiaba calamidades](https://www.eldiario.es/spin/urco-aterrorizaba-tradicion-gallega-perro-monstruoso-relacionado-mar-presagiaba-calamidades-pm_1_13620329.html) — elDiario.es
 
-### Eduardo Savín — elnacional.cat
+### Eduardo Savín — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/eduardo-savin/
 Collected articles: 1
-- 2026-11-01T09:00:00.000Z — [Els arqueòlegs creuen haver trobat el naufragi més antic del món: es va enfonsar fa 4.500 anys](https://www.elnacional.cat/ca/tecnologia/arqueolegs-creuen-haver-trobat-naufragi-mes-antic-mon-es-va-enfonsar-fa-4500-anys_1717951_102.html) — elnacional.cat
+- 2026-11-01T09:00:00.000Z — [Els arqueòlegs creuen haver trobat el naufragi més antic del món: es va enfonsar fa 4.500 anys](https://www.elnacional.cat/ca/tecnologia/arqueolegs-creuen-haver-trobat-naufragi-mes-antic-mon-es-va-enfonsar-fa-4500-anys_1717951_102.html) — El Nacional
 
 ### Isabel Lavín Bonachía — La Vanguardia
 Profile: https://press.lootura.com/es/author/lavanguardia.com/isabel-lavin-bonachia/
@@ -261,25 +261,25 @@ Profile: https://press.lootura.com/es/author/diariovasco.com/iker-marin/
 Collected articles: 1
 - 2026-11-01T08:58:43.000Z — [Horarios y autobuses especiales para acudir a los principales cementerios de Gipuzkoa](https://www.diariovasco.com/gipuzkoa/horarios-autobuses-especiales-acudir-principales-cementerios-gipuzkoa-20261101095843-nt.html) — El Diario Vasco
 
-### Ana G. Barriada — leonoticias.com
+### Ana G. Barriada — Leonoticias
 Profile: https://press.lootura.com/es/author/leonoticias.com/ana-g-barriada/
 Collected articles: 1
-- 2026-11-01T08:57:36.000Z — [Doble luto en León: las científicas Marta Shahbazi y Tamara González mueren en la tragedia de Toledo](https://www.leonoticias.com/leon/doble-luto-leon-cientificas-marta-shahbazi-tamara-20261101095736-nt.html) — leonoticias.com
+- 2026-11-01T08:57:36.000Z — [Doble luto en León: las científicas Marta Shahbazi y Tamara González mueren en la tragedia de Toledo](https://www.leonoticias.com/leon/doble-luto-leon-cientificas-marta-shahbazi-tamara-20261101095736-nt.html) — Leonoticias
 
-### J. Cortina — elnacional.cat
+### J. Cortina — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/j-cortina/
 Collected articles: 1
-- 2026-11-01T08:40:00.000Z — [Lamine Yamal: "Puc tenir la mansió més gran del món que estaré sempre a la sala de la Play"](https://www.elnacional.cat/ca/estil-vida/lamine-yamal-puc-tenir-mansio-mes-gran-mon-estare-sempre-sala-play_1718794_102.html) — elnacional.cat
+- 2026-11-01T08:40:00.000Z — [Lamine Yamal: "Puc tenir la mansió més gran del món que estaré sempre a la sala de la Play"](https://www.elnacional.cat/ca/estil-vida/lamine-yamal-puc-tenir-mansio-mes-gran-mon-estare-sempre-sala-play_1718794_102.html) — El Nacional
 
 ### José Manuel Cuevas — El Orden Mundial
 Profile: https://press.lootura.com/es/author/elordenmundial.com/jose-manuel-cuevas/
 Collected articles: 1
 - 2026-11-01T08:38:00.000Z — [Trenes en España: de potencia ferroviaria al declive del estado de bienestar - El Orden Mundial - EOM](https://elordenmundial.com/espana-trenes-europa-estado-bienestar) — El Orden Mundial
 
-### Luis María Maínez — elplural.com
+### Luis María Maínez — El Plural
 Profile: https://press.lootura.com/es/author/elplural.com/luis-maria-mainez/
 Collected articles: 1
-- 2026-11-01T08:31:12.000Z — [Oskar](https://www.elplural.com/revista-bando/coctelera/oskar_802938102) — elplural.com
+- 2026-11-01T08:31:12.000Z — [Oskar](https://www.elplural.com/revista-bando/coctelera/oskar_802938102) — El Plural
 
 ### Gloria Rodríguez-Pina — El País
 Profile: https://press.lootura.com/es/author/elpais.com/gloria-rodriguez-pina/
@@ -298,10 +298,10 @@ Collected articles: 2
 - 2026-11-01T07:50:26.000Z — [La noche en la que los famosos cambian de identidad: así han sorprendido por Halloween](https://www.lavanguardia.com/gente/20261101/11672922/noche-famosos-cambian-identidad-asi-han-sorprendido-halloween.html) — La Vanguardia
 - 2026-11-01T07:38:50.000Z — [A Heidi Klum se le va de las manos](https://www.lavanguardia.com/gente/20261101/11673287/heidi-klum-le-manos.html) — La Vanguardia
 
-### Antonio Avendaño — elplural.com
+### Antonio Avendaño — El Plural
 Profile: https://press.lootura.com/es/author/elplural.com/antonio-avendano/
 Collected articles: 1
-- 2026-11-01T07:49:32.000Z — [Elogio y refutación de Óscar Puente](https://www.elplural.com/politica/espana/elogio-refutacion-oscar-puente_802935102) — elplural.com
+- 2026-11-01T07:49:32.000Z — [Elogio y refutación de Óscar Puente](https://www.elplural.com/politica/espana/elogio-refutacion-oscar-puente_802935102) — El Plural
 
 ### Toni López Jordà — La Vanguardia
 Profile: https://press.lootura.com/es/author/lavanguardia.com/toni-lopez-jorda/
@@ -323,11 +323,11 @@ Profile: https://press.lootura.com/es/author/eldiario.es/alex-gonzalez/
 Collected articles: 1
 - 2026-11-01T07:30:32.000Z — [Hiva Oa, la isla secreta de la Polinesia Francesa donde descansan dos grandes artistas y sobreviven antiguas leyendas](https://www.eldiario.es/viajes/hiva-oa-isla-secreta-polinesia-francesa-descansan-grandes-artistas-sobreviven-antiguas-leyendas-pm_1_13627739.html) — elDiario.es
 
-### Neus Climent — naciodigital.cat
+### Neus Climent — Nació Digital
 Profile: https://press.lootura.com/es/author/naciodigital.cat/neus-climent/
 Collected articles: 2
-- 2026-11-01T07:30:29.000Z — [El dispositiu policial per Blocus acaba amb 2.264 identificats i deu detinguts a Catalunya](https://naciodigital.cat/societat/el-dispositiu-policial-per-blocus-se-salda-amb-1440-identificats-i-quatre-detinguts.html) — naciodigital.cat
-- 2026-10-31T13:26:44.000Z — [Què suposaria la suspensió de l'alta velocitat Barcelona-Madrid? Catorze milions de passatgers afectats](https://naciodigital.cat/societat/que-suposaria-la-suspensio-de-lalta-velocitat-barcelona-madrid.html) — naciodigital.cat
+- 2026-11-01T07:30:29.000Z — [El dispositiu policial per Blocus acaba amb 2.264 identificats i deu detinguts a Catalunya](https://naciodigital.cat/societat/el-dispositiu-policial-per-blocus-se-salda-amb-1440-identificats-i-quatre-detinguts.html) — Nació Digital
+- 2026-10-31T13:26:44.000Z — [Què suposaria la suspensió de l'alta velocitat Barcelona-Madrid? Catorze milions de passatgers afectats](https://naciodigital.cat/societat/que-suposaria-la-suspensio-de-lalta-velocitat-barcelona-madrid.html) — Nació Digital
 
 ### Iñigo Sáenz de Ugarte — elDiario.es
 Profile: https://press.lootura.com/es/author/eldiario.es/inigo-saenz-de-ugarte/
@@ -349,10 +349,10 @@ Profile: https://press.lootura.com/es/author/elcorreo.com/oscar-cubillo/
 Collected articles: 1
 - 2026-11-01T06:58:51.000Z — [Las sonrientes súper figuras del Cuban Jazz Syndicate felices en Bilbao](https://www.elcorreo.com/culturas/musica/sonrientes-super-figuras-cuban-jazz-syndicate-felices-20261101075826-nt.html) — El Correo
 
-### José Denis Cruz — newtral.es
+### José Denis Cruz — Newtral
 Profile: https://press.lootura.com/es/author/newtral.es/jose-denis-cruz/
 Collected articles: 1
-- 2026-11-01T06:38:00.000Z — [Tácticas militares, polarización y pistas contra los bulos: así luchó la ‘guerrilla’ de Lula en WhatsApp](https://www.newtral.es/ejercito-lula-brasil-whatsapp/20261101) — newtral.es
+- 2026-11-01T06:38:00.000Z — [Tácticas militares, polarización y pistas contra los bulos: así luchó la ‘guerrilla’ de Lula en WhatsApp](https://www.newtral.es/ejercito-lula-brasil-whatsapp/20261101) — Newtral
 
 ### Alberto Caparrós — El Debate
 Profile: https://press.lootura.com/es/author/eldebate.com/alberto-caparros/
@@ -370,60 +370,60 @@ Profile: https://press.lootura.com/es/author/theobjective.com/marina-ochoa/
 Collected articles: 1
 - 2026-11-01T06:30:00.000Z — [La vida humilde de Rosalía Mera, expareja de Amancio Ortega y madre de dos de sus hijos: «Era una mujer menuda con ojos expresivos»](https://theobjective.com/gente/2026-11-01/rosalia-mera-expareja-amancio-ortega-madre-hijos-menuda-expresivos) — The Objective
 
-### Ana Huergo — businessinsider.es
+### Ana Huergo — Business Insider España
 Profile: https://press.lootura.com/es/author/businessinsider.es/ana-huergo/
 Collected articles: 3
-- 2026-11-01T06:15:00.000Z — [José Elías, sobre la IA: "Pensad qué parte de vuestro trabajo podría hacerlo una máquina"](https://www.businessinsider.es/economia/jose-elias-sobre-ia-pensad-que-parte-vuestro-trabajo-podria-hacerlo-una-maquina_7050900_0.html) — businessinsider.es
-- 2026-10-31T09:05:00.000Z — [Dario Amodei: cuánto cobra el CEO de Anthropic en comparación con otros líderes tecnológicos](https://www.businessinsider.es/economia/dario-amodei-cuanto-cobra-ceo-anthropic-comparacion-con-otros-lideres-tecnologicos_7050201_0.html) — businessinsider.es
-- 2026-10-31T06:15:00.000Z — [Gonzalo Bernardos, economista: "En el sistema de pensiones, hay que hacer ajustes que a los jubilados no les gustarán"](https://www.businessinsider.es/economia/gonzalo-bernardos-economista-sistema-pensiones-hay-que-hacer-ajustes-que-los-jubilados-no-les-gustaran_7053448_0.html) — businessinsider.es
+- 2026-11-01T06:15:00.000Z — [José Elías, sobre la IA: "Pensad qué parte de vuestro trabajo podría hacerlo una máquina"](https://www.businessinsider.es/economia/jose-elias-sobre-ia-pensad-que-parte-vuestro-trabajo-podria-hacerlo-una-maquina_7050900_0.html) — Business Insider España
+- 2026-10-31T09:05:00.000Z — [Dario Amodei: cuánto cobra el CEO de Anthropic en comparación con otros líderes tecnológicos](https://www.businessinsider.es/economia/dario-amodei-cuanto-cobra-ceo-anthropic-comparacion-con-otros-lideres-tecnologicos_7050201_0.html) — Business Insider España
+- 2026-10-31T06:15:00.000Z — [Gonzalo Bernardos, economista: "En el sistema de pensiones, hay que hacer ajustes que a los jubilados no les gustarán"](https://www.businessinsider.es/economia/gonzalo-bernardos-economista-sistema-pensiones-hay-que-hacer-ajustes-que-los-jubilados-no-les-gustaran_7053448_0.html) — Business Insider España
 
-### Carolina González — 20minutos
+### Carolina González — Computer Hoy
 Profile: https://press.lootura.com/es/author/20minutos.es/carolina-gonzalez/
 Collected articles: 1
-- 2026-11-01T06:15:00.000Z — [¿Qué es Litebox, el nuevo proyecto de Microsoft para ejecutar aplicaciones Linux de forma segura?](https://computerhoy.20minutos.es/software/que-es-litebox-nuevo-proyecto-microsoft-para-ejecutar-aplicaciones-linux-forma-segura_7048309_0.html) — 20minutos
+- 2026-11-01T06:15:00.000Z — [¿Qué es Litebox, el nuevo proyecto de Microsoft para ejecutar aplicaciones Linux de forma segura?](https://computerhoy.20minutos.es/software/que-es-litebox-nuevo-proyecto-microsoft-para-ejecutar-aplicaciones-linux-forma-segura_7048309_0.html) — Computer Hoy
 
-### Carlos Cánovas Morillo — newtral.es
+### Carlos Cánovas Morillo — Newtral
 Profile: https://press.lootura.com/es/author/newtral.es/carlos-canovas-morillo/
 Collected articles: 2
-- 2026-11-01T06:13:00.000Z — [Cuánto cuestan unas elecciones y quién las paga: las subvenciones a los partidos políticos](https://www.newtral.es/subvenciones-partidos-politicos-elecciones/20261101) — newtral.es
-- 2026-10-31T05:00:00.000Z — [La renovación (o no) en las listas al Congreso: estos son los candidatos de cara a las elecciones del 29N](https://www.newtral.es/candidatos-elecciones-generales-noviembre/20261031) — newtral.es
+- 2026-11-01T06:13:00.000Z — [Cuánto cuestan unas elecciones y quién las paga: las subvenciones a los partidos políticos](https://www.newtral.es/subvenciones-partidos-politicos-elecciones/20261101) — Newtral
+- 2026-10-31T05:00:00.000Z — [La renovación (o no) en las listas al Congreso: estos son los candidatos de cara a las elecciones del 29N](https://www.newtral.es/candidatos-elecciones-generales-noviembre/20261031) — Newtral
 
 ### María Jamardo — El Debate
 Profile: https://press.lootura.com/es/author/eldebate.com/maria-jamardo/
 Collected articles: 1
 - 2026-11-01T06:06:32.000Z — [La Junta Electoral informa al Supremo de una petición para auditar el sistema de recuento de votos el 29-N](https://www.eldebate.com/espana/20261101/junta-electoral-informa-supremo-peticion-auditar-sistema-recuento-votos-29n_476053.html) — El Debate
 
-### Pablo Accino — newtral.es
+### Pablo Accino — Newtral
 Profile: https://press.lootura.com/es/author/newtral.es/pablo-accino/
 Collected articles: 1
-- 2026-11-01T06:04:00.000Z — [¿Te ha tocado mesa el 29N y no puedes ir? Descubre en este juego online qué causas están justificadas](https://www.newtral.es/mesa-electoral-causas-justificadas/20261101) — newtral.es
+- 2026-11-01T06:04:00.000Z — [¿Te ha tocado mesa el 29N y no puedes ir? Descubre en este juego online qué causas están justificadas](https://www.newtral.es/mesa-electoral-causas-justificadas/20261101) — Newtral
 
-### Ricardo Jonás G. — jotdown.es
+### Ricardo Jonás G. — Jot Down
 Profile: https://press.lootura.com/es/author/jotdown.es/ricardo-jonas-g/
 Collected articles: 2
-- 2026-11-01T06:00:33.000Z — [Día de Muertos en México: la forma de la ausencia](https://www.jotdown.es/2026/11/la-forma-de-la-ausencia-dia-de-muertos) — jotdown.es
-- 2026-10-31T07:00:31.000Z — [El monstruo también quiere follar](https://www.jotdown.es/2026/10/el-monstruo-tambien-quiere-follar) — jotdown.es
+- 2026-11-01T06:00:33.000Z — [Día de Muertos en México: la forma de la ausencia](https://www.jotdown.es/2026/11/la-forma-de-la-ausencia-dia-de-muertos) — Jot Down
+- 2026-10-31T07:00:31.000Z — [El monstruo también quiere follar](https://www.jotdown.es/2026/10/el-monstruo-tambien-quiere-follar) — Jot Down
 
-### Abraham Andreu — 20minutos
+### Abraham Andreu — Computer Hoy
 Profile: https://press.lootura.com/es/author/20minutos.es/abraham-andreu/
 Collected articles: 1
-- 2026-11-01T06:00:00.000Z — [Cómo tener un Kodi personalizado que no tengas que configurar en cada dispositivo](https://computerhoy.20minutos.es/software/como-tener-un-kodi-personalizado-que-no-tengas-que-configurar-cada-dispositivo_7050981_0.html) — 20minutos
+- 2026-11-01T06:00:00.000Z — [Cómo tener un Kodi personalizado que no tengas que configurar en cada dispositivo](https://computerhoy.20minutos.es/software/como-tener-un-kodi-personalizado-que-no-tengas-que-configurar-cada-dispositivo_7050981_0.html) — Computer Hoy
 
-### Ivan Muñoz — 20minutos
+### Ivan Muñoz — Computer Hoy
 Profile: https://press.lootura.com/es/author/20minutos.es/ivan-munoz/
 Collected articles: 2
-- 2026-11-01T06:00:00.000Z — [Ya en Lidl, el enchufe portátil para conectar cualquier cosa en la terraza o jardín sin depender de las tomas de corriente](https://computerhoy.20minutos.es/tendencias/ya-lidl-enchufe-portatil-para-conectar-cualquier-cosa-terraza-jardin-sin-depender-las-tomas-corriente_7055456_0.html) — 20minutos
-- 2026-11-01T05:00:00.000Z — [Qué significan las rayas negras del conector del cable de los auriculares y por qué algunos no funcionan en tu ordenador](https://computerhoy.20minutos.es/dispositivos/que-significan-las-rayas-negras-conector-cable-los-auriculares-por-que-algunos-no-funcionan-tu-ordenador_7055437_0.html) — 20minutos
+- 2026-11-01T06:00:00.000Z — [Ya en Lidl, el enchufe portátil para conectar cualquier cosa en la terraza o jardín sin depender de las tomas de corriente](https://computerhoy.20minutos.es/tendencias/ya-lidl-enchufe-portatil-para-conectar-cualquier-cosa-terraza-jardin-sin-depender-las-tomas-corriente_7055456_0.html) — Computer Hoy
+- 2026-11-01T05:00:00.000Z — [Qué significan las rayas negras del conector del cable de los auriculares y por qué algunos no funcionan en tu ordenador](https://computerhoy.20minutos.es/dispositivos/que-significan-las-rayas-negras-conector-cable-los-auriculares-por-que-algunos-no-funcionan-tu-ordenador_7055437_0.html) — Computer Hoy
 
 ### Luis Campo Yanguas — El País
 Profile: https://press.lootura.com/es/author/elpais.com/luis-campo-yanguas/
 Collected articles: 1
 - 2026-11-01T06:00:00.000Z — [La lupa con luz que facilita leer etiquetas y prospectos](https://elpais.com/escaparate/estilo-de-vida/lupa-con-luz.html) — El País
 
-### Nacho Grosso — 20minutos
+### Nacho Grosso — Computer Hoy
 Profile: https://press.lootura.com/es/author/20minutos.es/nacho-grosso/
 Collected articles: 1
-- 2026-11-01T06:00:00.000Z — [Se acabó pagar iCloud o Google Photos: crea tu propia nube con el NAS de UGREEN y deja de pagar por espacio](https://computerhoy.20minutos.es/tecnologia/comprar-nas-ugreen-nasync-dh2300_7055900_0.html) — 20minutos
+- 2026-11-01T06:00:00.000Z — [Se acabó pagar iCloud o Google Photos: crea tu propia nube con el NAS de UGREEN y deja de pagar por espacio](https://computerhoy.20minutos.es/tecnologia/comprar-nas-ugreen-nasync-dh2300_7055900_0.html) — Computer Hoy
 
 ### Edu Molina — elDiario.es
 Profile: https://press.lootura.com/es/author/eldiario.es/edu-molina/
@@ -436,96 +436,96 @@ Profile: https://press.lootura.com/es/author/elpais.com/mario-rueda-andres/
 Collected articles: 1
 - 2026-11-01T05:45:00.000Z — [El accesorio viral que muchos conductores instalan para aparcar mejor](https://elpais.com/escaparate/estilo-de-vida/espejos-retrovisores.html) — El País
 
-### Ana Ruiz — businessinsider.es
+### Ana Ruiz — Business Insider España
 Profile: https://press.lootura.com/es/author/businessinsider.es/ana-ruiz/
 Collected articles: 1
-- 2026-11-01T05:30:00.000Z — [Tus viejas cartas Pokémon podrían valer una fortuna: este mercado ya compite con Nvidia en rentabilidad](https://www.businessinsider.es/mercados/tus-viejas-cartas-pokemon-podrian-valer-una-fortuna-este-mercado-ya-compite-con-nvidia-rentabilidad_7055505_0.html) — businessinsider.es
+- 2026-11-01T05:30:00.000Z — [Tus viejas cartas Pokémon podrían valer una fortuna: este mercado ya compite con Nvidia en rentabilidad](https://www.businessinsider.es/mercados/tus-viejas-cartas-pokemon-podrian-valer-una-fortuna-este-mercado-ya-compite-con-nvidia-rentabilidad_7055505_0.html) — Business Insider España
 
-### Cristina Fernández Esteban — businessinsider.es
+### Cristina Fernández Esteban — Business Insider España
 Profile: https://press.lootura.com/es/author/businessinsider.es/cristina-fernandez-esteban/
 Collected articles: 2
-- 2026-11-01T05:30:00.000Z — [El empleo tecnológico cae un 2,8% en lo que va de 2026, pese al récord de la programación informática](https://www.businessinsider.es/economia/empleo-tecnologico-cae-un-2-8-que-va-2026-pese-record-programacion-informatica_7054384_0.html) — businessinsider.es
-- 2026-10-31T10:25:00.000Z — [La gran paradoja de la IA: la inversión bate récords mientras los agentes apenas se utilizan](https://www.businessinsider.es/tecnologia/gran-paradoja-ia-inversion-bate-records-mientras-los-agentes-apenas-se-utilizan_7051841_0.html) — businessinsider.es
+- 2026-11-01T05:30:00.000Z — [El empleo tecnológico cae un 2,8% en lo que va de 2026, pese al récord de la programación informática](https://www.businessinsider.es/economia/empleo-tecnologico-cae-un-2-8-que-va-2026-pese-record-programacion-informatica_7054384_0.html) — Business Insider España
+- 2026-10-31T10:25:00.000Z — [La gran paradoja de la IA: la inversión bate récords mientras los agentes apenas se utilizan](https://www.businessinsider.es/tecnologia/gran-paradoja-ia-inversion-bate-records-mientras-los-agentes-apenas-se-utilizan_7051841_0.html) — Business Insider España
 
 ### Cristina Tarrega — The Objective
 Profile: https://press.lootura.com/es/author/theobjective.com/cristina-tarrega/
 Collected articles: 1
 - 2026-11-01T05:30:00.000Z — [Alejandro Marcet, entrenador personal: «Cinco minutos de ejercicio pueden ser mejores que una hora de gimnasio»](https://theobjective.com/lifestyle/fitness/2026-11-01/alejandro-marcet-entrenador-personal-cinco-minutos-de-ejercicio-pueden-ser-mejores-que-una-hora-de-gimnasio) — The Objective
 
-### Elena Neira — businessinsider.es
+### Elena Neira — Business Insider España
 Profile: https://press.lootura.com/es/author/businessinsider.es/elena-neira/
 Collected articles: 1
-- 2026-11-01T05:30:00.000Z — [Legendary quiere comprar Lionsgate: un nuevo gigante de Hollywood que no necesitaría tener su propio Netflix](https://www.businessinsider.es/tecnologia/legendary-quiere-comprar-lionsgate-un-nuevo-gigante-hollywood-que-no-necesitaria-tener-su-propio-netflix_7055329_0.html) — businessinsider.es
+- 2026-11-01T05:30:00.000Z — [Legendary quiere comprar Lionsgate: un nuevo gigante de Hollywood que no necesitaría tener su propio Netflix](https://www.businessinsider.es/tecnologia/legendary-quiere-comprar-lionsgate-un-nuevo-gigante-hollywood-que-no-necesitaria-tener-su-propio-netflix_7055329_0.html) — Business Insider España
 
 ### Marta Burgos — El País
 Profile: https://press.lootura.com/es/author/elpais.com/marta-burgos/
 Collected articles: 1
 - 2026-11-01T05:30:00.000Z — [Las medias térmicas con efecto piel que parecen transparentes, pero esconden un forro polar calentito](https://elpais.com/escaparate/estilo-de-vida/medias-termicas-efecto-piel.html) — El País
 
-### Rodrigo Isasi Arce — businessinsider.es
+### Rodrigo Isasi Arce — Business Insider España
 Profile: https://press.lootura.com/es/author/businessinsider.es/rodrigo-isasi-arce/
 Collected articles: 1
-- 2026-11-01T05:30:00.000Z — [Por qué el puerto espacial de las Azores es clave para la soberanía de microlanzadores de la UE y la nave reutilizable Space Rider de la ESA](https://www.businessinsider.es/defensa-espacio/por-que-puerto-espacial-azores-clave-soberania-microlanzadores-ue-nave-reutilizable-space-rider-esa_7055400_0.html) — businessinsider.es
+- 2026-11-01T05:30:00.000Z — [Por qué el puerto espacial de las Azores es clave para la soberanía de microlanzadores de la UE y la nave reutilizable Space Rider de la ESA](https://www.businessinsider.es/defensa-espacio/por-que-puerto-espacial-azores-clave-soberania-microlanzadores-ue-nave-reutilizable-space-rider-esa_7055400_0.html) — Business Insider España
 
 ### Laura Paz Chavarría — El País
 Profile: https://press.lootura.com/es/author/elpais.com/laura-paz-chavarria/
 Collected articles: 1
 - 2026-11-01T05:15:00.000Z — [La almohada de piernas que mejora la comodidad al dormir de lado](https://elpais.com/escaparate/estilo-de-vida/almohada-para-las-piernas.html) — El País
 
-### Sarah Babiker — elsaltodiario.com
+### Sarah Babiker — El Salto
 Profile: https://press.lootura.com/es/author/elsaltodiario.com/sarah-babiker/
 Collected articles: 1
-- 2026-11-01T05:15:00.000Z — [Ceuta como crisis de salud mental: “Romper a la gente física y mentalmente es una estrategia para que se vaya”](https://www.elsaltodiario.com/ceuta/ceuta-crisis-salud-mental-romper-gente-fisica-mentalmente-es-una-estrategia-se-vaya) — elsaltodiario.com
+- 2026-11-01T05:15:00.000Z — [Ceuta como crisis de salud mental: “Romper a la gente física y mentalmente es una estrategia para que se vaya”](https://www.elsaltodiario.com/ceuta/ceuta-crisis-salud-mental-romper-gente-fisica-mentalmente-es-una-estrategia-se-vaya) — El Salto
 
-### Rafael Karoubi — elsaltodiario.com
+### Rafael Karoubi — El Salto
 Profile: https://press.lootura.com/es/author/elsaltodiario.com/rafael-karoubi/
 Collected articles: 1
-- 2026-11-01T05:03:00.000Z — [Emmanuel Todd: “En Francia y Europa los problemas son los mismos: juventud maltratada y élites irresponsables”](https://www.elsaltodiario.com/francia/emmanuel-todd-juventus-maltratada-elites-irresponsables) — elsaltodiario.com
+- 2026-11-01T05:03:00.000Z — [Emmanuel Todd: “En Francia y Europa los problemas son los mismos: juventud maltratada y élites irresponsables”](https://www.elsaltodiario.com/francia/emmanuel-todd-juventus-maltratada-elites-irresponsables) — El Salto
 
-### Alberto Corona — infolibre.es
+### Alberto Corona — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/alberto-corona/
 Collected articles: 1
-- 2026-11-01T05:00:57.000Z — [‘Leviticus’ y el nuevo cine de terror: entre el recambio generacional y el agotamiento de la moraleja](https://www.infolibre.es/cultura/cine/leviticus-nuevo-cine-terror-recambio-generacional-agotamiento-moraleja_1_2239108.html) — infolibre.es
+- 2026-11-01T05:00:57.000Z — [‘Leviticus’ y el nuevo cine de terror: entre el recambio generacional y el agotamiento de la moraleja](https://www.infolibre.es/cultura/cine/leviticus-nuevo-cine-terror-recambio-generacional-agotamiento-moraleja_1_2239108.html) — InfoLibre
 
-### Alfons Cervera — infolibre.es
+### Alfons Cervera — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/alfons-cervera/
 Collected articles: 1
-- 2026-11-01T05:00:57.000Z — [PP y Vox: el sudor frío del miedo](https://www.infolibre.es/opinion/plaza-publica/pp-vox-sudor-frio-miedo_129_2239142.html) — infolibre.es
+- 2026-11-01T05:00:57.000Z — [PP y Vox: el sudor frío del miedo](https://www.infolibre.es/opinion/plaza-publica/pp-vox-sudor-frio-miedo_129_2239142.html) — InfoLibre
 
-### Javier Durán — infolibre.es
+### Javier Durán — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/javier-duran/
 Collected articles: 1
-- 2026-11-01T05:00:57.000Z — [En beneficio de todos, cállese](https://www.infolibre.es/opinion/columnas/nada-que-decir/beneficio-callese_129_2239328.html) — infolibre.es
+- 2026-11-01T05:00:57.000Z — [En beneficio de todos, cállese](https://www.infolibre.es/opinion/columnas/nada-que-decir/beneficio-callese_129_2239328.html) — InfoLibre
 
-### Lucía Mbomío — infolibre.es
+### Lucía Mbomío — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/lucia-mbomio/
 Collected articles: 1
-- 2026-11-01T05:00:57.000Z — [Del vamos a salvarles al vamos a salvarnos de ellos](https://www.infolibre.es/opinion/columnas/pero-el-barrio-no-sale-de-una/salvarles-salvarnos_129_2238827.html) — infolibre.es
+- 2026-11-01T05:00:57.000Z — [Del vamos a salvarles al vamos a salvarnos de ellos](https://www.infolibre.es/opinion/columnas/pero-el-barrio-no-sale-de-una/salvarles-salvarnos_129_2238827.html) — InfoLibre
 
-### Ramon-Jordi Moles Plaza — infolibre.es
+### Ramon-Jordi Moles Plaza — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/ramon-jordi-moles-plaza/
 Collected articles: 1
-- 2026-11-01T05:00:57.000Z — [Milei: “Homo argentum” en España](https://www.infolibre.es/opinion/plaza-publica/milei-homo-argentum-espana_129_2238917.html) — infolibre.es
+- 2026-11-01T05:00:57.000Z — [Milei: “Homo argentum” en España](https://www.infolibre.es/opinion/plaza-publica/milei-homo-argentum-espana_129_2238917.html) — InfoLibre
 
-### Alicia Fernández de Arcaya — infolibre.es
+### Alicia Fernández de Arcaya — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/alicia-fernandez-de-arcaya/
 Collected articles: 1
-- 2026-11-01T05:00:56.000Z — [De la universidad a la FP: ¿por qué los jóvenes con estudios superiores buscan aprender un oficio?](https://www.infolibre.es/politica/universidad-fp-jovenes-estudios-superiores-buscan-aprender-oficio_1_2239330.html) — infolibre.es
+- 2026-11-01T05:00:56.000Z — [De la universidad a la FP: ¿por qué los jóvenes con estudios superiores buscan aprender un oficio?](https://www.infolibre.es/politica/universidad-fp-jovenes-estudios-superiores-buscan-aprender-oficio_1_2239330.html) — InfoLibre
 
-### Daniel Lara — infolibre.es
+### Daniel Lara — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/daniel-lara/
 Collected articles: 1
-- 2026-11-01T05:00:56.000Z — [La eólica marina muere antes de nacer: las elecciones la retrasan al menos a 2034](https://www.infolibre.es/medioambiente/eolica-marina-muere-nacer-elecciones-retrasan-2034_1_2239066.html) — infolibre.es
+- 2026-11-01T05:00:56.000Z — [La eólica marina muere antes de nacer: las elecciones la retrasan al menos a 2034](https://www.infolibre.es/medioambiente/eolica-marina-muere-nacer-elecciones-retrasan-2034_1_2239066.html) — InfoLibre
 
-### Íñigo Marqués Serrano — elsaltodiario.com
+### Íñigo Marqués Serrano — El Salto
 Profile: https://press.lootura.com/es/author/elsaltodiario.com/inigo-marques-serrano/
 Collected articles: 1
-- 2026-11-01T05:00:00.000Z — [Francia, ‘stásis…’ y el odio. Bismillah, ‘c´est les ténèbres’](https://www.elsaltodiario.com/francia/francia-stasis-odio-bismillah-c%C2%B4est-les-tenebres) — elsaltodiario.com
+- 2026-11-01T05:00:00.000Z — [Francia, ‘stásis…’ y el odio. Bismillah, ‘c´est les ténèbres’](https://www.elsaltodiario.com/francia/francia-stasis-odio-bismillah-c%C2%B4est-les-tenebres) — El Salto
 
-### María González Reyes — elsaltodiario.com
+### María González Reyes — El Salto
 Profile: https://press.lootura.com/es/author/elsaltodiario.com/maria-gonzalez-reyes/
 Collected articles: 1
-- 2026-11-01T05:00:00.000Z — [Ceguera vegetal](https://www.elsaltodiario.com/vida-ya/ceguera-vegetal) — elsaltodiario.com
+- 2026-11-01T05:00:00.000Z — [Ceguera vegetal](https://www.elsaltodiario.com/vida-ya/ceguera-vegetal) — El Salto
 
 ### Belinda Saile — El País
 Profile: https://press.lootura.com/es/author/elpais.com/belinda-saile/
@@ -567,18 +567,18 @@ Profile: https://press.lootura.com/es/author/elpais.com/beatriz-perez-galdon/
 Collected articles: 1
 - 2026-11-01T04:30:00.000Z — [Deutsche Boerse: la expansión del negocio y la volatilidad llevan la acción a récord](https://cincodias.elpais.com/mercados-financieros/2026-11-01/deutsche-boerse-la-expansion-del-negocio-y-la-volatilidad-llevan-la-accion-a-record.html) — El País
 
-### David Hernández — 20minutos
+### David Hernández — Computer Hoy
 Profile: https://press.lootura.com/es/author/20minutos.es/david-hernandez/
 Collected articles: 9
-- 2026-11-01T04:30:00.000Z — [Venden en eBay un superordenador de 60 millones de dólares con 9.600 GPU de NVIDIA y envío gratis](https://computerhoy.20minutos.es/tendencias/venden-ebay-un-superordenador-60-millones-dolares-con-9-600-gpu-nvidia-envio-gratis_7055076_0.html) — 20minutos
-- 2026-10-31T21:25:00.000Z — [Google Chrome se vuelve más inteligente: buscará en tus correos números de pedido y reservas de vuelos](https://computerhoy.20minutos.es/software/google-chrome-se-vuelve-mas-inteligente-buscara-tus-correos-numeros-pedido-reservas-vuelos_7055895_0.html) — 20minutos
-- 2026-10-31T20:57:22.000Z — [Google Maps cambia en Android Auto: ahora muestra el otoño en pantalla con árboles de colores](https://computerhoy.20minutos.es/movilidad/google-maps-cambia-android-auto-ahora-muestra-otono-pantalla-con-arboles-colores_7055891_0.html) — 20minutos
-- 2026-10-31T20:25:00.000Z — [Excel dará un paso más con Copilot: pronto podrá buscar, limpiar y cargar datos automáticamente por ti](https://computerhoy.20minutos.es/software/excel-dara-un-paso-mas-con-copilot-pronto-podra-buscar-limpiar-cargar-datos-automaticamente-por-ti_7055887_0.html) — 20minutos
-- 2026-10-31T19:50:06.000Z — [Microsoft mejora Windows 11 para evitar que tu portátil se quede sin batería mientras no lo usas](https://computerhoy.20minutos.es/software/microsoft-mejora-windows-11-para-evitar-que-tu-portatil-se-quede-sin-bateria-mientras-no-usas_7055883_0.html) — 20minutos
-- 2026-10-31T19:25:01.000Z — [Detectan 319 extensiones de Chrome que secuestran tus búsquedas: acumulan 13,4 millones de instalaciones](https://computerhoy.20minutos.es/ciberseguridad/detectan-319-extensiones-chrome-que-secuestran-tus-busquedas-acumulan-13-4-millones-instalaciones_7055877_0.html) — 20minutos
-- 2026-10-31T17:20:00.000Z — [Gemini quiere convertirse en tu nueva suite ofimática: ya crea y edita PDF sin salir del chat](https://computerhoy.20minutos.es/tecnologia/gemini-quiere-convertirse-tu-nueva-suite-ofimatica-ya-crea-edita-pdf-sin-salir-chat_7055822_0.html) — 20minutos
-- 2026-10-31T15:20:00.000Z — [Android Auto se prepara para uno de sus mayores cambios: YouTube y los navegadores cada vez más cerca](https://computerhoy.20minutos.es/movilidad/android-auto-se-prepara-para-uno-sus-mayores-cambios-youtube-los-navegadores-cada-vez-mas-cerca_7055816_0.html) — 20minutos
-- 2026-10-31T14:43:53.000Z — [Google quiere acabar con una de las limitaciones de Chrome al buscar palabras dentro de una web](https://computerhoy.20minutos.es/software/google-quiere-acabar-con-una-las-limitaciones-chrome-buscar-palabras-dentro-una-web_7055813_0.html) — 20minutos
+- 2026-11-01T04:30:00.000Z — [Venden en eBay un superordenador de 60 millones de dólares con 9.600 GPU de NVIDIA y envío gratis](https://computerhoy.20minutos.es/tendencias/venden-ebay-un-superordenador-60-millones-dolares-con-9-600-gpu-nvidia-envio-gratis_7055076_0.html) — Computer Hoy
+- 2026-10-31T21:25:00.000Z — [Google Chrome se vuelve más inteligente: buscará en tus correos números de pedido y reservas de vuelos](https://computerhoy.20minutos.es/software/google-chrome-se-vuelve-mas-inteligente-buscara-tus-correos-numeros-pedido-reservas-vuelos_7055895_0.html) — Computer Hoy
+- 2026-10-31T20:57:22.000Z — [Google Maps cambia en Android Auto: ahora muestra el otoño en pantalla con árboles de colores](https://computerhoy.20minutos.es/movilidad/google-maps-cambia-android-auto-ahora-muestra-otono-pantalla-con-arboles-colores_7055891_0.html) — Computer Hoy
+- 2026-10-31T20:25:00.000Z — [Excel dará un paso más con Copilot: pronto podrá buscar, limpiar y cargar datos automáticamente por ti](https://computerhoy.20minutos.es/software/excel-dara-un-paso-mas-con-copilot-pronto-podra-buscar-limpiar-cargar-datos-automaticamente-por-ti_7055887_0.html) — Computer Hoy
+- 2026-10-31T19:50:06.000Z — [Microsoft mejora Windows 11 para evitar que tu portátil se quede sin batería mientras no lo usas](https://computerhoy.20minutos.es/software/microsoft-mejora-windows-11-para-evitar-que-tu-portatil-se-quede-sin-bateria-mientras-no-usas_7055883_0.html) — Computer Hoy
+- 2026-10-31T19:25:01.000Z — [Detectan 319 extensiones de Chrome que secuestran tus búsquedas: acumulan 13,4 millones de instalaciones](https://computerhoy.20minutos.es/ciberseguridad/detectan-319-extensiones-chrome-que-secuestran-tus-busquedas-acumulan-13-4-millones-instalaciones_7055877_0.html) — Computer Hoy
+- 2026-10-31T17:20:00.000Z — [Gemini quiere convertirse en tu nueva suite ofimática: ya crea y edita PDF sin salir del chat](https://computerhoy.20minutos.es/tecnologia/gemini-quiere-convertirse-tu-nueva-suite-ofimatica-ya-crea-edita-pdf-sin-salir-chat_7055822_0.html) — Computer Hoy
+- 2026-10-31T15:20:00.000Z — [Android Auto se prepara para uno de sus mayores cambios: YouTube y los navegadores cada vez más cerca](https://computerhoy.20minutos.es/movilidad/android-auto-se-prepara-para-uno-sus-mayores-cambios-youtube-los-navegadores-cada-vez-mas-cerca_7055816_0.html) — Computer Hoy
+- 2026-10-31T14:43:53.000Z — [Google quiere acabar con una de las limitaciones de Chrome al buscar palabras dentro de una web](https://computerhoy.20minutos.es/software/google-quiere-acabar-con-una-las-limitaciones-chrome-buscar-palabras-dentro-una-web_7055813_0.html) — Computer Hoy
 
 ### Jose Miguel Barjola — El País
 Profile: https://press.lootura.com/es/author/elpais.com/jose-miguel-barjola/
@@ -764,10 +764,10 @@ Profile: https://press.lootura.com/es/author/elcorreo.com/ixone-diaz-landaluce/
 Collected articles: 1
 - 2026-10-31T23:37:11.000Z — [«Todo está bien, pero estás jodido»: el calvario de sufrir una enfermedad sin nombre](https://www.elcorreo.com/sociedad/bien-jodido-calvario-sufrir-enfermedad-nombre-20261101152022-nt.html) — El Correo
 
-### Marc Pons — elnacional.cat
+### Marc Pons — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/marc-pons/
 Collected articles: 1
-- 2026-10-31T23:34:41.000Z — [La pesta i la guerra impulsen la primera massacre contra la minoria jueva](https://www.elnacional.cat/ca/efemerides/pesta-guerra-impulsen-primera-massacre-contra-minoria-jueva_1718710_102.html) — elnacional.cat
+- 2026-10-31T23:34:41.000Z — [La pesta i la guerra impulsen la primera massacre contra la minoria jueva](https://www.elnacional.cat/ca/efemerides/pesta-guerra-impulsen-primera-massacre-contra-minoria-jueva_1718710_102.html) — El Nacional
 
 ### Elena García — OK Diario
 Profile: https://press.lootura.com/es/author/okdiario.com/elena-garcia/
@@ -849,10 +849,10 @@ Profile: https://press.lootura.com/es/author/elpais.com/diego-mancera/
 Collected articles: 1
 - 2026-10-31T23:05:24.000Z — [El oficio de coleccionar un ‘cachito’ de la Fórmula 1 en México](https://elpais.com/mexico/2026-10-31/el-oficio-de-coleccionar-un-cachito-de-la-formula-1-en-mexico.html) — El País
 
-### Ángel Roca Valverde — elnacional.cat
+### Ángel Roca Valverde — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/angel-roca-valverde/
 Collected articles: 1
-- 2026-10-31T23:05:00.000Z — [Els AirPods Max 2 d'Apple es desplomen 260 euros gràcies a l'11 de l'11 d'AliExpress](https://www.elnacional.cat/ca/tecnologia/airpods-max-2-apple-es-desplomen-260-euros-gracies-11-11-aliexpress_1717879_102.html) — elnacional.cat
+- 2026-10-31T23:05:00.000Z — [Els AirPods Max 2 d'Apple es desplomen 260 euros gràcies a l'11 de l'11 d'AliExpress](https://www.elnacional.cat/ca/tecnologia/airpods-max-2-apple-es-desplomen-260-euros-gracies-11-11-aliexpress_1717879_102.html) — El Nacional
 
 ### Mikel Madinabeitia — El Diario Vasco
 Profile: https://press.lootura.com/es/author/diariovasco.com/mikel-madinabeitia/
@@ -869,15 +869,15 @@ Profile: https://press.lootura.com/es/author/eldiario.es/naiare-rodriguez-perez/
 Collected articles: 1
 - 2026-10-31T23:00:24.000Z — [Peracense, en Teruel, busca relevo para mantener vivo el bar del pueblo: “No buscamos a alguien que venga de paso”](https://www.eldiario.es/aragon/sociedad/peracense-teruel-busca-relevo-mantener-vivo-bar-pueblo-no-buscamos-alguien-venga-paso_1_13626553.html) — elDiario.es
 
-### Gabriela Martínez — elnacional.cat
+### Gabriela Martínez — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/gabriela-martinez/
 Collected articles: 1
-- 2026-10-31T22:55:53.000Z — [Reddit canviarà per sempre: ja no podràs navegar per la plataforma sense tenir un compte](https://www.elnacional.cat/ca/tecnologia/reddit-canviara-sempre-ja-no-podras-navegar-plataforma-sense-tenir-compte_1718755_102.html) — elnacional.cat
+- 2026-10-31T22:55:53.000Z — [Reddit canviarà per sempre: ja no podràs navegar per la plataforma sense tenir un compte](https://www.elnacional.cat/ca/tecnologia/reddit-canviara-sempre-ja-no-podras-navegar-plataforma-sense-tenir-compte_1718755_102.html) — El Nacional
 
-### Guillem RS — elnacional.cat
+### Guillem RS — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/guillem-rs/
 Collected articles: 1
-- 2026-10-31T22:45:00.000Z — [Blocus no es presenta al segon assalt a Barcelona: la pressió policial atura una nova nit de caos](https://www.elnacional.cat/ca/societat/blocus-no-es-presenta-segon-assalt-barcelona-mossos_1718758_102.html) — elnacional.cat
+- 2026-10-31T22:45:00.000Z — [Blocus no es presenta al segon assalt a Barcelona: la pressió policial atura una nova nit de caos](https://www.elnacional.cat/ca/societat/blocus-no-es-presenta-segon-assalt-barcelona-mossos_1718758_102.html) — El Nacional
 
 ### Oriol Puigdemont — El País
 Profile: https://press.lootura.com/es/author/elpais.com/oriol-puigdemont/
@@ -947,11 +947,11 @@ Profile: https://press.lootura.com/es/author/larazon.es/santiago-felipe/
 Collected articles: 1
 - 2026-10-31T22:03:28.000Z — [Herida una mujer de unos 70 años al ser atropellada por un turismo en la plaza de Castilla y León en Valladolid](https://www.larazon.es/castilla-y-leon/herida-mujer-70-anos-ser-atropellada-turismo-plaza-castilla-leon-valladolid_202610316ae665b06973466c29e4ca6d.html) — La Razón
 
-### Bernat Aguilar — elnacional.cat
+### Bernat Aguilar — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/bernat-aguilar/
 Collected articles: 2
-- 2026-10-31T22:02:57.000Z — [Barça - Alabès de LaLiga EA Sports, DIRECTE | Resultat, resum i gols](https://www.elnacional.cat/ca/esports/barca-alabes-directe-ultima-hora-partit-laliga-ea-sports-avui_13327_126.html) — elnacional.cat
-- 2026-10-31T21:59:40.000Z — [Les notes del Barça - Alabès de LaLiga EA Sports: tres estrelles blaugrana fan molta por](https://www.elnacional.cat/ca/esports/notes-barca-alabes-laliga-ea-sports-aprovats-suspensos_1718731_102.html) — elnacional.cat
+- 2026-10-31T22:02:57.000Z — [Barça - Alabès de LaLiga EA Sports, DIRECTE | Resultat, resum i gols](https://www.elnacional.cat/ca/esports/barca-alabes-directe-ultima-hora-partit-laliga-ea-sports-avui_13327_126.html) — El Nacional
+- 2026-10-31T21:59:40.000Z — [Les notes del Barça - Alabès de LaLiga EA Sports: tres estrelles blaugrana fan molta por](https://www.elnacional.cat/ca/esports/notes-barca-alabes-laliga-ea-sports-aprovats-suspensos_1718731_102.html) — El Nacional
 
 ### Tania Sieira — ABC
 Profile: https://press.lootura.com/es/author/abc.es/tania-sieira/
@@ -973,18 +973,18 @@ Profile: https://press.lootura.com/es/author/eldebate.com/juan-vallaure/
 Collected articles: 1
 - 2026-10-31T21:59:55.000Z — [El Barça vuelve a sus orígenes y olvida la semana negra aplastando al Alavés en el Camp Nou](https://www.eldebate.com/deportes/futbol/la-liga/20261031/barca-vuelve-origenes-olvida-semana-negra-aplastando-alaves-camp-nou_476040.html) — El Debate
 
-### Gerard Romañach — elnacional.cat
+### Gerard Romañach — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/gerard-romanach/
 Collected articles: 1
-- 2026-10-31T21:58:19.000Z — [Un Barça terrorífic espanta els fantasmes contra l'Alabès (6-1) i s'aferra al lideratge de la Lliga](https://www.elnacional.cat/ca/esports/barca-terrorific-espanta-fantasmes-contra-alabes-6-1-aferra-lideratge-lliga_1718737_102.html) — elnacional.cat
+- 2026-10-31T21:58:19.000Z — [Un Barça terrorífic espanta els fantasmes contra l'Alabès (6-1) i s'aferra al lideratge de la Lliga](https://www.elnacional.cat/ca/esports/barca-terrorific-espanta-fantasmes-contra-alabes-6-1-aferra-lideratge-lliga_1718737_102.html) — El Nacional
 
-### Pau Espí Solé — naciodigital.cat
+### Pau Espí Solé — Nació Digital
 Profile: https://press.lootura.com/es/author/naciodigital.cat/pau-espi-sole/
 Collected articles: 4
-- 2026-10-31T21:57:12.000Z — [El Barça es refà i goleja l'Alabès per recuperar el lideratge](https://naciodigital.cat/esports/el-barca-es-refa-i-goleja-lalabes-per-recuperar-el-lideratge.html) — naciodigital.cat
-- 2026-10-31T20:19:41.000Z — [Els organitzadors de l’acampada de Sol aixequen la protesta per «preparar la vaga general»](https://naciodigital.cat/societat/els-organitzadors-de-lacampada-de-sol-aixequen-la-protesta-per-preparar-la-vaga-general.html) — naciodigital.cat
-- 2026-10-31T18:43:53.000Z — [Ens governa gent perillosa](https://naciodigital.cat/opinio/ens-governa-gent-perillosa.html) — naciodigital.cat
-- 2026-10-31T15:39:08.000Z — [Barcelona supera la convocatòria de Blocus: un miler d’indentificats però sense incidents](https://naciodigital.cat/societat/primeres-identificacions-dels-mossos-a-barcelona-davant-lamenaca-de-noves-protestes-de-blocus.html) — naciodigital.cat
+- 2026-10-31T21:57:12.000Z — [El Barça es refà i goleja l'Alabès per recuperar el lideratge](https://naciodigital.cat/esports/el-barca-es-refa-i-goleja-lalabes-per-recuperar-el-lideratge.html) — Nació Digital
+- 2026-10-31T20:19:41.000Z — [Els organitzadors de l’acampada de Sol aixequen la protesta per «preparar la vaga general»](https://naciodigital.cat/societat/els-organitzadors-de-lacampada-de-sol-aixequen-la-protesta-per-preparar-la-vaga-general.html) — Nació Digital
+- 2026-10-31T18:43:53.000Z — [Ens governa gent perillosa](https://naciodigital.cat/opinio/ens-governa-gent-perillosa.html) — Nació Digital
+- 2026-10-31T15:39:08.000Z — [Barcelona supera la convocatòria de Blocus: un miler d’indentificats però sense incidents](https://naciodigital.cat/societat/primeres-identificacions-dels-mossos-a-barcelona-davant-lamenaca-de-noves-protestes-de-blocus.html) — Nació Digital
 
 ### Daniel Izeddin — El Mundo
 Profile: https://press.lootura.com/es/author/elmundo.es/daniel-izeddin/
@@ -1041,23 +1041,23 @@ Profile: https://press.lootura.com/es/author/eldiario.es/toni-fuentes/
 Collected articles: 1
 - 2026-10-31T21:12:19.000Z — [¿Qué coche electrificado me compro? Guía para no perderse en el laberinto de las tecnologías](https://www.eldiario.es/motor/tecnologia/coche-electrificado-compro-guia-no-perderse-laberinto-tecnologias_1_13598234.html) — elDiario.es
 
-### Adrià Asbert — elnacional.cat
+### Adrià Asbert — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/adria-asbert/
 Collected articles: 3
-- 2026-10-31T21:09:44.000Z — [Controls i identificacions massives de Mossos al centre de Barcelona per la nova convocatòria de Blocus](https://www.elnacional.cat/ca/societat/controls-identificacions-massives-mossos-centre-barcelona-nova-convocatoria-blocus_1718698_102.html) — elnacional.cat
-- 2026-10-31T20:50:53.000Z — [Les víctimes de la dana tornen a sortir als carrers de València dos anys després de la tragèdia](https://www.elnacional.cat/ca/societat/victimes-dana-tornen-sortir-carrers-valencia-dos-anys-despres-tragedia_1718743_102.html) — elnacional.cat
-- 2026-10-31T19:45:04.000Z — [La majoria dels acampats a Sol decideix abandonar la protesta per preparar la vaga general de l'11N](https://www.elnacional.cat/ca/politica/majoria-acampats-sol-decideix-abandonar-protesta-preparar-vaga-general-11n_1718728_102.html) — elnacional.cat
+- 2026-10-31T21:09:44.000Z — [Controls i identificacions massives de Mossos al centre de Barcelona per la nova convocatòria de Blocus](https://www.elnacional.cat/ca/societat/controls-identificacions-massives-mossos-centre-barcelona-nova-convocatoria-blocus_1718698_102.html) — El Nacional
+- 2026-10-31T20:50:53.000Z — [Les víctimes de la dana tornen a sortir als carrers de València dos anys després de la tragèdia](https://www.elnacional.cat/ca/societat/victimes-dana-tornen-sortir-carrers-valencia-dos-anys-despres-tragedia_1718743_102.html) — El Nacional
+- 2026-10-31T19:45:04.000Z — [La majoria dels acampats a Sol decideix abandonar la protesta per preparar la vaga general de l'11N](https://www.elnacional.cat/ca/politica/majoria-acampats-sol-decideix-abandonar-protesta-preparar-vaga-general-11n_1718728_102.html) — El Nacional
 
-### Lluís Tomàs — elnacional.cat
+### Lluís Tomàs — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/lluis-tomas/
 Collected articles: 1
-- 2026-10-31T21:04:24.000Z — [Blocus, segona convocatòria a Barcelona, DIRECTE | Última hora del moviment de xarxes](https://www.elnacional.cat/ca/en-directe/blocus-segona-convocatoria-barcelona-directe-ultima-hora-protesta-avui_13330_126.html) — elnacional.cat
+- 2026-10-31T21:04:24.000Z — [Blocus, segona convocatòria a Barcelona, DIRECTE | Última hora del moviment de xarxes](https://www.elnacional.cat/ca/en-directe/blocus-segona-convocatoria-barcelona-directe-ultima-hora-protesta-avui_13330_126.html) — El Nacional
 
-### Maria Pentinat — elnacional.cat
+### Maria Pentinat — El Nacional
 Profile: https://press.lootura.com/es/author/elnacional.cat/maria-pentinat/
 Collected articles: 2
-- 2026-10-31T20:57:11.000Z — [Mossos deté a Cabrera d'Anoia un jove acusat de dinamitzar un dels grups de Telegram de Blocus Barcelona](https://www.elnacional.cat/ca/societat/mossos-dete-cabrera-anoia-jove-acusat-dinamitzar-grups-telegram-blocus-barcelona_1718692_102.html) — elnacional.cat
-- 2026-10-31T20:52:55.000Z — [Internament per al menor detingut a Sant Sadurní d'Anoia acusat d'agitar grups de Blocus a Barcelona](https://www.elnacional.cat/ca/societat/internament-menor-detingut-sant-sadurni-anoia-acusat-agitar-grups-blocus-barcelona_1718740_102.html) — elnacional.cat
+- 2026-10-31T20:57:11.000Z — [Mossos deté a Cabrera d'Anoia un jove acusat de dinamitzar un dels grups de Telegram de Blocus Barcelona](https://www.elnacional.cat/ca/societat/mossos-dete-cabrera-anoia-jove-acusat-dinamitzar-grups-telegram-blocus-barcelona_1718692_102.html) — El Nacional
+- 2026-10-31T20:52:55.000Z — [Internament per al menor detingut a Sant Sadurní d'Anoia acusat d'agitar grups de Blocus a Barcelona](https://www.elnacional.cat/ca/societat/internament-menor-detingut-sant-sadurni-anoia-acusat-agitar-grups-blocus-barcelona_1718740_102.html) — El Nacional
 
 ### Javier Magariño Fernández — El País
 Profile: https://press.lootura.com/es/author/elpais.com/javier-magarino-fernandez/
@@ -1065,10 +1065,10 @@ Collected articles: 2
 - 2026-10-31T20:47:13.000Z — [Renfe elevará sus condiciones de seguridad en la línea Madrid-Sevilla para evitar nuevos siniestros](https://elpais.com/espana/2026-10-31/renfe-eleva-sus-condiciones-de-seguridad-en-la-linea-madrid-sevilla-para-evitar-nuevos-siniestros.html) — El País
 - 2026-10-29T12:44:19.000Z — [La maquinista del Iryo de Urda intentó desbloquear su tren dos veces sin éxito y buscó asistencia de su empresa antes de la colisión](https://elpais.com/espana/2026-10-29/la-maquinista-del-iryo-de-urda-intento-desbloquear-su-tren-en-dos-ocasiones-sin-exito-y-busco-el-consejo-de-su-empresa-antes-de-la-colision.html) — El País
 
-### Borja Pérez — leonoticias.com
+### Borja Pérez — Leonoticias
 Profile: https://press.lootura.com/es/author/leonoticias.com/borja-perez/
 Collected articles: 1
-- 2026-10-31T20:35:35.000Z — [El Abanca Ademar no puede con un invicto Bidasoa que termina exhibiendo su potencial en el Palacio](https://www.leonoticias.com/deportes/ademar/abanca-ademar-puede-invicto-bidasoa-termina-exhibiendo-20261031213535-nt.html) — leonoticias.com
+- 2026-10-31T20:35:35.000Z — [El Abanca Ademar no puede con un invicto Bidasoa que termina exhibiendo su potencial en el Palacio](https://www.leonoticias.com/deportes/ademar/abanca-ademar-puede-invicto-bidasoa-termina-exhibiendo-20261031213535-nt.html) — Leonoticias
 
 ### Alvaro Rodriguez — OK Diario
 Profile: https://press.lootura.com/es/author/okdiario.com/alvaro-rodriguez/
@@ -1127,12 +1127,12 @@ Profile: https://press.lootura.com/es/author/expansion.com/michael-peel/
 Collected articles: 1
 - 2026-10-31T19:14:09.000Z — [La IA amenaza con romper las claves de la seguridad digital](https://www.expansion.com/economia/financial-times/2026/10/31/ia-amenaza-romper-claves-seguridad-digital.html) — Expansión
 
-### Sergio Ramiro — elplural.com
+### Sergio Ramiro — El Plural
 Profile: https://press.lootura.com/es/author/elplural.com/sergio-ramiro/
 Collected articles: 3
-- 2026-10-31T19:05:40.000Z — [Mossos y Guardia Urbana ponen en marcha un "despliegue policial inédito" en Barcelona ante los llamamientos de Blocus](https://www.elplural.com/politica/espana/mossos-guardia-urbana-ponen-marcha-despliegue-policial-inedito-barcelona-llamamientos-blocus_802930102) — elplural.com
-- 2026-10-31T17:53:50.000Z — [Valencia sale a la calle dos años después de la DANA bajo el lema 'Mazón a presó'](https://www.elplural.com/autonomias/comunidad-valenciana/valencia-sale-calle-dos-anos-despues-dana-bajo-lema-mazon-preso_802926102) — elplural.com
-- 2026-10-31T13:06:09.000Z — [Urda y sus vecinos celebran una misa funeral en honor a los fallecidos en la tragedia ferroviaria](https://www.elplural.com/politica/espana/urda-vecinos-celebran-misa-funeral-honor-fallecidos-tragedia-ferroviaria_802921102) — elplural.com
+- 2026-10-31T19:05:40.000Z — [Mossos y Guardia Urbana ponen en marcha un "despliegue policial inédito" en Barcelona ante los llamamientos de Blocus](https://www.elplural.com/politica/espana/mossos-guardia-urbana-ponen-marcha-despliegue-policial-inedito-barcelona-llamamientos-blocus_802930102) — El Plural
+- 2026-10-31T17:53:50.000Z — [Valencia sale a la calle dos años después de la DANA bajo el lema 'Mazón a presó'](https://www.elplural.com/autonomias/comunidad-valenciana/valencia-sale-calle-dos-anos-despues-dana-bajo-lema-mazon-preso_802926102) — El Plural
+- 2026-10-31T13:06:09.000Z — [Urda y sus vecinos celebran una misa funeral en honor a los fallecidos en la tragedia ferroviaria](https://www.elplural.com/politica/espana/urda-vecinos-celebran-misa-funeral-honor-fallecidos-tragedia-ferroviaria_802921102) — El Plural
 
 ### Aglaia Berlutti — Hipertextual
 Profile: https://press.lootura.com/es/author/hipertextual.com/aglaia-berlutti/
@@ -1174,10 +1174,10 @@ Profile: https://press.lootura.com/es/author/elmundo.es/ana-lopez-garcia/
 Collected articles: 1
 - 2026-10-31T18:26:04.000Z — ["Dar miedo al Gobierno": disfraces, enfrentamientos y al menos 296 detenidos en una nueva jornada de protestas en Francia](https://www.elmundo.es/internacional/2026/10/31/6ae604d3e85ece2a368b458f.html) — El Mundo
 
-### Lluís Girona — naciodigital.cat
+### Lluís Girona — Nació Digital
 Profile: https://press.lootura.com/es/author/naciodigital.cat/lluis-girona/
 Collected articles: 1
-- 2026-10-31T18:23:32.000Z — [El precedent català de les coalicions al Senat: quan perdre vots dona millor resultat](https://naciodigital.cat/politica/el-precedent-catala-de-les-coalicions-al-senat-quan-perdre-vots-dona-millor-resultat.html) — naciodigital.cat
+- 2026-10-31T18:23:32.000Z — [El precedent català de les coalicions al Senat: quan perdre vots dona millor resultat](https://naciodigital.cat/politica/el-precedent-catala-de-les-coalicions-al-senat-quan-perdre-vots-dona-millor-resultat.html) — Nació Digital
 
 ### Enrique Bolland — La Vanguardia
 Profile: https://press.lootura.com/es/author/lavanguardia.com/enrique-bolland/
@@ -1194,21 +1194,21 @@ Profile: https://press.lootura.com/es/author/hipertextual.com/luis-miranda/
 Collected articles: 1
 - 2026-10-31T18:00:00.000Z — [Una herramienta revela que tus chats de IA borrados podrían seguir en el móvil](https://hipertextual.com/inteligencia-artificial/recuperar-chats-ia-borrados-android) — Hipertextual
 
-### Pep Martí — naciodigital.cat
+### Pep Martí — Nació Digital
 Profile: https://press.lootura.com/es/author/naciodigital.cat/pep-marti/
 Collected articles: 2
-- 2026-10-31T17:35:30.000Z — [«Cada campanya electoral ha estat més bruta que l'anterior, i aquesta també ho serà»](https://naciodigital.cat/politica/antoni-biarnes-politoleg-cada-campanya-electoral-ha-estat-mes-bruta-que-lanterior-i-aquesta-tambe-ho-sera.html) — naciodigital.cat
-- 2026-10-31T14:27:12.000Z — [«Existeix la violència gratuïta?»: què diuen els experts sobre les convocatòries d'aldarulls](https://naciodigital.cat/societat/existeix-la-violencia-gratuita-que-diuen-els-experts-sobre-les-convocatories-daldarulls.html) — naciodigital.cat
+- 2026-10-31T17:35:30.000Z — [«Cada campanya electoral ha estat més bruta que l'anterior, i aquesta també ho serà»](https://naciodigital.cat/politica/antoni-biarnes-politoleg-cada-campanya-electoral-ha-estat-mes-bruta-que-lanterior-i-aquesta-tambe-ho-sera.html) — Nació Digital
+- 2026-10-31T14:27:12.000Z — [«Existeix la violència gratuïta?»: què diuen els experts sobre les convocatòries d'aldarulls](https://naciodigital.cat/societat/existeix-la-violencia-gratuita-que-diuen-els-experts-sobre-les-convocatories-daldarulls.html) — Nació Digital
 
 ### Daniel Duch Dausa — La Vanguardia
 Profile: https://press.lootura.com/es/author/lavanguardia.com/daniel-duch-dausa/
 Collected articles: 1
 - 2026-10-31T17:29:07.000Z — [Europa bajo presión tras una ola de protestas que sacude el continente, en imágenes](https://www.lavanguardia.com/fotos/20261031/11672927/europa-presion-ola-protestas-sacude-continente-imagenes.html) — La Vanguardia
 
-### Martina Madaula — elsaltodiario.com
+### Martina Madaula — El Salto
 Profile: https://press.lootura.com/es/author/elsaltodiario.com/martina-madaula/
 Collected articles: 1
-- 2026-10-31T17:10:00.000Z — [Los Pakales, un nuevo cuerpo de seguridad que refuerza la militarización en México](https://www.elsaltodiario.com/yemaya-revista/pakales-un-nuevo-cuerpo-seguridad-refuerza-militarizacion-mexico) — elsaltodiario.com
+- 2026-10-31T17:10:00.000Z — [Los Pakales, un nuevo cuerpo de seguridad que refuerza la militarización en México](https://www.elsaltodiario.com/yemaya-revista/pakales-un-nuevo-cuerpo-seguridad-refuerza-militarizacion-mexico) — El Salto
 
 ### Gonzalo Franco — Hipertextual
 Profile: https://press.lootura.com/es/author/hipertextual.com/gonzalo-franco/
@@ -1245,30 +1245,30 @@ Profile: https://press.lootura.com/es/author/expansion.com/juande-portillo/
 Collected articles: 1
 - 2026-10-31T14:46:05.000Z — [La Gran Manzana se disfraza de calabaza por Halloween](https://www.expansion.com/estilo-vida/2026/10/31/gran-manzana-disfraza-calabaza-halloween.html) — Expansión
 
-### Diego Pérez Delgado — newtral.es
+### Diego Pérez Delgado — Newtral
 Profile: https://press.lootura.com/es/author/newtral.es/diego-perez-delgado/
 Collected articles: 1
-- 2026-10-31T14:12:22.000Z — [Este vídeo de Marc Giró pidiendo disculpas no es actual ni tiene relación con su entrevista a Óscar Puente](https://www.newtral.es/marc-giro-video/20261031) — newtral.es
+- 2026-10-31T14:12:22.000Z — [Este vídeo de Marc Giró pidiendo disculpas no es actual ni tiene relación con su entrevista a Óscar Puente](https://www.newtral.es/marc-giro-video/20261031) — Newtral
 
 ### Denisse López — El País
 Profile: https://press.lootura.com/es/author/elpais.com/denisse-lopez/
 Collected articles: 1
 - 2026-10-31T13:18:33.000Z — [Claves de la nueva tasa de 2 euros a Shein, Temu y AliExpress: así funciona el recargo a las compras ‘online’ extracomunitarias](https://elpais.com/economia/2026-10-31/claves-de-la-nueva-tasa-de-2-euros-a-shein-temu-y-aliexpress-asi-funciona-el-recargo-a-las-compras-online-extracomunitarias.html) — El País
 
-### El Temps — naciodigital.cat
+### El Temps — Nació Digital
 Profile: https://press.lootura.com/es/author/naciodigital.cat/el-temps/
 Collected articles: 1
-- 2026-10-31T12:39:54.000Z — [Centre Octubre: 20 anys sent la casa de tots](https://naciodigital.cat/societat/centre-octubre-20-anys-sent-la-casa-de-tots.html) — naciodigital.cat
+- 2026-10-31T12:39:54.000Z — [Centre Octubre: 20 anys sent la casa de tots](https://naciodigital.cat/societat/centre-octubre-20-anys-sent-la-casa-de-tots.html) — Nació Digital
 
-### Xavier Aliaga — naciodigital.cat
+### Xavier Aliaga — Nació Digital
 Profile: https://press.lootura.com/es/author/naciodigital.cat/xavier-aliaga/
 Collected articles: 1
-- 2026-10-31T12:39:54.000Z — [Centre Octubre: 20 anys sent la casa de tots](https://naciodigital.cat/societat/centre-octubre-20-anys-sent-la-casa-de-tots.html) — naciodigital.cat
+- 2026-10-31T12:39:54.000Z — [Centre Octubre: 20 anys sent la casa de tots](https://naciodigital.cat/societat/centre-octubre-20-anys-sent-la-casa-de-tots.html) — Nació Digital
 
-### Pedro Venegas — 20minutos
+### Pedro Venegas — Computer Hoy
 Profile: https://press.lootura.com/es/author/20minutos.es/pedro-venegas/
 Collected articles: 1
-- 2026-10-31T12:00:00.000Z — [Marcelo Vázquez, experto en ciberseguridad: "¿Windows o Linux? Lo sabes cambiando una letra, si te devuelve lo mismo, es Windows"](https://computerhoy.20minutos.es/ciberseguridad/marcelo-vazquez-experto-ciberseguridad-windows-linux-sabes-cambiando-una-letra-si-te-devuelve-mismo-es-windows_7049088_0.html) — 20minutos
+- 2026-10-31T12:00:00.000Z — [Marcelo Vázquez, experto en ciberseguridad: "¿Windows o Linux? Lo sabes cambiando una letra, si te devuelve lo mismo, es Windows"](https://computerhoy.20minutos.es/ciberseguridad/marcelo-vazquez-experto-ciberseguridad-windows-linux-sabes-cambiando-una-letra-si-te-devuelve-mismo-es-windows_7049088_0.html) — Computer Hoy
 
 ### Cinco Días — El País
 Profile: https://press.lootura.com/es/author/elpais.com/cinco-dias/
@@ -1280,76 +1280,76 @@ Profile: https://press.lootura.com/es/author/abc.es/j-g-m/
 Collected articles: 1
 - 2026-10-31T11:49:07.000Z — [Muere la compositora Marisa Manchado en el accidente de tren de Urda](https://www.abc.es/cultura/muere-compositora-marisa-manchado-accidente-tren-urda-20261031124419-nt.html) — ABC
 
-### Verónica García — newtral.es
+### Verónica García — Newtral
 Profile: https://press.lootura.com/es/author/newtral.es/veronica-garcia/
 Collected articles: 1
-- 2026-10-31T10:10:49.000Z — [Más de 10 ciudades españolas cuentan con alguna convocatoria de ‘Blocus’ para este 31 de octubre](https://www.newtral.es/mas-13-ciudades-espana-convocatorias-blocus/20261031) — newtral.es
+- 2026-10-31T10:10:49.000Z — [Más de 10 ciudades españolas cuentan con alguna convocatoria de ‘Blocus’ para este 31 de octubre](https://www.newtral.es/mas-13-ciudades-espana-convocatorias-blocus/20261031) — Newtral
 
-### Tania Calahorra — businessinsider.es
+### Tania Calahorra — Business Insider España
 Profile: https://press.lootura.com/es/author/businessinsider.es/tania-calahorra/
 Collected articles: 1
-- 2026-10-31T09:27:37.000Z — [El Gobierno de España pagará hasta 3.000 euros de ayuda para reducir el gasto en calefacción a miles de ciudadanos](https://www.businessinsider.es/economia/gobierno-espana-paga-miles-ciudadanos-ayuda-calefaccion-3000-euros_7021942_0.html) — businessinsider.es
+- 2026-10-31T09:27:37.000Z — [El Gobierno de España pagará hasta 3.000 euros de ayuda para reducir el gasto en calefacción a miles de ciudadanos](https://www.businessinsider.es/economia/gobierno-espana-paga-miles-ciudadanos-ayuda-calefaccion-3000-euros_7021942_0.html) — Business Insider España
 
-### Mamen Borreguero — businessinsider.es
+### Mamen Borreguero — Business Insider España
 Profile: https://press.lootura.com/es/author/businessinsider.es/mamen-borreguero/
 Collected articles: 2
-- 2026-10-31T08:01:35.000Z — [Dow Jones baja un 1%: Wall Street cierra la semana con su peor jornada desde junio por las tecnológicas](https://www.businessinsider.es/mercados/dow-jones-baja-wall-street-peor-jornada-desde-junio-por-las-tecnologicas_7055719_0.html) — businessinsider.es
-- 2026-09-30T21:24:43.000Z — [Dow Jones baja un 0,8%: la mayoría de las acciones caen en una semana en rojo para Wall Street](https://www.businessinsider.es/mercados/dow-jones-baja-wall-street-hoy-semana_7043311_0.html) — businessinsider.es
+- 2026-10-31T08:01:35.000Z — [Dow Jones baja un 1%: Wall Street cierra la semana con su peor jornada desde junio por las tecnológicas](https://www.businessinsider.es/mercados/dow-jones-baja-wall-street-peor-jornada-desde-junio-por-las-tecnologicas_7055719_0.html) — Business Insider España
+- 2026-09-30T21:24:43.000Z — [Dow Jones baja un 0,8%: la mayoría de las acciones caen en una semana en rojo para Wall Street](https://www.businessinsider.es/mercados/dow-jones-baja-wall-street-hoy-semana_7043311_0.html) — Business Insider España
 
 ### Elisa Prieto — El País
 Profile: https://press.lootura.com/es/author/elpais.com/elisa-prieto/
 Collected articles: 1
 - 2026-10-31T07:30:00.000Z — [Halloween: la sangre es falsa, el secreto es real](https://cincodias.elpais.com/legal/2026-10-31/halloween-la-sangre-es-falsa-el-secreto-es-real.html) — El País
 
-### Natalia Hernández Rojo — businessinsider.es
+### Natalia Hernández Rojo — Business Insider España
 Profile: https://press.lootura.com/es/author/businessinsider.es/natalia-hernandez-rojo/
 Collected articles: 1
-- 2026-10-31T07:24:19.000Z — [Corea del Norte y el arte del hackeo: Binance sufre el mayor ataque de la historia cripto](https://www.businessinsider.es/tecnologia/corea-norte-arte-hackeo-binance-mayor-ataque-historia-cripto_7055402_0.html) — businessinsider.es
+- 2026-10-31T07:24:19.000Z — [Corea del Norte y el arte del hackeo: Binance sufre el mayor ataque de la historia cripto](https://www.businessinsider.es/tecnologia/corea-norte-arte-hackeo-binance-mayor-ataque-historia-cripto_7055402_0.html) — Business Insider España
 
-### Carlos Brage — infolibre.es
+### Carlos Brage — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/carlos-brage/
 Collected articles: 1
-- 2026-10-31T05:00:47.000Z — [El porvenir que ofrece el autoritarismo](https://www.infolibre.es/club-infolibre/librepensadores/porvenir-ofrece-autoritarismo_129_2238985.html) — infolibre.es
+- 2026-10-31T05:00:47.000Z — [El porvenir que ofrece el autoritarismo](https://www.infolibre.es/club-infolibre/librepensadores/porvenir-ofrece-autoritarismo_129_2238985.html) — InfoLibre
 
-### Gorka Larrabeiti — infolibre.es
+### Gorka Larrabeiti — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/gorka-larrabeiti/
 Collected articles: 1
-- 2026-10-31T05:00:46.000Z — [Italia: lo raro, lo viejo, lo nuevo](https://www.infolibre.es/opinion/plaza-publica/italia-raro-viejo-nuevo_129_2239017.html) — infolibre.es
+- 2026-10-31T05:00:46.000Z — [Italia: lo raro, lo viejo, lo nuevo](https://www.infolibre.es/opinion/plaza-publica/italia-raro-viejo-nuevo_129_2239017.html) — InfoLibre
 
-### Paco Ochoa — infolibre.es
+### Paco Ochoa — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/paco-ochoa/
 Collected articles: 1
-- 2026-10-31T05:00:46.000Z — [¡Que vienen los comunistas!](https://www.infolibre.es/club-infolibre/librepensadores/vienen-comunistas_129_2239119.html) — infolibre.es
+- 2026-10-31T05:00:46.000Z — [¡Que vienen los comunistas!](https://www.infolibre.es/club-infolibre/librepensadores/vienen-comunistas_129_2239119.html) — InfoLibre
 
-### Antonio Somoza — infolibre.es
+### Antonio Somoza — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/antonio-somoza/
 Collected articles: 1
-- 2026-10-31T05:00:45.000Z — [Vota, pero lucha](https://www.infolibre.es/opinion/plaza-publica/vota-lucha_129_2238998.html) — infolibre.es
+- 2026-10-31T05:00:45.000Z — [Vota, pero lucha](https://www.infolibre.es/opinion/plaza-publica/vota-lucha_129_2238998.html) — InfoLibre
 
-### El Chojin — infolibre.es
+### El Chojin — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/el-chojin/
 Collected articles: 1
-- 2026-10-31T05:00:45.000Z — [Carta a los expertos en trenes](https://www.infolibre.es/opinion/columnas/fuera-de-cobertura/carta-expertos-trenes_129_2239297.html) — infolibre.es
+- 2026-10-31T05:00:45.000Z — [Carta a los expertos en trenes](https://www.infolibre.es/opinion/columnas/fuera-de-cobertura/carta-expertos-trenes_129_2239297.html) — InfoLibre
 
-### Ideas en Guerra — infolibre.es
+### Ideas en Guerra — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/ideas-en-guerra/
 Collected articles: 1
-- 2026-10-31T05:00:45.000Z — [Dictadura, democracia y la épica de la memoria](https://www.infolibre.es/opinion/columnas/cambiar-la-vida/dictadura-democracia-epica-memoria_129_2239107.html) — infolibre.es
+- 2026-10-31T05:00:45.000Z — [Dictadura, democracia y la épica de la memoria](https://www.infolibre.es/opinion/columnas/cambiar-la-vida/dictadura-democracia-epica-memoria_129_2239107.html) — InfoLibre
 
-### Manuel Altozano — infolibre.es
+### Manuel Altozano — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/manuel-altozano/
 Collected articles: 1
-- 2026-10-31T05:00:44.000Z — [La lista de votantes de la 'ley de nietos' que estudia el Supremo contiene datos de residentes en España](https://www.infolibre.es/politica/lista-votantes-ley-nietos-estudia-supremo-contiene-datos-residentes-espana_1_2239266.html) — infolibre.es
+- 2026-10-31T05:00:44.000Z — [La lista de votantes de la 'ley de nietos' que estudia el Supremo contiene datos de residentes en España](https://www.infolibre.es/politica/lista-votantes-ley-nietos-estudia-supremo-contiene-datos-residentes-espana_1_2239266.html) — InfoLibre
 
-### Marcos García Quesada — infolibre.es
+### Marcos García Quesada — InfoLibre
 Profile: https://press.lootura.com/es/author/infolibre.es/marcos-garcia-quesada/
 Collected articles: 1
-- 2026-10-31T05:00:44.000Z — [Una batalla entre sindicatos divide la lucha laboral de los médicos de toda España en plena ola de huelgas](https://www.infolibre.es/politica/batalla-organizaciones-representan-medicos-divide-lucha-sindical_1_2239092.html) — infolibre.es
+- 2026-10-31T05:00:44.000Z — [Una batalla entre sindicatos divide la lucha laboral de los médicos de toda España en plena ola de huelgas](https://www.infolibre.es/politica/batalla-organizaciones-representan-medicos-divide-lucha-sindical_1_2239092.html) — InfoLibre
 
-### Blanca Perelló — newtral.es
+### Blanca Perelló — Newtral
 Profile: https://press.lootura.com/es/author/newtral.es/blanca-perello/
 Collected articles: 1
-- 2026-10-31T05:00:00.000Z — [Del #AllDemocratsAreCriminals a la tragedia de Urda: la injerencia prorrusa en las ‘midterms’ estadounidenses en 2026](https://www.newtral.es/rusia-desinformacion-midterms-estados-unidos/20261031) — newtral.es
+- 2026-10-31T05:00:00.000Z — [Del #AllDemocratsAreCriminals a la tragedia de Urda: la injerencia prorrusa en las ‘midterms’ estadounidenses en 2026](https://www.newtral.es/rusia-desinformacion-midterms-estados-unidos/20261031) — Newtral
 
 ### Andrea García — El País
 Profile: https://press.lootura.com/es/author/elpais.com/andrea-garcia/
@@ -1456,18 +1456,18 @@ Profile: https://press.lootura.com/es/author/elcorreo.com/melchor-saiz-pardo/
 Collected articles: 1
 - 2026-10-15T15:57:49.000Z — [Calama amplía el caso Plus Ultra a tres cargos de la Seguridad Social por el rescate tras una reunión de Zapatero con Escrivá](https://www.elcorreo.com/politica/calama-amplia-plus-ultra-tres-cargos-seguridad-20261015175748-ntrc_amp.html) — El Correo
 
-### Alejandro Tobalina — 20minutos
+### Alejandro Tobalina — Computer Hoy
 Profile: https://press.lootura.com/es/author/20minutos.es/alejandro-tobalina/
 Collected articles: 2
-- 2026-10-15T12:13:30.000Z — [Delgado ve "viable" que Podemos y Frente Amplio se enfrenten en Cataluña y Madrid y Belarra ofrece a IU unidad en otros territorios](https://www.20minutos.es/nacional/delgado-ve-viable-que-podemos-frente-amplio-se-enfrenten-madrid-cataluna-belarra-ofrece-unidad-iu-otros-territorios_7049149_0.html) — 20minutos
-- 2026-10-12T18:10:39.000Z — [Frente Amplio confirma a Colau como candidata el 29N y llama a Podemos a unirse tras su acuerdo con Rufián](https://www.20minutos.es/nacional/frente-amplio-propone-ada-colau-como-cabeza-lista-las-elecciones-29n_7047873_0.html) — 20minutos
+- 2026-10-15T12:13:30.000Z — [Delgado ve "viable" que Podemos y Frente Amplio se enfrenten en Cataluña y Madrid y Belarra ofrece a IU unidad en otros territorios](https://www.20minutos.es/nacional/delgado-ve-viable-que-podemos-frente-amplio-se-enfrenten-madrid-cataluna-belarra-ofrece-unidad-iu-otros-territorios_7049149_0.html) — Computer Hoy
+- 2026-10-12T18:10:39.000Z — [Frente Amplio confirma a Colau como candidata el 29N y llama a Podemos a unirse tras su acuerdo con Rufián](https://www.20minutos.es/nacional/frente-amplio-propone-ada-colau-como-cabeza-lista-las-elecciones-29n_7047873_0.html) — Computer Hoy
 
-### Pedro Buenaventura — 20minutos
+### Pedro Buenaventura — Computer Hoy
 Profile: https://press.lootura.com/es/author/20minutos.es/pedro-buenaventura/
 Collected articles: 3
-- 2026-10-15T11:35:09.000Z — [Biedma denuncia que el exjuez ligado a las cloacas la siguió en un coche tras su declaración en la Audiencia](https://www.20minutos.es/nacional/biedma-denuncia-que-exjuez-ligado-las-cloacas-siguio-un-coche-blanco-su-vuelta-declarar-audiencia-nacional_7049185_0.html) — 20minutos
-- 2026-09-17T12:27:43.000Z — [La Audiencia Nacional da marcha atrás y rechaza paralizar la instalación del campamento del Puerto de Ceuta](https://www.20minutos.es/nacional/audiencia-nacional-da-marcha-atras-rechaza-paralizar-instalacion-campamento-puerto-ceuta_7038047_0.html) — 20minutos
-- 2026-09-03T15:01:49.000Z — [Marlaska denuncia ante el CGPJ que se le impidiera acceder al informe sobre Ceuta y el Consejo defiende a la jueza](https://www.20minutos.es/nacional/marlaska-denuncia-ante-cgpj-que-se-le-impidiera-acceder-informe-sobre-ceuta-consejo-defiende-jueza-que-ordeno-veto_7032553_0.html) — 20minutos
+- 2026-10-15T11:35:09.000Z — [Biedma denuncia que el exjuez ligado a las cloacas la siguió en un coche tras su declaración en la Audiencia](https://www.20minutos.es/nacional/biedma-denuncia-que-exjuez-ligado-las-cloacas-siguio-un-coche-blanco-su-vuelta-declarar-audiencia-nacional_7049185_0.html) — Computer Hoy
+- 2026-09-17T12:27:43.000Z — [La Audiencia Nacional da marcha atrás y rechaza paralizar la instalación del campamento del Puerto de Ceuta](https://www.20minutos.es/nacional/audiencia-nacional-da-marcha-atras-rechaza-paralizar-instalacion-campamento-puerto-ceuta_7038047_0.html) — Computer Hoy
+- 2026-09-03T15:01:49.000Z — [Marlaska denuncia ante el CGPJ que se le impidiera acceder al informe sobre Ceuta y el Consejo defiende a la jueza](https://www.20minutos.es/nacional/marlaska-denuncia-ante-cgpj-que-se-le-impidiera-acceder-informe-sobre-ceuta-consejo-defiende-jueza-que-ordeno-veto_7032553_0.html) — Computer Hoy
 
 ### Álvaro Carvajal — El Mundo
 Profile: https://press.lootura.com/es/author/elmundo.es/alvaro-carvajal/
@@ -1491,10 +1491,10 @@ Collected articles: 2
 - 2026-10-14T17:38:47.000Z — [La Fiscalía rectifica y avala ante el juez que la Audiencia Nacional es competente para investigar la querella contra Julio Iglesias](https://www.eldiario.es/politica/fiscalia-rectifica-avala-juez-audiencia-nacional-competente-investigar-querella-julio-iglesias_1_13584127.html) — elDiario.es
 - 2026-09-14T16:55:25.000Z — [Zapatero recurre ante la Audiencia Nacional que se investiguen sus ingresos por negocios en Bolivia](https://www.eldiario.es/politica/zapatero-recurre-audiencia-nacional-investiguen-ingresos-negocios-bolivia_1_13509261.html) — elDiario.es
 
-### Marta Moreno — 20minutos
+### Marta Moreno — Computer Hoy
 Profile: https://press.lootura.com/es/author/20minutos.es/marta-moreno/
 Collected articles: 1
-- 2026-10-14T03:00:00.000Z — [Moncloa dice que cumplirá la resolución del Supremo sobre la 'ley de nietos' pero ve difícil sacar a todos del censo a mes y medio del 29N](https://www.20minutos.es/nacional/moncloa-dice-que-cumplira-resolucion-supremo-sobre-ley-nietos-pero-ve-dificil-sacar-todos-censo-mes-medio-29n_7048366_0.html) — 20minutos
+- 2026-10-14T03:00:00.000Z — [Moncloa dice que cumplirá la resolución del Supremo sobre la 'ley de nietos' pero ve difícil sacar a todos del censo a mes y medio del 29N](https://www.20minutos.es/nacional/moncloa-dice-que-cumplira-resolucion-supremo-sobre-ley-nietos-pero-ve-dificil-sacar-todos-censo-mes-medio-29n_7048366_0.html) — Computer Hoy
 
 ### NEREA SAN ESTEBAN — Expansión
 Profile: https://press.lootura.com/es/author/expansion.com/nerea-san-esteban/
@@ -1861,36 +1861,36 @@ Profile: https://press.lootura.com/us/author/npr.org/tamara-keith/
 Collected articles: 1
 - 2026-11-01T09:00:00.000Z — [Trump thanks supporters for the memories in final campaign stops for 2026 midterms](https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans) — NPR Politics
 
-### Patrick Brzeski — hollywoodreporter.com
+### Patrick Brzeski — Hollywood Reporter
 Profile: https://press.lootura.com/us/author/hollywoodreporter.com/patrick-brzeski/
 Collected articles: 1
-- 2026-11-01T08:57:37.000Z — [‘Godzilla Minus Zero’ Crashes Into Tokyo Film Festival With Stars Ryunosuke Kamiki, Minami Hamabe in Tow](https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-crashes-tokyo-film-festival-ryunosuke-kamiki-minami-hamabe-1236744328) — hollywoodreporter.com
+- 2026-11-01T08:57:37.000Z — [‘Godzilla Minus Zero’ Crashes Into Tokyo Film Festival With Stars Ryunosuke Kamiki, Minami Hamabe in Tow](https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-crashes-tokyo-film-festival-ryunosuke-kamiki-minami-hamabe-1236744328) — Hollywood Reporter
 
-### Marlow Stern — variety.com
+### Marlow Stern — Variety
 Profile: https://press.lootura.com/us/author/variety.com/marlow-stern/
 Collected articles: 3
-- 2026-11-01T08:33:26.000Z — [Inde Navarrette Wins Halloween With Penis-Destroying Robot ‘SNL’ Sketch ‘The Inventor’s Wife’](https://variety.com/2026/tv/news/inde-navarrette-snl-halloween-the-inventors-wife-penis-robot-1236936629) — variety.com
-- 2026-11-01T05:03:38.000Z — [‘SNL’ Weekend Update Finally Weighs in on Israel](https://variety.com/2026/tv/news/snl-weekend-update-israel-stance-michael-che-colin-jost-1236936599) — variety.com
-- 2026-11-01T03:52:55.000Z — [Inde Navarrette Takes Swipe at Shane Gillis During ‘SNL’ Monologue](https://variety.com/2026/tv/news/inde-navarrette-snl-shane-gillis-gym-monologue-1236936565) — variety.com
+- 2026-11-01T08:33:26.000Z — [Inde Navarrette Wins Halloween With Penis-Destroying Robot ‘SNL’ Sketch ‘The Inventor’s Wife’](https://variety.com/2026/tv/news/inde-navarrette-snl-halloween-the-inventors-wife-penis-robot-1236936629) — Variety
+- 2026-11-01T05:03:38.000Z — [‘SNL’ Weekend Update Finally Weighs in on Israel](https://variety.com/2026/tv/news/snl-weekend-update-israel-stance-michael-che-colin-jost-1236936599) — Variety
+- 2026-11-01T03:52:55.000Z — [Inde Navarrette Takes Swipe at Shane Gillis During ‘SNL’ Monologue](https://variety.com/2026/tv/news/inde-navarrette-snl-shane-gillis-gym-monologue-1236936565) — Variety
 
-### The Conversation — fastcompany.com
+### The Conversation — Fast Company
 Profile: https://press.lootura.com/us/author/fastcompany.com/the-conversation/
 Collected articles: 2
-- 2026-11-01T08:30:00.000Z — [Are American voters actually gloomy about the economy?](https://www.fastcompany.com/91633258/are-american-voters-actually-gloomy-about-the-economy?partner=rss) — fastcompany.com
-- 2026-10-31T08:30:00.000Z — [Why cheap health insurance plans can backfire for Americans seeking lower healthcare costs](https://www.fastcompany.com/91631646/cheap-health-insurance-plans-hidden-costs?partner=rss) — fastcompany.com
+- 2026-11-01T08:30:00.000Z — [Are American voters actually gloomy about the economy?](https://www.fastcompany.com/91633258/are-american-voters-actually-gloomy-about-the-economy?partner=rss) — Fast Company
+- 2026-10-31T08:30:00.000Z — [Why cheap health insurance plans can backfire for Americans seeking lower healthcare costs](https://www.fastcompany.com/91631646/cheap-health-insurance-plans-hidden-costs?partner=rss) — Fast Company
 
 ### Phil Wahba — Fortune
 Profile: https://press.lootura.com/us/author/fortune.com/phil-wahba/
 Collected articles: 1
 - 2026-11-01T08:00:00.000Z — [Why Wendy’s is losing the burger wars—and is now a takeover target for Nelson Peltz](https://fortune.com/2026/11/01/wendys-nelson-peltz-trian-take-private-lost-burger-wars) — Fortune
 
-### William Vaillancourt — rollingstone.com
+### William Vaillancourt — Rolling Stone
 Profile: https://press.lootura.com/us/author/rollingstone.com/william-vaillancourt/
 Collected articles: 4
-- 2026-11-01T07:22:52.000Z — ['SNL': Watch Gracie Abrams Perform 'Hit the Wall,' 'Here You Come, There You Go'](https://www.rollingstone.com/music/music-news/snl-watch-gracie-abrams-perform-hit-wall-here-you-come-there-you-go-1235650873) — rollingstone.com
-- 2026-11-01T05:51:33.000Z — ['SNL': Telenovela Star Inde Navarrette's Product Placement Turns Poisonous](https://www.rollingstone.com/tv-movies/tv-movie-news/snl-telenovela-star-inde-navarrettes-product-placement-poisonous-1235650884) — rollingstone.com
-- 2026-11-01T05:16:22.000Z — ['SNL' Weekend Update Mocks Desperate Trump's Midterm Plea, Butt Fixation](https://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-mock-trump-midterm-plea-butt-fixation-1235650882) — rollingstone.com
-- 2026-11-01T04:37:33.000Z — ['SNL' Cold Open: Trump Crashes Tom Hanks' Halloween to Praise His 'Great A\*\*'](https://www.rollingstone.com/tv-movies/tv-movie-news/snl-cold-open-trump-crashes-tom-hanks-halloween-praise-1235650886) — rollingstone.com
+- 2026-11-01T07:22:52.000Z — ['SNL': Watch Gracie Abrams Perform 'Hit the Wall,' 'Here You Come, There You Go'](https://www.rollingstone.com/music/music-news/snl-watch-gracie-abrams-perform-hit-wall-here-you-come-there-you-go-1235650873) — Rolling Stone
+- 2026-11-01T05:51:33.000Z — ['SNL': Telenovela Star Inde Navarrette's Product Placement Turns Poisonous](https://www.rollingstone.com/tv-movies/tv-movie-news/snl-telenovela-star-inde-navarrettes-product-placement-poisonous-1235650884) — Rolling Stone
+- 2026-11-01T05:16:22.000Z — ['SNL' Weekend Update Mocks Desperate Trump's Midterm Plea, Butt Fixation](https://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-mock-trump-midterm-plea-butt-fixation-1235650882) — Rolling Stone
+- 2026-11-01T04:37:33.000Z — ['SNL' Cold Open: Trump Crashes Tom Hanks' Halloween to Praise His 'Great A\*\*'](https://www.rollingstone.com/tv-movies/tv-movie-news/snl-cold-open-trump-crashes-tom-hanks-halloween-praise-1235650886) — Rolling Stone
 
 ### Cristina Corujo — ABC News
 Profile: https://press.lootura.com/us/author/abcnews.com/cristina-corujo/
@@ -1937,17 +1937,17 @@ Profile: https://press.lootura.com/us/author/theguardian.com/william-christou/
 Collected articles: 1
 - 2026-11-01T06:00:03.000Z — [‘What’s our crime?’: A Palestinian family’s fight to get care for son injured by Hamas rocket](https://www.theguardian.com/world/2026/nov/01/palestinian-family-fight-care-son-hamas-rocket) — The Guardian US
 
-### Sawdah Bhaimiya — cnbc.com
+### Sawdah Bhaimiya — CNBC
 Profile: https://press.lootura.com/us/author/cnbc.com/sawdah-bhaimiya/
 Collected articles: 1
-- 2026-11-01T06:00:01.000Z — [Companies promised AI gains— here's how the payoff showed up in earnings](https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html) — cnbc.com
+- 2026-11-01T06:00:01.000Z — [Companies promised AI gains— here's how the payoff showed up in earnings](https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html) — CNBC
 
-### Naman Ramachandran — variety.com
+### Naman Ramachandran — Variety
 Profile: https://press.lootura.com/us/author/variety.com/naman-ramachandran/
 Collected articles: 3
-- 2026-11-01T05:18:22.000Z — [‘Godzilla Minus Zero’ Stars Relive Hollywood Ovation and Fan Chants for Yamazaki Takashi at Tokyo Festival](https://variety.com/2026/film/festivals/godzilla-minus-zero-stars-relive-hollywood-ovation-tokyo-festival-1236936612) — variety.com
-- 2026-11-01T00:46:15.000Z — [Pandemic-Era Longing to Gather Fed Qiu Jiongjiong’s Tokyo Competition Title ‘Fuxi: Four Tales of Feasting’](https://variety.com/2026/film/festivals/pandemic-longing-gather-tokyo-competition-title-fuxi-1236936421) — variety.com
-- 2026-10-31T22:53:36.000Z — [Tokyo Asian Future Drama ‘Jani Be Good’ Probes Silence and Motherhood in a Chinese-Indonesian Family, Marking Ariani Darmawan’s Return](https://variety.com/2026/film/festivals/tokyo-drama-jani-be-good-silence-motherhood-1236936404) — variety.com
+- 2026-11-01T05:18:22.000Z — [‘Godzilla Minus Zero’ Stars Relive Hollywood Ovation and Fan Chants for Yamazaki Takashi at Tokyo Festival](https://variety.com/2026/film/festivals/godzilla-minus-zero-stars-relive-hollywood-ovation-tokyo-festival-1236936612) — Variety
+- 2026-11-01T00:46:15.000Z — [Pandemic-Era Longing to Gather Fed Qiu Jiongjiong’s Tokyo Competition Title ‘Fuxi: Four Tales of Feasting’](https://variety.com/2026/film/festivals/pandemic-longing-gather-tokyo-competition-title-fuxi-1236936421) — Variety
+- 2026-10-31T22:53:36.000Z — [Tokyo Asian Future Drama ‘Jani Be Good’ Probes Silence and Motherhood in a Chinese-Indonesian Family, Marking Ariani Darmawan’s Return](https://variety.com/2026/film/festivals/tokyo-drama-jani-be-good-silence-motherhood-1236936404) — Variety
 
 ### Deborah Cole in Berlin — The Guardian US
 Profile: https://press.lootura.com/us/author/theguardian.com/deborah-cole-in-berlin/
@@ -1969,11 +1969,11 @@ Profile: https://press.lootura.com/us/author/theguardian.com/sarah-phillips/
 Collected articles: 1
 - 2026-11-01T05:00:03.000Z — [How to improve your memory: 10 easy, enjoyable expert tips – from reading a book to getting more sleep](https://www.theguardian.com/lifeandstyle/2026/nov/01/how-to-improve-your-memory-10-easy-enjoyable-expert-tips-from-reading-a-book-to-getting-more-sleep) — The Guardian US
 
-### Cynthia Littleton — variety.com
+### Cynthia Littleton — Variety
 Profile: https://press.lootura.com/us/author/variety.com/cynthia-littleton/
 Collected articles: 2
-- 2026-11-01T04:56:10.000Z — [‘SNL’ Celebrates Milwaukee Brewers’ World Series Win With Bobby Moynihan’s Drunk Uncle on Weekend Update](https://variety.com/2026/tv/news/drunk-uncle-bobby-moynihan-snl-milwaukee-brewers-world-win-1236936586) — variety.com
-- 2026-11-01T04:03:35.000Z — [‘SNL’ Cold Open Crashed by Tom Hanks as David S. Pumpkins, Nicki Minaj and Donald Trump, Who Admits He ‘Might Be Gay’](https://variety.com/2026/tv/news/tom-hanks-trump-david-pumpkins-snl-nicki-minaj-1236936453) — variety.com
+- 2026-11-01T04:56:10.000Z — [‘SNL’ Celebrates Milwaukee Brewers’ World Series Win With Bobby Moynihan’s Drunk Uncle on Weekend Update](https://variety.com/2026/tv/news/drunk-uncle-bobby-moynihan-snl-milwaukee-brewers-world-win-1236936586) — Variety
+- 2026-11-01T04:03:35.000Z — [‘SNL’ Cold Open Crashed by Tom Hanks as David S. Pumpkins, Nicki Minaj and Donald Trump, Who Admits He ‘Might Be Gay’](https://variety.com/2026/tv/news/tom-hanks-trump-david-pumpkins-snl-nicki-minaj-1236936453) — Variety
 
 ### Trey Wallace — Fox News
 Profile: https://press.lootura.com/us/author/foxnews.com/trey-wallace/
@@ -2014,10 +2014,10 @@ Profile: https://press.lootura.com/us/author/theguardian.com/roque-planas/
 Collected articles: 1
 - 2026-11-01T03:56:49.000Z — [Haley Stevens advised to stay away from Abdul El-Sayed campaign events to limit ‘distractions’](https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events) — The Guardian US
 
-### McKinley Franklin — hollywoodreporter.com
+### McKinley Franklin — Hollywood Reporter
 Profile: https://press.lootura.com/us/author/hollywoodreporter.com/mckinley-franklin/
 Collected articles: 1
-- 2026-11-01T03:54:45.000Z — [‘SNL’: Inde Navarrette Digs at Shane Gillis’ Joke About Women Dressing Like “Whores” at the Gym as Tom Hanks Crashes Cold Open](https://www.hollywoodreporter.com/tv/tv-news/inde-navarrette-snl-shane-gillis-whore-gym-tom-hanks-1236744238) — hollywoodreporter.com
+- 2026-11-01T03:54:45.000Z — [‘SNL’: Inde Navarrette Digs at Shane Gillis’ Joke About Women Dressing Like “Whores” at the Gym as Tom Hanks Crashes Cold Open](https://www.hollywoodreporter.com/tv/tv-news/inde-navarrette-snl-shane-gillis-whore-gym-tom-hanks-1236744238) — Hollywood Reporter
 
 ### Scott Thompson — Fox News
 Profile: https://press.lootura.com/us/author/foxnews.com/scott-thompson/
@@ -2041,23 +2041,23 @@ Profile: https://press.lootura.com/us/author/abcnews.com/armando-garcia/
 Collected articles: 1
 - 2026-11-01T03:25:56.000Z — [Indicted ICE officer accused of intentionally striking man expected to surrender on Monday](https://abcnews.com/US/indicted-ice-officer-accused-intentionally-striking-man-expected-surrender/story?id=137742480) — ABC News
 
-### Tanya Fedak — variety.com
+### Tanya Fedak — Variety
 Profile: https://press.lootura.com/us/author/variety.com/tanya-fedak/
 Collected articles: 1
-- 2026-11-01T03:12:07.000Z — [Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party](https://variety.com/2026/scene/news/heidi-klum-halloween-2026-severed-human-hand-costume-1236935653) — variety.com
+- 2026-11-01T03:12:07.000Z — [Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party](https://variety.com/2026/scene/news/heidi-klum-halloween-2026-severed-human-hand-costume-1236935653) — Variety
 
-### Larisha Paul — rollingstone.com
+### Larisha Paul — Rolling Stone
 Profile: https://press.lootura.com/us/author/rollingstone.com/larisha-paul/
 Collected articles: 1
-- 2026-11-01T03:09:16.000Z — [Harry Styles Honored by Jalen Brunson at Madison Square Garden, Receives 30 Nights Banner](https://www.rollingstone.com/music/music-news/harry-styles-jalen-bruson-banner-msg-psycho-killer-1235648896) — rollingstone.com
+- 2026-11-01T03:09:16.000Z — [Harry Styles Honored by Jalen Brunson at Madison Square Garden, Receives 30 Nights Banner](https://www.rollingstone.com/music/music-news/harry-styles-jalen-bruson-banner-msg-psycho-killer-1235648896) — Rolling Stone
 
-### Laurence Tognetti — universetoday.com
+### Laurence Tognetti — Universe Today
 Profile: https://press.lootura.com/us/author/universetoday.com/laurence-tognetti/
 Collected articles: 4
-- 2026-11-01T03:06:40.000Z — [Martian Polar Crater Ice Shifts with Seasonal Frost](https://www.universetoday.com/articles/martian-polar-crater-ice-shifts-with-seasonal-frost) — universetoday.com
-- 2026-10-31T23:35:52.000Z — [Ceres' Water Ice Can Mask Massive Surface Salt Deposits](https://www.universetoday.com/articles/ceres-water-ice-can-mask-massive-surface-salt-deposits) — universetoday.com
-- 2026-10-31T19:24:37.000Z — [Space Outposts Beyond the Moon May Rely on Planetary AI](https://www.universetoday.com/articles/space-outposts-beyond-the-moon-may-rely-on-planetary-ai) — universetoday.com
-- 2026-10-31T01:52:53.000Z — [Hera Probe Sees Asteroid Pair Separately for First Time](https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time) — universetoday.com
+- 2026-11-01T03:06:40.000Z — [Martian Polar Crater Ice Shifts with Seasonal Frost](https://www.universetoday.com/articles/martian-polar-crater-ice-shifts-with-seasonal-frost) — Universe Today
+- 2026-10-31T23:35:52.000Z — [Ceres' Water Ice Can Mask Massive Surface Salt Deposits](https://www.universetoday.com/articles/ceres-water-ice-can-mask-massive-surface-salt-deposits) — Universe Today
+- 2026-10-31T19:24:37.000Z — [Space Outposts Beyond the Moon May Rely on Planetary AI](https://www.universetoday.com/articles/space-outposts-beyond-the-moon-may-rely-on-planetary-ai) — Universe Today
+- 2026-10-31T01:52:53.000Z — [Hera Probe Sees Asteroid Pair Separately for First Time](https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time) — Universe Today
 
 ### Reid J. Epstein — The New York Times
 Profile: https://press.lootura.com/us/author/nytimes.com/reid-j-epstein/
@@ -2137,11 +2137,11 @@ Profile: https://press.lootura.com/us/author/theguardian.com/guardian-sport/
 Collected articles: 1
 - 2026-10-31T23:26:06.000Z — [Canelo Álvarez wins back world title as Houthi attacks cast shadow over Riyadh](https://www.theguardian.com/sport/2026/oct/31/canelo-alvarez-christian-mbilli-wbc-world-title-riyadh-boxing) — The Guardian US
 
-### Payton Turkeltaub — variety.com
+### Payton Turkeltaub — Variety
 Profile: https://press.lootura.com/us/author/variety.com/payton-turkeltaub/
 Collected articles: 2
-- 2026-10-31T23:23:28.000Z — [Judge Dismisses Trump’s Wall Street Journal Defamation Lawsuit Over Published Epstein ‘Birthday Book’ for a Second Time](https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423) — variety.com
-- 2026-10-31T20:40:46.000Z — [Paul Bettany Says He ‘Blew Out’ 10 Blood Vessels in His Eye While Filming ‘VisionQuest’: ‘I Was Just Wildly Overacting’](https://variety.com/2026/tv/news/paul-bettany-visionquest-eye-blood-vessels-1236936359) — variety.com
+- 2026-10-31T23:23:28.000Z — [Judge Dismisses Trump’s Wall Street Journal Defamation Lawsuit Over Published Epstein ‘Birthday Book’ for a Second Time](https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423) — Variety
+- 2026-10-31T20:40:46.000Z — [Paul Bettany Says He ‘Blew Out’ 10 Blood Vessels in His Eye While Filming ‘VisionQuest’: ‘I Was Just Wildly Overacting’](https://variety.com/2026/tv/news/paul-bettany-visionquest-eye-blood-vessels-1236936359) — Variety
 
 ### Nicholas Riccardi — PBS NewsHour
 Profile: https://press.lootura.com/us/author/pbs.org/nicholas-riccardi/
@@ -2154,10 +2154,10 @@ Profile: https://press.lootura.com/us/author/pbs.org/bill-barrow/
 Collected articles: 1
 - 2026-10-31T23:14:59.000Z — [Paxton and Talarico tussle for Texas Senate seat as Trump campaigns virtually](https://www.pbs.org/newshour/politics/paxton-and-talarico-tussle-for-texas-senate-seat-as-trump-campaigns-virtually) — PBS NewsHour
 
-### Cris Tolomia — qz.com
+### Cris Tolomia — Quartz
 Profile: https://press.lootura.com/us/author/qz.com/cris-tolomia/
 Collected articles: 1
-- 2026-10-31T23:11:57.000Z — [10 signs U.S. homebuyer demand is sinking, from Seattle to Las Vegas](https://qz.com/signs-us-homebuyer-demands-sinking) — qz.com
+- 2026-10-31T23:11:57.000Z — [10 signs U.S. homebuyer demand is sinking, from Seattle to Las Vegas](https://qz.com/signs-us-homebuyer-demands-sinking) — Quartz
 
 ### Pranav Baskar — The New York Times World
 Profile: https://press.lootura.com/us/author/nytimes.com/pranav-baskar/
@@ -2180,11 +2180,11 @@ Profile: https://press.lootura.com/us/author/nytimes.com/marc-santora/
 Collected articles: 1
 - 2026-10-31T22:54:18.000Z — [Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks](https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html) — The New York Times
 
-### Kayla Guo — texastribune.org
+### Kayla Guo — The Texas Tribune
 Profile: https://press.lootura.com/us/author/texastribune.org/kayla-guo/
 Collected articles: 2
-- 2026-10-31T22:51:16.000Z — [Ken Paxton appears to cancel final rally of his “Come and Take It” tour at the Alamo](https://feeds.texastribune.org/link/16799/17512198/ken-paxton-alamo-election-2026-james-talarico) — texastribune.org
-- 2026-10-31T10:00:00.000Z — [With U.S. Senate control at stake, Republicans fear the once-unthinkable: a blue Texas](https://feeds.texastribune.org/link/16799/17511972/texas-us-senate-election-paxton-talarico-final-push-election-day) — texastribune.org
+- 2026-10-31T22:51:16.000Z — [Ken Paxton appears to cancel final rally of his “Come and Take It” tour at the Alamo](https://feeds.texastribune.org/link/16799/17512198/ken-paxton-alamo-election-2026-james-talarico) — The Texas Tribune
+- 2026-10-31T10:00:00.000Z — [With U.S. Senate control at stake, Republicans fear the once-unthinkable: a blue Texas](https://feeds.texastribune.org/link/16799/17511972/texas-us-senate-election-paxton-talarico-final-push-election-day) — The Texas Tribune
 
 ### Chandelis Duster — NPR Politics
 Profile: https://press.lootura.com/us/author/npr.org/chandelis-duster/
@@ -2198,16 +2198,16 @@ Profile: https://press.lootura.com/us/author/nytimes.com/michael-kruse/
 Collected articles: 1
 - 2026-10-31T22:45:39.000Z — [Susan Collins Is Always Keeping Score](https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html) — The New York Times
 
-### Lexi Carson — hollywoodreporter.com
+### Lexi Carson — Hollywood Reporter
 Profile: https://press.lootura.com/us/author/hollywoodreporter.com/lexi-carson/
 Collected articles: 1
-- 2026-10-31T22:41:34.000Z — [‘Klara and the Sun’ Director Taika Waititi Calls Critics “Sad Lost Souls” Over Negative Reviews](https://www.hollywoodreporter.com/movies/movie-news/klara-and-the-sun-taika-waititi-slams-critics-reviews-1236744227) — hollywoodreporter.com
+- 2026-10-31T22:41:34.000Z — [‘Klara and the Sun’ Director Taika Waititi Calls Critics “Sad Lost Souls” Over Negative Reviews](https://www.hollywoodreporter.com/movies/movie-news/klara-and-the-sun-taika-waititi-slams-critics-reviews-1236744227) — Hollywood Reporter
 
-### Leo Barraclough — variety.com
+### Leo Barraclough — Variety
 Profile: https://press.lootura.com/us/author/variety.com/leo-barraclough/
 Collected articles: 2
-- 2026-10-31T22:34:25.000Z — [Frank Miller on Why He’s Relieved There Are Fewer Comic Book Adaptations Now: They Were ‘Really in Danger of Losing Their Souls’](https://variety.com/2026/film/global/frank-miller-comic-book-movies-lucca-1236936369) — variety.com
-- 2026-10-31T19:04:50.000Z — [‘Percy Jackson’ Stars on Learning to Scream and Sob on Set of Season 3: ‘I Love Playing the Dark Type of Scenes’](https://variety.com/2026/tv/global/percy-jackson-season-3-lucca-1236936128) — variety.com
+- 2026-10-31T22:34:25.000Z — [Frank Miller on Why He’s Relieved There Are Fewer Comic Book Adaptations Now: They Were ‘Really in Danger of Losing Their Souls’](https://variety.com/2026/film/global/frank-miller-comic-book-movies-lucca-1236936369) — Variety
+- 2026-10-31T19:04:50.000Z — [‘Percy Jackson’ Stars on Learning to Scream and Sob on Set of Season 3: ‘I Love Playing the Dark Type of Scenes’](https://variety.com/2026/tv/global/percy-jackson-season-3-lucca-1236936128) — Variety
 
 ### Dave Collins — PBS NewsHour
 Profile: https://press.lootura.com/us/author/pbs.org/dave-collins/
@@ -2234,10 +2234,10 @@ Profile: https://press.lootura.com/us/author/nytimes.com/david-yaffe-bellany/
 Collected articles: 1
 - 2026-10-31T22:19:49.000Z — [How Binance’s $6.3 Billion Hack Went Down](https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html) — The New York Times
 
-### Mona Charen — thebulwark.com
+### Mona Charen — The Bulwark
 Profile: https://press.lootura.com/us/author/thebulwark.com/mona-charen/
 Collected articles: 1
-- 2026-10-31T22:18:30.000Z — [DOGE Was Supposed to Save Money. It Did the Opposite. (w/ Max Stier)](https://www.thebulwark.com/p/doge-was-supposed-to-save-money-it) — thebulwark.com
+- 2026-10-31T22:18:30.000Z — [DOGE Was Supposed to Save Money. It Did the Opposite. (w/ Max Stier)](https://www.thebulwark.com/p/doge-was-supposed-to-save-money-it) — The Bulwark
 
 ### Jason Ma — Fortune
 Profile: https://press.lootura.com/us/author/fortune.com/jason-ma/
@@ -2249,11 +2249,11 @@ Profile: https://press.lootura.com/us/author/foxnews.com/stephanie-giang-paunon/
 Collected articles: 1
 - 2026-10-31T22:00:15.000Z — [Jessie James Decker sets internet ablaze after spraying passenger’s bare foot on her armrest during flight](https://www.foxnews.com/entertainment/jessie-james-decker-sets-internet-ablaze-spraying-passengers-bare-foot-armrest-during-flight) — Fox News
 
-### Erin Lassner — hollywoodreporter.com
+### Erin Lassner — Hollywood Reporter
 Profile: https://press.lootura.com/us/author/hollywoodreporter.com/erin-lassner/
 Collected articles: 2
-- 2026-10-31T21:57:19.000Z — [Where to Watch 'O.J.'s Accomplice,' New Docuseries Reexamining the 1994 Murders](https://www.hollywoodreporter.com/tv/tv-news/watch-ojs-accomplice-2026-oj-simpson-doc-peacock-free-trial-1236744180) — hollywoodreporter.com
-- 2026-10-31T20:00:00.000Z — [WNBA Finals Game 7: Where to Watch the Valkyries vs. Dream Title Clincher Online](https://www.hollywoodreporter.com/tv/tv-news/watch-dream-valkyries-game-7-wnba-finals-free-stream-2026-1236743915) — hollywoodreporter.com
+- 2026-10-31T21:57:19.000Z — [Where to Watch 'O.J.'s Accomplice,' New Docuseries Reexamining the 1994 Murders](https://www.hollywoodreporter.com/tv/tv-news/watch-ojs-accomplice-2026-oj-simpson-doc-peacock-free-trial-1236744180) — Hollywood Reporter
+- 2026-10-31T20:00:00.000Z — [WNBA Finals Game 7: Where to Watch the Valkyries vs. Dream Title Clincher Online](https://www.hollywoodreporter.com/tv/tv-news/watch-dream-valkyries-game-7-wnba-finals-free-stream-2026-1236743915) — Hollywood Reporter
 
 ### Catherine Porter — The New York Times World
 Profile: https://press.lootura.com/us/author/nytimes.com/catherine-porter/
@@ -2303,15 +2303,15 @@ Profile: https://press.lootura.com/us/author/techcrunch.com/techcrunch-events/
 Collected articles: 1
 - 2026-10-31T21:36:07.000Z — [How Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale) — TechCrunch
 
-### Tim Miller — thebulwark.com
+### Tim Miller — The Bulwark
 Profile: https://press.lootura.com/us/author/thebulwark.com/tim-miller/
 Collected articles: 1
-- 2026-10-31T21:33:16.000Z — [A MAGA Blowhard’s $1 MILLION Bet Just Blew Up in His Face](https://www.thebulwark.com/p/whoops-this-maga-blowhard-made-a) — thebulwark.com
+- 2026-10-31T21:33:16.000Z — [A MAGA Blowhard’s $1 MILLION Bet Just Blew Up in His Face](https://www.thebulwark.com/p/whoops-this-maga-blowhard-made-a) — The Bulwark
 
-### Jenni Monet — motherjones.com
+### Jenni Monet — Mother Jones
 Profile: https://press.lootura.com/us/author/motherjones.com/jenni-monet/
 Collected articles: 1
-- 2026-10-31T21:31:54.000Z — [Deb Haaland Was a Climate Hero of the Left. Now She Wants to Govern Oil-Rich New Mexico.](https://www.motherjones.com/politics/2026/10/deb-haaland-new-mexico-governors-race) — motherjones.com
+- 2026-10-31T21:31:54.000Z — [Deb Haaland Was a Climate Hero of the Left. Now She Wants to Govern Oil-Rich New Mexico.](https://www.motherjones.com/politics/2026/10/deb-haaland-new-mexico-governors-race) — Mother Jones
 
 ### Sylvia Goodman — NPR Politics
 Profile: https://press.lootura.com/us/author/npr.org/sylvia-goodman/
@@ -2381,68 +2381,68 @@ Profile: https://press.lootura.com/us/author/pbs.org/joshua-goodman/
 Collected articles: 1
 - 2026-10-31T20:50:16.000Z — [FBI visits Dan J. Sullivan donor in candidate's hometown as Alaska Senate inquiry widens](https://www.pbs.org/newshour/politics/fbi-visits-dan-j-sullivan-donor-in-candidates-hometown-as-alaska-senate-inquiry-widens) — PBS NewsHour
 
-### Ethan Shanfeld — variety.com
+### Ethan Shanfeld — Variety
 Profile: https://press.lootura.com/us/author/variety.com/ethan-shanfeld/
 Collected articles: 1
-- 2026-10-31T20:34:02.000Z — [Amy Poehler: ‘Comedy Has Saved My Life Many Times’](https://variety.com/2026/tv/news/amy-poehler-comedy-has-saved-my-life-1236936332) — variety.com
+- 2026-10-31T20:34:02.000Z — [Amy Poehler: ‘Comedy Has Saved My Life Many Times’](https://variety.com/2026/tv/news/amy-poehler-comedy-has-saved-my-life-1236936332) — Variety
 
 ### Marina Dunbar — The Guardian US
 Profile: https://press.lootura.com/us/author/theguardian.com/marina-dunbar/
 Collected articles: 1
 - 2026-10-31T20:31:39.000Z — [Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter](https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein) — The Guardian US
 
-### Marta Balaga — variety.com
+### Marta Balaga — Variety
 Profile: https://press.lootura.com/us/author/variety.com/marta-balaga/
 Collected articles: 1
-- 2026-10-31T20:30:00.000Z — [Alex Gibney-Produced ‘Mohabat,’ Directed by James Longley, Wins at Ji.hlava: The Film Is ‘Meticulously Researched and Exquisitely Crafted’](https://variety.com/2026/film/awards/alex-gibney-mohabat-james-longley-winner-jihlava-1236935998) — variety.com
+- 2026-10-31T20:30:00.000Z — [Alex Gibney-Produced ‘Mohabat,’ Directed by James Longley, Wins at Ji.hlava: The Film Is ‘Meticulously Researched and Exquisitely Crafted’](https://variety.com/2026/film/awards/alex-gibney-mohabat-james-longley-winner-jihlava-1236935998) — Variety
 
-### Ben Berkowitz — axios.com
+### Ben Berkowitz — Axios
 Profile: https://press.lootura.com/us/author/axios.com/ben-berkowitz/
 Collected articles: 2
-- 2026-10-31T20:22:31.000Z — [Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story](https://www.axios.com/2026/10/31/trump-epstein-wsj-murdoch) — axios.com
-- 2026-10-31T17:32:31.000Z — [D.C., Virginia sue to block Trump's 250-foot arch](https://www.axios.com/2026/10/31/trump-arch-dc-virginia) — axios.com
+- 2026-10-31T20:22:31.000Z — [Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story](https://www.axios.com/2026/10/31/trump-epstein-wsj-murdoch) — Axios
+- 2026-10-31T17:32:31.000Z — [D.C., Virginia sue to block Trump's 250-foot arch](https://www.axios.com/2026/10/31/trump-arch-dc-virginia) — Axios
 
 ### Yeganeh Torbati — The New York Times Politics
 Profile: https://press.lootura.com/us/author/nytimes.com/yeganeh-torbati/
 Collected articles: 1
 - 2026-10-31T20:04:18.000Z — [Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections](https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html) — The New York Times Politics
 
-### Colleen DeGuzman — texastribune.org
+### Colleen DeGuzman — The Texas Tribune
 Profile: https://press.lootura.com/us/author/texastribune.org/colleen-deguzman/
 Collected articles: 1
-- 2026-10-31T20:02:07.000Z — [More than 7.4 million Texans voted early in 2026 election, nearly matching 2018 pace](https://feeds.texastribune.org/link/16799/17512169/texas-early-voting-turnout-rate-election-2026) — texastribune.org
+- 2026-10-31T20:02:07.000Z — [More than 7.4 million Texans voted early in 2026 election, nearly matching 2018 pace](https://feeds.texastribune.org/link/16799/17512169/texas-early-voting-turnout-rate-election-2026) — The Texas Tribune
 
-### Ashley Capoot — cnbc.com
+### Ashley Capoot — CNBC
 Profile: https://press.lootura.com/us/author/cnbc.com/ashley-capoot/
 Collected articles: 1
-- 2026-10-31T19:56:23.000Z — [OpenAI pares fundraising goal, now seeking up to $20 billion in latest round](https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html) — cnbc.com
+- 2026-10-31T19:56:23.000Z — [OpenAI pares fundraising goal, now seeking up to $20 billion in latest round](https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html) — CNBC
 
-### Lora Kolodny — cnbc.com
+### Lora Kolodny — CNBC
 Profile: https://press.lootura.com/us/author/cnbc.com/lora-kolodny/
 Collected articles: 2
-- 2026-10-31T19:56:23.000Z — [OpenAI pares fundraising goal, now seeking up to $20 billion in latest round](https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html) — cnbc.com
-- 2026-10-31T18:56:21.000Z — [SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution](https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html) — cnbc.com
+- 2026-10-31T19:56:23.000Z — [OpenAI pares fundraising goal, now seeking up to $20 billion in latest round](https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html) — CNBC
+- 2026-10-31T18:56:21.000Z — [SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution](https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html) — CNBC
 
-### Dan Mangan — cnbc.com
+### Dan Mangan — CNBC
 Profile: https://press.lootura.com/us/author/cnbc.com/dan-mangan/
 Collected articles: 1
-- 2026-10-31T19:46:52.000Z — [Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice](https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html) — cnbc.com
+- 2026-10-31T19:46:52.000Z — [Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice](https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html) — CNBC
 
-### Michael Wayland — cnbc.com
+### Michael Wayland — CNBC
 Profile: https://press.lootura.com/us/author/cnbc.com/michael-wayland/
 Collected articles: 2
-- 2026-10-31T19:46:52.000Z — [Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice](https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html) — cnbc.com
-- 2026-10-31T16:03:24.000Z — [Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday](https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html) — cnbc.com
+- 2026-10-31T19:46:52.000Z — [Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice](https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html) — CNBC
+- 2026-10-31T16:03:24.000Z — [Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday](https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html) — CNBC
 
 ### Ed Aarons at Tottenham Hotspur Stadium — The Guardian US
 Profile: https://press.lootura.com/us/author/theguardian.com/ed-aarons-at-tottenham-hotspur-stadium/
 Collected articles: 1
 - 2026-10-31T19:42:20.000Z — [Spurs see off Crystal Palace after Mateta’s early red to pile pressure on Sage](https://www.theguardian.com/football/2026/oct/31/tottenham-crystal-palace-premier-league-match-report) — The Guardian US
 
-### Isabelle Farina — variety.com
+### Isabelle Farina — Variety
 Profile: https://press.lootura.com/us/author/variety.com/isabelle-farina/
 Collected articles: 1
-- 2026-10-31T19:30:00.000Z — [‘Paper Plane,’ ‘Helicopter’ and ‘Old Bogus Massacre’ Among Austin Film Festival Script and Film Competition Award Winners (EXCLUSIVE)](https://variety.com/2026/film/news/austin-film-festival-script-film-award-winners-1236936233) — variety.com
+- 2026-10-31T19:30:00.000Z — [‘Paper Plane,’ ‘Helicopter’ and ‘Old Bogus Massacre’ Among Austin Film Festival Script and Film Competition Award Winners (EXCLUSIVE)](https://variety.com/2026/film/news/austin-film-festival-script-film-award-winners-1236936233) — Variety
 
 ### Gary Fields — PBS NewsHour
 Profile: https://press.lootura.com/us/author/pbs.org/gary-fields/
@@ -2480,10 +2480,10 @@ Profile: https://press.lootura.com/us/author/phys.org/ann-marie-deer-owens/
 Collected articles: 1
 - 2026-10-31T19:00:01.000Z — [Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes](https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html) — Phys.org
 
-### Eoin Higgins — theintercept.com
+### Eoin Higgins — The Intercept
 Profile: https://press.lootura.com/us/author/theintercept.com/eoin-higgins/
 Collected articles: 1
-- 2026-10-31T18:49:42.000Z — [Centrist Democrats Would Rather Lose the Senate Than Win With El-Sayed](https://theintercept.com/2026/10/31/centrist-democrats-el-sayed-senate-israel) — theintercept.com
+- 2026-10-31T18:49:42.000Z — [Centrist Democrats Would Rather Lose the Senate Than Win With El-Sayed](https://theintercept.com/2026/10/31/centrist-democrats-el-sayed-senate-israel) — The Intercept
 
 ### Jennifer Pak — NPR
 Profile: https://press.lootura.com/us/author/npr.org/jennifer-pak/
@@ -2495,12 +2495,12 @@ Profile: https://press.lootura.com/us/author/theguardian.com/sammy-gecsoyler/
 Collected articles: 1
 - 2026-10-31T18:28:30.000Z — [Almost 140 arrested at protest against Palestine Action ban outside US embassy in London](https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london) — The Guardian US
 
-### Sophie Hurwitz — motherjones.com
+### Sophie Hurwitz — Mother Jones
 Profile: https://press.lootura.com/us/author/motherjones.com/sophie-hurwitz/
 Collected articles: 3
-- 2026-10-31T18:18:09.000Z — [Haley Stevens’ fiancé seems dedicated to ruining her career](https://www.motherjones.com/politics/2026/10/haley-stevens-jason-turkish-abdul-el-sayed-michigan-senate) — motherjones.com
-- 2026-10-31T17:59:12.000Z — [Politicians attack data centers while profiting from their construction](https://www.motherjones.com/politics/2026/10/politicians-investments-ai-data-centers) — motherjones.com
-- 2026-10-31T15:58:58.000Z — [Trump’s Iran war brings on record oil company profits](https://www.motherjones.com/politics/2026/10/trumps-iran-war-brings-on-record-oil-company-profits) — motherjones.com
+- 2026-10-31T18:18:09.000Z — [Haley Stevens’ fiancé seems dedicated to ruining her career](https://www.motherjones.com/politics/2026/10/haley-stevens-jason-turkish-abdul-el-sayed-michigan-senate) — Mother Jones
+- 2026-10-31T17:59:12.000Z — [Politicians attack data centers while profiting from their construction](https://www.motherjones.com/politics/2026/10/politicians-investments-ai-data-centers) — Mother Jones
+- 2026-10-31T15:58:58.000Z — [Trump’s Iran war brings on record oil company profits](https://www.motherjones.com/politics/2026/10/trumps-iran-war-brings-on-record-oil-company-profits) — Mother Jones
 
 ### Tom Nouvian — PBS NewsHour
 Profile: https://press.lootura.com/us/author/pbs.org/tom-nouvian/
@@ -2517,10 +2517,10 @@ Profile: https://press.lootura.com/us/author/nytimes.com/andrew-higgins/
 Collected articles: 1
 - 2026-10-31T18:06:13.000Z — [Poland Deploys Riot Police in Standoff Over Country’s Top Court](https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html) — The New York Times Politics
 
-### Eric Lee — theatlantic.com
+### Eric Lee — The Atlantic
 Profile: https://press.lootura.com/us/author/theatlantic.com/eric-lee/
 Collected articles: 1
-- 2026-10-31T18:05:10.000Z — [A Pro-Russia Strongman at Mar-a-Lago](https://www.theatlantic.com/politics/2026/10/serbia-dodik-russia-maga/689246) — theatlantic.com
+- 2026-10-31T18:05:10.000Z — [A Pro-Russia Strongman at Mar-a-Lago](https://www.theatlantic.com/politics/2026/10/serbia-dodik-russia-maga/689246) — The Atlantic
 
 ### Amy Sherman — PBS NewsHour
 Profile: https://press.lootura.com/us/author/pbs.org/amy-sherman/
@@ -2554,10 +2554,10 @@ Profile: https://press.lootura.com/us/author/nytimes.com/vivian-nereim/
 Collected articles: 1
 - 2026-10-31T17:56:18.000Z — [Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages](https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html) — The New York Times Politics
 
-### Harry Siegel — thecityreporter.nyc
+### Harry Siegel — THE CITY
 Profile: https://press.lootura.com/us/author/thecityreporter.nyc/harry-siegel/
 Collected articles: 1
-- 2026-10-31T17:46:10.000Z — [LISTEN: Life, Death and the World in the Confines of One Subway Car](https://www.thecityreporter.nyc/2026/10/31/daniel-penny-jordan-neely-anand-giridharadas-man-mirror-podcast) — thecityreporter.nyc
+- 2026-10-31T17:46:10.000Z — [LISTEN: Life, Death and the World in the Confines of One Subway Car](https://www.thecityreporter.nyc/2026/10/31/daniel-penny-jordan-neely-anand-giridharadas-man-mirror-podcast) — THE CITY
 
 ### Catrin Einhorn — The New York Times Politics
 Profile: https://press.lootura.com/us/author/nytimes.com/catrin-einhorn/
@@ -2606,10 +2606,10 @@ Collected articles: 3
 - 2026-10-31T02:19:44.000Z — [Judge orders Trump administration to stop threatening election officials](https://www.nbcnews.com/politics/2026-election/judge-orders-trump-administration-stop-threatening-election-officials-rcna606659) — NBC News
 - 2026-10-30T22:38:13.000Z — [DOJ requests separating Alaska ballots that rank Dan J. Sullivan in Senate race](https://www.nbcnews.com/politics/2026-election/doj-requests-separating-alaska-ballots-rank-dan-j-sullivan-senate-race-rcna606646) — NBC News
 
-### Jamilah Lemieux — slate.com
+### Jamilah Lemieux — Slate
 Profile: https://press.lootura.com/us/author/slate.com/jamilah-lemieux/
 Collected articles: 1
-- 2026-10-31T17:00:00.000Z — [My Daughter Has a New Approach for Dealing With Her Bully. I’m Not Sure About This.](https://slate.com/advice/2026/10/parenting-advice-bully-curse-doll.html) — slate.com
+- 2026-10-31T17:00:00.000Z — [My Daughter Has a New Approach for Dealing With Her Bully. I’m Not Sure About This.](https://slate.com/advice/2026/10/parenting-advice-bully-curse-doll.html) — Slate
 
 ### Matt Greenberg — The New York Times
 Profile: https://press.lootura.com/us/author/nytimes.com/matt-greenberg/
@@ -2621,15 +2621,15 @@ Profile: https://press.lootura.com/us/author/nbcnews.com/shayna-jacobs/
 Collected articles: 1
 - 2026-10-31T16:44:50.000Z — [Luigi Mangione’s team argues double jeopardy bars state murder trial](https://www.nbcnews.com/news/us-news/mangione-team-argues-double-jeopardy-bars-state-murder-trial-rcna606692) — NBC News
 
-### Daniel Kreps — rollingstone.com
+### Daniel Kreps — Rolling Stone
 Profile: https://press.lootura.com/us/author/rollingstone.com/daniel-kreps/
 Collected articles: 1
-- 2026-10-31T16:38:32.000Z — [Deep Purple Postpone Concerts After Singer Ian Gillan's 'Medical Emergency'](https://www.rollingstone.com/music/music-news/deep-purple-postpone-concerts-ian-gillan-medical-emergency-1235650888) — rollingstone.com
+- 2026-10-31T16:38:32.000Z — [Deep Purple Postpone Concerts After Singer Ian Gillan's 'Medical Emergency'](https://www.rollingstone.com/music/music-news/deep-purple-postpone-concerts-ian-gillan-medical-emergency-1235650888) — Rolling Stone
 
-### Noah Lanard — motherjones.com
+### Noah Lanard — Mother Jones
 Profile: https://press.lootura.com/us/author/motherjones.com/noah-lanard/
 Collected articles: 1
-- 2026-10-31T16:38:03.000Z — [David Flippo Misrepresented His Gulf War Military Record](https://www.motherjones.com/politics/2026/10/david-flippo-nevada-misrepresented-military-record-desert-storm-gulf-war) — motherjones.com
+- 2026-10-31T16:38:03.000Z — [David Flippo Misrepresented His Gulf War Military Record](https://www.motherjones.com/politics/2026/10/david-flippo-nevada-misrepresented-military-record-desert-storm-gulf-war) — Mother Jones
 
 ### Matt Lavietes — NBC News
 Profile: https://press.lootura.com/us/author/nbcnews.com/matt-lavietes/
@@ -2646,21 +2646,21 @@ Profile: https://press.lootura.com/us/author/theverge.com/sean-hollister/
 Collected articles: 1
 - 2026-10-31T16:05:00.000Z — [I built an AI Tamagotchi before Meta could](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code) — The Verge
 
-### Jim Swift — thebulwark.com
+### Jim Swift — The Bulwark
 Profile: https://press.lootura.com/us/author/thebulwark.com/jim-swift/
 Collected articles: 1
-- 2026-10-31T16:01:17.000Z — [Tricks, Tariffs, and Trump’s Corporate Enablers](https://www.thebulwark.com/p/tricks-tariffs-and-trumps-corporate) — thebulwark.com
+- 2026-10-31T16:01:17.000Z — [Tricks, Tariffs, and Trump’s Corporate Enablers](https://www.thebulwark.com/p/tricks-tariffs-and-trumps-corporate) — The Bulwark
 
-### Caleb Bedillion — themarshallproject.org
+### Caleb Bedillion — The Marshall Project
 Profile: https://press.lootura.com/us/author/themarshallproject.org/caleb-bedillion/
 Collected articles: 1
-- 2026-10-31T16:00:00.000Z — [Virginia May Automatically Restore Voting Rights After Prison. What About Mississippi?](https://www.themarshallproject.org/2026/10/31/vote-election-virginia-mississippi-prison) — themarshallproject.org
+- 2026-10-31T16:00:00.000Z — [Virginia May Automatically Restore Voting Rights After Prison. What About Mississippi?](https://www.themarshallproject.org/2026/10/31/vote-election-virginia-mississippi-prison) — The Marshall Project
 
-### Rich Juzwiak — slate.com
+### Rich Juzwiak — Slate
 Profile: https://press.lootura.com/us/author/slate.com/rich-juzwiak/
 Collected articles: 2
-- 2026-10-31T16:00:00.000Z — [My Husband and I Are Super Into Our Sexy New Friend. Everyone Else Thinks We’re Being Creepy.](https://slate.com/advice/2026/10/sex-advice-age-gap-gay-man-male-friend.html) — slate.com
-- 2026-10-31T16:00:00.000Z — [My Husband and I Are Super Into Our Sexy New Friend. Everyone Else Thinks We’re Being Creepy.](https://slate.com/advice/2026/10/sex-advice-age-gap-gay-man-male-friend.html?via=rss) — slate.com
+- 2026-10-31T16:00:00.000Z — [My Husband and I Are Super Into Our Sexy New Friend. Everyone Else Thinks We’re Being Creepy.](https://slate.com/advice/2026/10/sex-advice-age-gap-gay-man-male-friend.html) — Slate
+- 2026-10-31T16:00:00.000Z — [My Husband and I Are Super Into Our Sexy New Friend. Everyone Else Thinks We’re Being Creepy.](https://slate.com/advice/2026/10/sex-advice-age-gap-gay-man-male-friend.html?via=rss) — Slate
 
 ### Marco Quiroz-Gutierrez — Fortune
 Profile: https://press.lootura.com/us/author/fortune.com/marco-quiroz-gutierrez/
@@ -2672,10 +2672,10 @@ Profile: https://press.lootura.com/us/author/theverge.com/brad-bourque/
 Collected articles: 1
 - 2026-10-31T15:00:00.000Z — [Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders](https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale) — The Verge
 
-### Illustration by Adam Maida — theatlantic.com
+### Illustration by Adam Maida — The Atlantic
 Profile: https://press.lootura.com/us/author/theatlantic.com/illustration-by-adam-maida/
 Collected articles: 1
-- 2026-10-31T14:59:00.000Z — [The Election Lies Are Already Starting on X](https://www.theatlantic.com/technology/2026/10/x-midterm-election-ai-fact-check/689245) — theatlantic.com
+- 2026-10-31T14:59:00.000Z — [The Election Lies Are Already Starting on X](https://www.theatlantic.com/technology/2026/10/x-midterm-election-ai-fact-check/689245) — The Atlantic
 
 ### Sasha Rogelberg — Fortune
 Profile: https://press.lootura.com/us/author/fortune.com/sasha-rogelberg/
@@ -2687,72 +2687,72 @@ Profile: https://press.lootura.com/us/author/nytimes.com/giulia-imbert/
 Collected articles: 1
 - 2026-10-31T14:32:27.000Z — [How Locals and Shopkeepers Tried to Save One Paris Street From Rioters](https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html) — The New York Times Politics
 
-### Adrian Carrasquillo — thebulwark.com
+### Adrian Carrasquillo — The Bulwark
 Profile: https://press.lootura.com/us/author/thebulwark.com/adrian-carrasquillo/
 Collected articles: 1
-- 2026-10-31T14:30:41.000Z — [‘The Day of Accountability Has Arrived’](https://www.thebulwark.com/p/the-day-of-accountability-has-arrived-alex-pretti-renee-good) — thebulwark.com
+- 2026-10-31T14:30:41.000Z — [‘The Day of Accountability Has Arrived’](https://www.thebulwark.com/p/the-day-of-accountability-has-arrived-alex-pretti-renee-good) — The Bulwark
 
-### Barak Ravid — axios.com
+### Barak Ravid — Axios
 Profile: https://press.lootura.com/us/author/axios.com/barak-ravid/
 Collected articles: 2
-- 2026-10-31T14:27:22.000Z — [Iran's supreme leader orders "maximum" response to any U.S. attack](https://www.axios.com/2026/10/31/irans-supreme-leader-maximum-response-us-attack) — axios.com
-- 2026-10-31T01:03:05.000Z — [Qataris hold marathon talks in Tehran in bid for U.S.-Iran deal before midterms](https://www.axios.com/2026/10/31/qatari-mediators-iran-war-deal-before-midterms) — axios.com
+- 2026-10-31T14:27:22.000Z — [Iran's supreme leader orders "maximum" response to any U.S. attack](https://www.axios.com/2026/10/31/irans-supreme-leader-maximum-response-us-attack) — Axios
+- 2026-10-31T01:03:05.000Z — [Qataris hold marathon talks in Tehran in bid for U.S.-Iran deal before midterms](https://www.axios.com/2026/10/31/qatari-mediators-iran-war-deal-before-midterms) — Axios
 
-### Courtesy of Washington Week With The Atlantic — theatlantic.com
+### Courtesy of Washington Week With The Atlantic — The Atlantic
 Profile: https://press.lootura.com/us/author/theatlantic.com/courtesy-of-washington-week-with-the-atlantic/
 Collected articles: 1
-- 2026-10-31T14:25:57.000Z — [How the Midterms Could Test Trump](https://www.theatlantic.com/national/2026/10/midterms-test-trump-washington-week/689243) — theatlantic.com
+- 2026-10-31T14:25:57.000Z — [How the Midterms Could Test Trump](https://www.theatlantic.com/national/2026/10/midterms-test-trump-washington-week/689243) — The Atlantic
 
-### Ingrid Fadelli — medicalxpress.com
+### Ingrid Fadelli — Medical Xpress
 Profile: https://press.lootura.com/us/author/medicalxpress.com/ingrid-fadelli/
 Collected articles: 1
-- 2026-10-31T14:20:01.000Z — [Twin study links artistic, but not scientific, creativity to poorer mental health](https://medicalxpress.com/news/2026-10-twin-links-artistic-scientific-creativity.html) — medicalxpress.com
+- 2026-10-31T14:20:01.000Z — [Twin study links artistic, but not scientific, creativity to poorer mental health](https://medicalxpress.com/news/2026-10-twin-links-artistic-scientific-creativity.html) — Medical Xpress
 
 ### Jason Horowitz — The New York Times Politics
 Profile: https://press.lootura.com/us/author/nytimes.com/jason-horowitz/
 Collected articles: 1
 - 2026-10-31T14:14:19.000Z — [Train Disaster Is Blow to Spain’s Leader, Already Election Underdog](https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html) — The New York Times Politics
 
-### Bill McKibben — rollingstone.com
+### Bill McKibben — Rolling Stone
 Profile: https://press.lootura.com/us/author/rollingstone.com/bill-mckibben/
 Collected articles: 1
-- 2026-10-31T14:00:00.000Z — [I Knocked on Hundreds of Doors Ahead of the Midterms. Here's What I Learned](https://www.rollingstone.com/politics/political-commentary/what-i-learned-knocking-doors-2026-midterms-1235650847) — rollingstone.com
+- 2026-10-31T14:00:00.000Z — [I Knocked on Hundreds of Doors Ahead of the Midterms. Here's What I Learned](https://www.rollingstone.com/politics/political-commentary/what-i-learned-knocking-doors-2026-midterms-1235650847) — Rolling Stone
 
-### Cristina Johnson — wisconsinwatch.org
+### Cristina Johnson — Wisconsin Watch
 Profile: https://press.lootura.com/us/author/wisconsinwatch.org/cristina-johnson/
 Collected articles: 1
-- 2026-10-31T14:00:00.000Z — [Guest opinion: Honoring veterans means recognizing lasting health risks of asbestos exposure](https://wisconsinwatch.org/2026/10/wisconsin-veterans-asbestos-exposure-health-risks-military-lung-cancer-screening-opinion) — wisconsinwatch.org
+- 2026-10-31T14:00:00.000Z — [Guest opinion: Honoring veterans means recognizing lasting health risks of asbestos exposure](https://wisconsinwatch.org/2026/10/wisconsin-veterans-asbestos-exposure-health-risks-military-lung-cancer-screening-opinion) — Wisconsin Watch
 
-### George Caveney — slate.com
+### George Caveney — Slate
 Profile: https://press.lootura.com/us/author/slate.com/george-caveney/
 Collected articles: 2
-- 2026-10-31T14:00:00.000Z — [For Years, I Had an Unlikely Friendship With an Inmate. Then They Killed Him.](https://slate.com/life/2026/10/murder-friend-inmate-execution-death-row-lethal-injection.html) — slate.com
-- 2026-10-31T14:00:00.000Z — [For Years, I Had an Unlikely Friendship With an Inmate. Then They Killed Him.](https://slate.com/life/2026/10/murder-friend-inmate-execution-death-row-lethal-injection.html?via=rss) — slate.com
+- 2026-10-31T14:00:00.000Z — [For Years, I Had an Unlikely Friendship With an Inmate. Then They Killed Him.](https://slate.com/life/2026/10/murder-friend-inmate-execution-death-row-lethal-injection.html) — Slate
+- 2026-10-31T14:00:00.000Z — [For Years, I Had an Unlikely Friendship With an Inmate. Then They Killed Him.](https://slate.com/life/2026/10/murder-friend-inmate-execution-death-row-lethal-injection.html?via=rss) — Slate
 
-### Maggie Shannon for The Atlantic — theatlantic.com
+### Maggie Shannon for The Atlantic — The Atlantic
 Profile: https://press.lootura.com/us/author/theatlantic.com/maggie-shannon-for-the-atlantic/
 Collected articles: 1
-- 2026-10-31T14:00:00.000Z — [The ‘Cuteservative’ in Chief](https://www.theatlantic.com/health/2026/10/alex-clark-maha-rfk-marriage/689193) — theatlantic.com
+- 2026-10-31T14:00:00.000Z — [The ‘Cuteservative’ in Chief](https://www.theatlantic.com/health/2026/10/alex-clark-maha-rfk-marriage/689193) — The Atlantic
 
-### Kevin Williams — cnbc.com
+### Kevin Williams — CNBC
 Profile: https://press.lootura.com/us/author/cnbc.com/kevin-williams/
 Collected articles: 1
-- 2026-10-31T13:58:40.000Z — [Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance](https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html) — cnbc.com
+- 2026-10-31T13:58:40.000Z — [Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance](https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html) — CNBC
 
-### Shannon Cudd — fastcompany.com
+### Shannon Cudd — Fast Company
 Profile: https://press.lootura.com/us/author/fastcompany.com/shannon-cudd/
 Collected articles: 1
-- 2026-10-31T13:51:00.000Z — [New York City Marathon 2026: How to watch live coverage, track runners, see the route map, and more](https://www.fastcompany.com/91633335/nyc-marathon-2026-route-map-road-closures-track-runners-live?partner=rss) — fastcompany.com
+- 2026-10-31T13:51:00.000Z — [New York City Marathon 2026: How to watch live coverage, track runners, see the route map, and more](https://www.fastcompany.com/91633335/nyc-marathon-2026-route-map-road-closures-track-runners-live?partner=rss) — Fast Company
 
-### Allison Robbert — theatlantic.com
+### Allison Robbert — The Atlantic
 Profile: https://press.lootura.com/us/author/theatlantic.com/allison-robbert/
 Collected articles: 1
-- 2026-10-31T13:48:10.000Z — [Foie Gras Is Tearing D.C. Apart](https://www.theatlantic.com/health/2026/10/foie-gras-ban-washington-dc/689244) — theatlantic.com
+- 2026-10-31T13:48:10.000Z — [Foie Gras Is Tearing D.C. Apart](https://www.theatlantic.com/health/2026/10/foie-gras-ban-washington-dc/689244) — The Atlantic
 
-### The Washington Post — theatlantic.com
+### The Washington Post — The Atlantic
 Profile: https://press.lootura.com/us/author/theatlantic.com/the-washington-post/
 Collected articles: 1
-- 2026-10-31T13:48:10.000Z — [Foie Gras Is Tearing D.C. Apart](https://www.theatlantic.com/health/2026/10/foie-gras-ban-washington-dc/689244) — theatlantic.com
+- 2026-10-31T13:48:10.000Z — [Foie Gras Is Tearing D.C. Apart](https://www.theatlantic.com/health/2026/10/foie-gras-ban-washington-dc/689244) — The Atlantic
 
 ### Robert Draper — The New York Times Politics
 Profile: https://press.lootura.com/us/author/nytimes.com/robert-draper/
@@ -2764,67 +2764,67 @@ Profile: https://press.lootura.com/us/author/nytimes.com/santul-nerkar/
 Collected articles: 1
 - 2026-10-31T13:20:50.000Z — [The NYC Marathon Is as Popular as Ever. It Remains Inaccessible to Many.](https://www.nytimes.com/2026/10/31/nyregion/nyc-marathon-price.html) — The New York Times
 
-### Allison Marsh — ieee.org
+### Allison Marsh — IEEE Spectrum
 Profile: https://press.lootura.com/us/author/ieee.org/allison-marsh/
 Collected articles: 1
-- 2026-10-31T13:00:02.000Z — [When Electric Cars Were for Women](https://spectrum.ieee.org/early-electric-vehicles) — ieee.org
+- 2026-10-31T13:00:02.000Z — [When Electric Cars Were for Women](https://spectrum.ieee.org/early-electric-vehicles) — IEEE Spectrum
 
-### Dahlia Lithwick — slate.com
+### Dahlia Lithwick — Slate
 Profile: https://press.lootura.com/us/author/slate.com/dahlia-lithwick/
 Collected articles: 2
-- 2026-10-31T13:00:00.000Z — [The One Real Danger of Donald Trump’s Mary Peltola Threats](https://slate.com/news-and-politics/2026/10/2026-election-news-donald-trump-mary-peltola-threats.html) — slate.com
-- 2026-10-31T13:00:00.000Z — [The One Real Danger of Donald Trump’s Mary Peltola Threats](https://slate.com/news-and-politics/2026/10/2026-election-news-donald-trump-mary-peltola-threats.html?via=rss) — slate.com
+- 2026-10-31T13:00:00.000Z — [The One Real Danger of Donald Trump’s Mary Peltola Threats](https://slate.com/news-and-politics/2026/10/2026-election-news-donald-trump-mary-peltola-threats.html) — Slate
+- 2026-10-31T13:00:00.000Z — [The One Real Danger of Donald Trump’s Mary Peltola Threats](https://slate.com/news-and-politics/2026/10/2026-election-news-donald-trump-mary-peltola-threats.html?via=rss) — Slate
 
-### Ian Loring Shiver — theatlantic.com
+### Ian Loring Shiver — The Atlantic
 Profile: https://press.lootura.com/us/author/theatlantic.com/ian-loring-shiver/
 Collected articles: 1
-- 2026-10-31T13:00:00.000Z — [The Rise of the Tallboy Is a Sign of the Times](https://www.theatlantic.com/culture/2026/10/tallboys-big-beer/689231) — theatlantic.com
+- 2026-10-31T13:00:00.000Z — [The Rise of the Tallboy Is a Sign of the Times](https://www.theatlantic.com/culture/2026/10/tallboys-big-beer/689231) — The Atlantic
 
-### Minnie Park for The Atlantic — theatlantic.com
+### Minnie Park for The Atlantic — The Atlantic
 Profile: https://press.lootura.com/us/author/theatlantic.com/minnie-park-for-the-atlantic/
 Collected articles: 1
-- 2026-10-31T13:00:00.000Z — [The Rise of the Tallboy Is a Sign of the Times](https://www.theatlantic.com/culture/2026/10/tallboys-big-beer/689231) — theatlantic.com
+- 2026-10-31T13:00:00.000Z — [The Rise of the Tallboy Is a Sign of the Times](https://www.theatlantic.com/culture/2026/10/tallboys-big-beer/689231) — The Atlantic
 
-### Mother Jones — grist.org
+### Mother Jones — Grist
 Profile: https://press.lootura.com/us/author/grist.org/mother-jones/
 Collected articles: 1
-- 2026-10-31T13:00:00.000Z — [The EPA is quietly killing its web archive](https://grist.org/accountability/the-epa-is-quietly-killing-its-web-archive) — grist.org
+- 2026-10-31T13:00:00.000Z — [The EPA is quietly killing its web archive](https://grist.org/accountability/the-epa-is-quietly-killing-its-web-archive) — Grist
 
-### Rachel Santarsiero — grist.org
+### Rachel Santarsiero — Grist
 Profile: https://press.lootura.com/us/author/grist.org/rachel-santarsiero/
 Collected articles: 1
-- 2026-10-31T13:00:00.000Z — [The EPA is quietly killing its web archive](https://grist.org/accountability/the-epa-is-quietly-killing-its-web-archive) — grist.org
+- 2026-10-31T13:00:00.000Z — [The EPA is quietly killing its web archive](https://grist.org/accountability/the-epa-is-quietly-killing-its-web-archive) — Grist
 
-### Hans Nichols — axios.com
+### Hans Nichols — Axios
 Profile: https://press.lootura.com/us/author/axios.com/hans-nichols/
 Collected articles: 1
-- 2026-10-31T12:51:21.000Z — [Election cheat sheet: These early races could tell us where the midterms are headed](https://www.axios.com/2026/10/31/your-election-night-cheat-sheet) — axios.com
+- 2026-10-31T12:51:21.000Z — [Election cheat sheet: These early races could tell us where the midterms are headed](https://www.axios.com/2026/10/31/your-election-night-cheat-sheet) — Axios
 
 ### Simmone Shah — TIME
 Profile: https://press.lootura.com/us/author/time.com/simmone-shah/
 Collected articles: 1
 - 2026-10-31T12:00:03.000Z — [Why You Shouldn't Toss Your Old Halloween Pumpkins In The Trash](https://time.com/article/2026/10/31/compost-halloween-pumpkins) — TIME
 
-### Andrea Folignoli — theatlantic.com
+### Andrea Folignoli — The Atlantic
 Profile: https://press.lootura.com/us/author/theatlantic.com/andrea-folignoli/
 Collected articles: 1
-- 2026-10-31T12:00:00.000Z — [Why Halloween Isn’t Just for Kids](https://www.theatlantic.com/newsletters/2026/10/halloween-adults-embrace-silliness/689228) — theatlantic.com
+- 2026-10-31T12:00:00.000Z — [Why Halloween Isn’t Just for Kids](https://www.theatlantic.com/newsletters/2026/10/halloween-adults-embrace-silliness/689228) — The Atlantic
 
 ### David Pierce — The Verge
 Profile: https://press.lootura.com/us/author/theverge.com/david-pierce/
 Collected articles: 1
 - 2026-10-31T12:00:00.000Z — [Touchscreens everywhere!](https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer) — The Verge
 
-### Fondation Henri Cartier-Bresson — theatlantic.com
+### Fondation Henri Cartier-Bresson — The Atlantic
 Profile: https://press.lootura.com/us/author/theatlantic.com/fondation-henri-cartier-bresson/
 Collected articles: 1
-- 2026-10-31T12:00:00.000Z — [He Was Hugely Influential. He Also Had a Foolish Streak.](https://www.theatlantic.com/books/2026/10/john-berger-biography-book-review/688987) — theatlantic.com
+- 2026-10-31T12:00:00.000Z — [He Was Hugely Influential. He Also Had a Foolish Streak.](https://www.theatlantic.com/books/2026/10/john-berger-biography-book-review/688987) — The Atlantic
 
-### Jenée Desmond-Harris — slate.com
+### Jenée Desmond-Harris — Slate
 Profile: https://press.lootura.com/us/author/slate.com/jenee-desmond-harris/
 Collected articles: 2
-- 2026-10-31T12:00:00.000Z — [Help! I Surprised My Messy Boyfriend With a Deep Cleaning. The Outrageous Thing He Said About It Could Not Have Been Weirder.](https://slate.com/advice/2026/10/dear-prudence-boyfriend-deep-cleaning-nasty-surprise.html?via=rss) — slate.com
-- 2026-10-31T10:00:00.000Z — [Help! I Made a Simple Request of a Mom on a Plane. But Her Answer Has Me Questioning My Own Character.](https://slate.com/advice/2026/10/parenting-advice-toddler-plane-ipad-volume-reddit.html?via=rss) — slate.com
+- 2026-10-31T12:00:00.000Z — [Help! I Surprised My Messy Boyfriend With a Deep Cleaning. The Outrageous Thing He Said About It Could Not Have Been Weirder.](https://slate.com/advice/2026/10/dear-prudence-boyfriend-deep-cleaning-nasty-surprise.html?via=rss) — Slate
+- 2026-10-31T10:00:00.000Z — [Help! I Made a Simple Request of a Mom on a Plane. But Her Answer Has Me Questioning My Own Character.](https://slate.com/advice/2026/10/parenting-advice-toddler-plane-ipad-volume-reddit.html?via=rss) — Slate
 
 ### Lauren Feiner — The Verge
 Profile: https://press.lootura.com/us/author/theverge.com/lauren-feiner/
@@ -2841,11 +2841,11 @@ Profile: https://press.lootura.com/us/author/wired.com/matt-burgess/
 Collected articles: 1
 - 2026-10-31T12:00:00.000Z — [Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims](https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware) — Wired
 
-### Michelle Herman — slate.com
+### Michelle Herman — Slate
 Profile: https://press.lootura.com/us/author/slate.com/michelle-herman/
 Collected articles: 2
-- 2026-10-31T12:00:00.000Z — [My Ex-Husband Horribly Betrayed Me. But I’m Not Sure My Daughter’s Reaction Is Good for Her.](https://slate.com/advice/2026/10/parent-advice-ex-husband-divorce-child-reaction.html) — slate.com
-- 2026-10-31T12:00:00.000Z — [My Ex-Husband Horribly Betrayed Me. But I’m Not Sure My Daughter’s Reaction Is Good for Her.](https://slate.com/advice/2026/10/parent-advice-ex-husband-divorce-child-reaction.html?via=rss) — slate.com
+- 2026-10-31T12:00:00.000Z — [My Ex-Husband Horribly Betrayed Me. But I’m Not Sure My Daughter’s Reaction Is Good for Her.](https://slate.com/advice/2026/10/parent-advice-ex-husband-divorce-child-reaction.html) — Slate
+- 2026-10-31T12:00:00.000Z — [My Ex-Husband Horribly Betrayed Me. But I’m Not Sure My Daughter’s Reaction Is Good for Her.](https://slate.com/advice/2026/10/parent-advice-ex-husband-divorce-child-reaction.html?via=rss) — Slate
 
 ### Miriam Vogel — Fortune
 Profile: https://press.lootura.com/us/author/fortune.com/miriam-vogel/
@@ -2874,110 +2874,110 @@ Collected articles: 2
 - 2026-10-31T11:39:19.000Z — [Massive protests sweep Europe over cost of living and strained public services](https://www.nbcnews.com/world/europe/europe-braces-massive-halloween-protests-cost-living-public-services-rcna606671) — NBC News
 - 2026-10-31T09:46:08.000Z — [U.K. PM open to slave trade apology but rules out financial reparations](https://www.nbcnews.com/world/united-kingdom/uk-andy-burnham-slave-trade-apology-reparations-king-charles-rcna606670) — NBC News
 
-### Julia Métraux — motherjones.com
+### Julia Métraux — Mother Jones
 Profile: https://press.lootura.com/us/author/motherjones.com/julia-metraux/
 Collected articles: 1
-- 2026-10-31T11:30:00.000Z — [Red states are prepping more Medicaid cuts if Republicans keep Congress](https://www.motherjones.com/politics/2026/10/gop-congress-medicaid-cuts-expansion-trigger-laws-matching-funds) — motherjones.com
+- 2026-10-31T11:30:00.000Z — [Red states are prepping more Medicaid cuts if Republicans keep Congress](https://www.motherjones.com/politics/2026/10/gop-congress-medicaid-cuts-expansion-trigger-laws-matching-funds) — Mother Jones
 
 ### Nick Lichtenberg — Fortune
 Profile: https://press.lootura.com/us/author/fortune.com/nick-lichtenberg/
 Collected articles: 1
 - 2026-10-31T11:30:00.000Z — [Tech stocks just lost more than $1 trillion in a day—a gothic horror test for the ‘moats’ Warren Buffett taught Wall Street to love](https://fortune.com/2026/10/31/crumbling-gothic-castle-capitalism-metaphor-marx-vampire-buffett-moat-ai-selloff) — Fortune
 
-### Samantha Michaels — motherjones.com
+### Samantha Michaels — Mother Jones
 Profile: https://press.lootura.com/us/author/motherjones.com/samantha-michaels/
 Collected articles: 1
-- 2026-10-31T11:30:00.000Z — [Volunteer poll monitors are hoping for a smooth Election Day, but training for trouble](https://www.motherjones.com/politics/2026/10/volunteer-poll-monitors-training-2026-midterms-ice-trump-election-day-interference-fears) — motherjones.com
+- 2026-10-31T11:30:00.000Z — [Volunteer poll monitors are hoping for a smooth Election Day, but training for trouble](https://www.motherjones.com/politics/2026/10/volunteer-poll-monitors-training-2026-midterms-ice-trump-election-day-interference-fears) — Mother Jones
 
-### Jacek Krywko — arstechnica.com
+### Jacek Krywko — Ars Technica
 Profile: https://press.lootura.com/us/author/arstechnica.com/jacek-krywko/
 Collected articles: 1
-- 2026-10-31T11:15:26.000Z — [Seabirds racing home over the ocean can get jet-lagged](https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged) — arstechnica.com
+- 2026-10-31T11:15:26.000Z — [Seabirds racing home over the ocean can get jet-lagged](https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged) — Ars Technica
 
-### Sam Sabin — axios.com
+### Sam Sabin — Axios
 Profile: https://press.lootura.com/us/author/axios.com/sam-sabin/
 Collected articles: 1
-- 2026-10-31T11:15:07.000Z — [How North Korea perfected the crypto heist](https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto) — axios.com
+- 2026-10-31T11:15:07.000Z — [How North Korea perfected the crypto heist](https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto) — Axios
 
-### Sara Talpos — arstechnica.com
+### Sara Talpos — Ars Technica
 Profile: https://press.lootura.com/us/author/arstechnica.com/sara-talpos/
 Collected articles: 1
-- 2026-10-31T11:02:34.000Z — [The FDA wants to pull its approval of a drug. It’s not so easy.](https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy) — arstechnica.com
+- 2026-10-31T11:02:34.000Z — [The FDA wants to pull its approval of a drug. It’s not so easy.](https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy) — Ars Technica
 
-### Undark Magazine — arstechnica.com
+### Undark Magazine — Ars Technica
 Profile: https://press.lootura.com/us/author/arstechnica.com/undark-magazine/
 Collected articles: 1
-- 2026-10-31T11:02:34.000Z — [The FDA wants to pull its approval of a drug. It’s not so easy.](https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy) — arstechnica.com
+- 2026-10-31T11:02:34.000Z — [The FDA wants to pull its approval of a drug. It’s not so easy.](https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy) — Ars Technica
 
 ### Jon Grinspan — The New York Times
 Profile: https://press.lootura.com/us/author/nytimes.com/jon-grinspan/
 Collected articles: 1
 - 2026-10-31T11:00:20.000Z — [Opinion | Why Manipulate the Lines When You Can Just Move People Around?](https://www.nytimes.com/2026/10/31/opinion/gerrymandering-colonization-gilded-age.html) — The New York Times
 
-### Russell Contreras — axios.com
+### Russell Contreras — Axios
 Profile: https://press.lootura.com/us/author/axios.com/russell-contreras/
 Collected articles: 1
-- 2026-10-31T11:00:09.000Z — [New Census data reveal a homeowner-renter divide in America's electric-car transition](https://www.axios.com/2026/10/31/ev-driveway-divide-renters-homeowners) — axios.com
+- 2026-10-31T11:00:09.000Z — [New Census data reveal a homeowner-renter divide in America's electric-car transition](https://www.axios.com/2026/10/31/ev-driveway-divide-renters-homeowners) — Axios
 
 ### Coltan Scrivner — TIME
 Profile: https://press.lootura.com/us/author/time.com/coltan-scrivner/
 Collected articles: 1
 - 2026-10-31T11:00:03.192Z — [Why We Like to Be Scared](https://time.com/article/2026/10/31/why-we-like-to-be-scared) — TIME
 
-### CONSTANT SAME BAGALWA — medicalxpress.com
+### CONSTANT SAME BAGALWA — Medical Xpress
 Profile: https://press.lootura.com/us/author/medicalxpress.com/constant-same-bagalwa/
 Collected articles: 1
-- 2026-10-31T11:00:02.000Z — [Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts](https://medicalxpress.com/news/2026-10-congo-ebola-deaths-continent-wide.html) — medicalxpress.com
+- 2026-10-31T11:00:02.000Z — [Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts](https://medicalxpress.com/news/2026-10-congo-ebola-deaths-continent-wide.html) — Medical Xpress
 
-### OPE ADETAYO — medicalxpress.com
+### OPE ADETAYO — Medical Xpress
 Profile: https://press.lootura.com/us/author/medicalxpress.com/ope-adetayo/
 Collected articles: 1
-- 2026-10-31T11:00:02.000Z — [Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts](https://medicalxpress.com/news/2026-10-congo-ebola-deaths-continent-wide.html) — medicalxpress.com
+- 2026-10-31T11:00:02.000Z — [Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts](https://medicalxpress.com/news/2026-10-congo-ebola-deaths-continent-wide.html) — Medical Xpress
 
-### Becky Ferreira — 404media.co
+### Becky Ferreira — 404 Media
 Profile: https://press.lootura.com/us/author/404media.co/becky-ferreira/
 Collected articles: 1
-- 2026-10-31T11:00:00.000Z — [People Used to Drink Wine Made From Ground-Up Mummies. Now, Scientists Are Studying It](https://www.404media.co/people-used-to-drink-wine-made-from-ground-up-mummies-now-scientists-are-studying-it) — 404media.co
+- 2026-10-31T11:00:00.000Z — [People Used to Drink Wine Made From Ground-Up Mummies. Now, Scientists Are Studying It](https://www.404media.co/people-used-to-drink-wine-made-from-ground-up-mummies-now-scientists-are-studying-it) — 404 Media
 
 ### Bethany Heitman — NBC News
 Profile: https://press.lootura.com/us/author/nbcnews.com/bethany-heitman/
 Collected articles: 1
 - 2026-10-31T11:00:00.000Z — [Brooks Glycerin Flex Running Sneakers are almost $70 off during NYC marathon weekend](https://www.nbcnews.com/select/shopping/brooks-glycerin-flex-deal-of-the-day-2026-rcna606661) — NBC News
 
-### Daniel Payne — statnews.com
+### Daniel Payne — STAT
 Profile: https://press.lootura.com/us/author/statnews.com/daniel-payne/
 Collected articles: 1
-- 2026-10-31T11:00:00.000Z — [STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in](https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy) — statnews.com
+- 2026-10-31T11:00:00.000Z — [STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in](https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy) — STAT
 
-### Edgar Mendez — wisconsinwatch.org
+### Edgar Mendez — Wisconsin Watch
 Profile: https://press.lootura.com/us/author/wisconsinwatch.org/edgar-mendez/
 Collected articles: 1
-- 2026-10-31T11:00:00.000Z — [Milwaukee Little League hopes Brewers’ success inspires a new generation of players](https://wisconsinwatch.org/2026/10/milwaukee-little-league-brewers-world-series-run-youth-baseball-players-new-generation) — wisconsinwatch.org
+- 2026-10-31T11:00:00.000Z — [Milwaukee Little League hopes Brewers’ success inspires a new generation of players](https://wisconsinwatch.org/2026/10/milwaukee-little-league-brewers-world-series-run-youth-baseball-players-new-generation) — Wisconsin Watch
 
-### Erik Marmor — theatlantic.com
+### Erik Marmor — The Atlantic
 Profile: https://press.lootura.com/us/author/theatlantic.com/erik-marmor/
 Collected articles: 1
-- 2026-10-31T11:00:00.000Z — [The Bursting of the Tel Aviv Bubble](https://www.theatlantic.com/international/2026/10/tel-aviv-israel-democracy-liberal/689229) — theatlantic.com
+- 2026-10-31T11:00:00.000Z — [The Bursting of the Tel Aviv Bubble](https://www.theatlantic.com/international/2026/10/tel-aviv-israel-democracy-liberal/689229) — The Atlantic
 
 ### Jeremy White — Wired
 Profile: https://press.lootura.com/us/author/wired.com/jeremy-white/
 Collected articles: 1
 - 2026-10-31T11:00:00.000Z — [There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs](https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs) — Wired
 
-### Kelli Wessinger — vox.com
+### Kelli Wessinger — Vox
 Profile: https://press.lootura.com/us/author/vox.com/kelli-wessinger/
 Collected articles: 1
-- 2026-10-31T11:00:00.000Z — [Will Melania Trump save Ukraine?](https://www.vox.com/podcasts/508456/ukraine-russia-oleshky-ceasfire-melania-trump) — vox.com
+- 2026-10-31T11:00:00.000Z — [Will Melania Trump save Ukraine?](https://www.vox.com/podcasts/508456/ukraine-russia-oleshky-ceasfire-melania-trump) — Vox
 
 ### Simon Hill — Wired
 Profile: https://press.lootura.com/us/author/wired.com/simon-hill/
 Collected articles: 1
 - 2026-10-31T11:00:00.000Z — [Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights](https://www.wired.com/story/govee-christmas-lights-deal-october-2026) — Wired
 
-### Madison Mills — axios.com
+### Madison Mills — Axios
 Profile: https://press.lootura.com/us/author/axios.com/madison-mills/
 Collected articles: 1
-- 2026-10-31T10:45:06.000Z — [The AI trade's trick-or-treat earnings season](https://www.axios.com/2026/10/31/tech-earnings-ai-hyperscaler-risks-trick-or-treat) — axios.com
+- 2026-10-31T10:45:06.000Z — [The AI trade's trick-or-treat earnings season](https://www.axios.com/2026/10/31/tech-earnings-ai-hyperscaler-risks-trick-or-treat) — Axios
 
 ### Christopher Null — Wired
 Profile: https://press.lootura.com/us/author/wired.com/christopher-null/
@@ -2994,68 +2994,68 @@ Profile: https://press.lootura.com/us/author/wired.com/paresh-dave/
 Collected articles: 1
 - 2026-10-31T10:30:00.000Z — [Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet) — Wired
 
-### Ananya Sen — medicalxpress.com
+### Ananya Sen — Medical Xpress
 Profile: https://press.lootura.com/us/author/medicalxpress.com/ananya-sen/
 Collected articles: 1
-- 2026-10-31T10:25:29.000Z — [Treatment with norrin helps maintain healthy blood vessels and preserve vision in diabetic rats](https://medicalxpress.com/news/2026-10-treatment-norrin-healthy-blood-vessels.html) — medicalxpress.com
+- 2026-10-31T10:25:29.000Z — [Treatment with norrin helps maintain healthy blood vessels and preserve vision in diabetic rats](https://medicalxpress.com/news/2026-10-treatment-norrin-healthy-blood-vessels.html) — Medical Xpress
 
 ### Tracy Ross — The Colorado Sun
 Profile: https://press.lootura.com/us/author/coloradosun.com/tracy-ross/
 Collected articles: 1
 - 2026-10-31T10:25:00.000Z — [On a haunted tour through Denver’s Cheesman Park, ethical questions arise from the dead](https://coloradosun.com/2026/10/31/halloween-tours-denver-cheesman-park-ethical-concerns) — The Colorado Sun
 
-### Alejandra Martinez — texastribune.org
+### Alejandra Martinez — The Texas Tribune
 Profile: https://press.lootura.com/us/author/texastribune.org/alejandra-martinez/
 Collected articles: 2
-- 2026-10-31T10:00:00.000Z — [Texas parks department fights to withhold draft agenda amid fears of Boca Chica sale to SpaceX](https://feeds.texastribune.org/link/16799/17511973/texas-elon-musk-spacex-boca-chica-state-park-sale) — texastribune.org
-- 2026-10-31T10:00:00.000Z — [Texans fear SpaceX will control Boca Chica](https://www.texastribune.org/2026/10/31/texas-elon-musk-spacex-boca-chica-state-park-sale) — texastribune.org
+- 2026-10-31T10:00:00.000Z — [Texas parks department fights to withhold draft agenda amid fears of Boca Chica sale to SpaceX](https://feeds.texastribune.org/link/16799/17511973/texas-elon-musk-spacex-boca-chica-state-park-sale) — The Texas Tribune
+- 2026-10-31T10:00:00.000Z — [Texans fear SpaceX will control Boca Chica](https://www.texastribune.org/2026/10/31/texas-elon-musk-spacex-boca-chica-state-park-sale) — The Texas Tribune
 
-### Alejandro Serrano — texastribune.org
+### Alejandro Serrano — The Texas Tribune
 Profile: https://press.lootura.com/us/author/texastribune.org/alejandro-serrano/
 Collected articles: 2
-- 2026-10-31T10:00:00.000Z — [This young Latino mayor went all in for John Cornyn. But Ken Paxton is a sore subject.](https://feeds.texastribune.org/link/16799/17511971/texas-sabinal-mayor-erik-gomez-latino-young-paxton-cornyn) — texastribune.org
-- 2026-10-31T10:00:00.000Z — [Young Latino mayor in South Texas struggles with supporting Paxton](https://www.texastribune.org/2026/10/31/texas-sabinal-mayor-erik-gomez-latino-young-paxton-cornyn) — texastribune.org
+- 2026-10-31T10:00:00.000Z — [This young Latino mayor went all in for John Cornyn. But Ken Paxton is a sore subject.](https://feeds.texastribune.org/link/16799/17511971/texas-sabinal-mayor-erik-gomez-latino-young-paxton-cornyn) — The Texas Tribune
+- 2026-10-31T10:00:00.000Z — [Young Latino mayor in South Texas struggles with supporting Paxton](https://www.texastribune.org/2026/10/31/texas-sabinal-mayor-erik-gomez-latino-young-paxton-cornyn) — The Texas Tribune
 
-### Berenice Garcia — texastribune.org
+### Berenice Garcia — The Texas Tribune
 Profile: https://press.lootura.com/us/author/texastribune.org/berenice-garcia/
 Collected articles: 2
-- 2026-10-31T10:00:00.000Z — [Texas parks department fights to withhold draft agenda amid fears of Boca Chica sale to SpaceX](https://feeds.texastribune.org/link/16799/17511973/texas-elon-musk-spacex-boca-chica-state-park-sale) — texastribune.org
-- 2026-10-31T10:00:00.000Z — [Texans fear SpaceX will control Boca Chica](https://www.texastribune.org/2026/10/31/texas-elon-musk-spacex-boca-chica-state-park-sale) — texastribune.org
+- 2026-10-31T10:00:00.000Z — [Texas parks department fights to withhold draft agenda amid fears of Boca Chica sale to SpaceX](https://feeds.texastribune.org/link/16799/17511973/texas-elon-musk-spacex-boca-chica-state-park-sale) — The Texas Tribune
+- 2026-10-31T10:00:00.000Z — [Texans fear SpaceX will control Boca Chica](https://www.texastribune.org/2026/10/31/texas-elon-musk-spacex-boca-chica-state-park-sale) — The Texas Tribune
 
-### Gabby Birenbaum — texastribune.org
+### Gabby Birenbaum — The Texas Tribune
 Profile: https://press.lootura.com/us/author/texastribune.org/gabby-birenbaum/
 Collected articles: 1
-- 2026-10-31T10:00:00.000Z — [With U.S. Senate control at stake, Republicans fear the once-unthinkable: a blue Texas](https://feeds.texastribune.org/link/16799/17511972/texas-us-senate-election-paxton-talarico-final-push-election-day) — texastribune.org
+- 2026-10-31T10:00:00.000Z — [With U.S. Senate control at stake, Republicans fear the once-unthinkable: a blue Texas](https://feeds.texastribune.org/link/16799/17511972/texas-us-senate-election-paxton-talarico-final-push-election-day) — The Texas Tribune
 
 ### Harry Rabinowitz — Wired
 Profile: https://press.lootura.com/us/author/wired.com/harry-rabinowitz/
 Collected articles: 1
 - 2026-10-31T10:00:00.000Z — [Bose QC Headphones (2nd Gen) Sale: Lowest Price Ahead of Black Friday](https://www.wired.com/story/bose-deals-october-2026) — Wired
 
-### Ian Millhiser — vox.com
+### Ian Millhiser — Vox
 Profile: https://press.lootura.com/us/author/vox.com/ian-millhiser/
 Collected articles: 1
-- 2026-10-31T10:00:00.000Z — [Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism) — vox.com
+- 2026-10-31T10:00:00.000Z — [Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism) — Vox
 
-### Steven W. Thrasher — theintercept.com
+### Steven W. Thrasher — The Intercept
 Profile: https://press.lootura.com/us/author/theintercept.com/steven-w-thrasher/
 Collected articles: 1
-- 2026-10-31T10:00:00.000Z — [How Trump Destroyed South Africa’s Effort to Slow HIV Transmission](https://theintercept.com/2026/10/31/trump-south-africa-hiv-aids-funding-cuts) — theintercept.com
+- 2026-10-31T10:00:00.000Z — [How Trump Destroyed South Africa’s Effort to Slow HIV Transmission](https://theintercept.com/2026/10/31/trump-south-africa-hiv-aids-funding-cuts) — The Intercept
 
 ### Tamara Chuang — The Colorado Sun
 Profile: https://press.lootura.com/us/author/coloradosun.com/tamara-chuang/
 Collected articles: 1
 - 2026-10-31T10:00:00.000Z — [What’s Working: Pikes Peak economy heads up after some challenging years](https://coloradosun.com/2026/10/31/pikes-peak-economy-jobs-housing-sales-tax) — The Colorado Sun
 
-### Quiara Vasquez — slate.com
+### Quiara Vasquez — Slate
 Profile: https://press.lootura.com/us/author/slate.com/quiara-vasquez/
 Collected articles: 1
-- 2026-10-31T09:51:00.000Z — [Slate Mini Crossword for Oct. 31, 2026](https://slate.com/life/2026/10/crossword-slate-mini-daily-puzzle-oct-31-2026.html?via=rss) — slate.com
+- 2026-10-31T09:51:00.000Z — [Slate Mini Crossword for Oct. 31, 2026](https://slate.com/life/2026/10/crossword-slate-mini-daily-puzzle-oct-31-2026.html?via=rss) — Slate
 
-### Nadira Goffe — slate.com
+### Nadira Goffe — Slate
 Profile: https://press.lootura.com/us/author/slate.com/nadira-goffe/
 Collected articles: 1
-- 2026-10-31T09:50:00.000Z — [It’s the Most Popular Halloween Decoration of Our Time. But It’s Posing a Very Big Problem for Owners.](https://slate.com/life/2026/10/giant-skeleton-halloween-decoration-home-depot-disposal.html?via=rss) — slate.com
+- 2026-10-31T09:50:00.000Z — [It’s the Most Popular Halloween Decoration of Our Time. But It’s Posing a Very Big Problem for Owners.](https://slate.com/life/2026/10/giant-skeleton-halloween-decoration-home-depot-disposal.html?via=rss) — Slate
 
 ### Louryn Strampe — Wired
 Profile: https://press.lootura.com/us/author/wired.com/louryn-strampe/
@@ -3156,10 +3156,10 @@ Profile: https://press.lootura.com/us/author/npr.org/windsor-johnston/
 Collected articles: 1
 - 2026-10-31T09:00:00.000Z — [Your writing was flagged as AI. What does that actually mean?](https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram) — NPR
 
-### Frida Garza — grist.org
+### Frida Garza — Grist
 Profile: https://press.lootura.com/us/author/grist.org/frida-garza/
 Collected articles: 1
-- 2026-10-31T08:45:00.000Z — [Trump cut funding for farmers — then unlocked billions for them before Election Day](https://grist.org/food-and-agriculture/trump-cut-funding-for-farmers-then-unlocked-billions-for-them-before-election-day) — grist.org
+- 2026-10-31T08:45:00.000Z — [Trump cut funding for farmers — then unlocked billions for them before Election Day](https://grist.org/food-and-agriculture/trump-cut-funding-for-farmers-then-unlocked-billions-for-them-before-election-day) — Grist
 
 ### Michelle Starr — ScienceAlert
 Profile: https://press.lootura.com/us/author/sciencealert.com/michelle-starr/
@@ -3176,20 +3176,20 @@ Profile: https://press.lootura.com/us/author/nbcnews.com/casey-wooten/
 Collected articles: 1
 - 2026-10-31T02:46:41.000Z — [El-Sayed’s campaign asks former primary rival not to attend campaign events after clash over Israel](https://www.nbcnews.com/politics/2026-election/haley-stevens-abdul-el-sayed-clash-israel-ad-ahead-sunday-rally-rcna606657) — NBC News
 
-### Andrew Pantazi — axios.com
+### Andrew Pantazi — Axios
 Profile: https://press.lootura.com/us/author/axios.com/andrew-pantazi/
 Collected articles: 1
-- 2026-10-31T02:10:27.000Z — [Judge blocks DOJ from threatening election workers before midterms](https://www.axios.com/2026/10/31/doj-threats-election-workers-midterms) — axios.com
+- 2026-10-31T02:10:27.000Z — [Judge blocks DOJ from threatening election workers before midterms](https://www.axios.com/2026/10/31/doj-threats-election-workers-midterms) — Axios
 
 ### Stephanie Zacharek — TIME
 Profile: https://press.lootura.com/us/author/time.com/stephanie-zacharek/
 Collected articles: 1
 - 2026-10-31T01:33:07.000Z — [War Is Hell—And The Mosquito Bowl Won’t Let Us Forget It](https://time.com/article/2026/10/31/the-mosquito-bowl-review) — TIME
 
-### Zach Buchanan — axios.com
+### Zach Buchanan — Axios
 Profile: https://press.lootura.com/us/author/axios.com/zach-buchanan/
 Collected articles: 1
-- 2026-10-31T00:49:17.000Z — [Just four days before Election Day, DOJ probes Arizona voter registrations](https://www.axios.com/local/phoenix/2026/10/31/doj-arizona-voter-registration-probe-election) — axios.com
+- 2026-10-31T00:49:17.000Z — [Just four days before Election Day, DOJ probes Arizona voter registrations](https://www.axios.com/local/phoenix/2026/10/31/doj-arizona-voter-registration-probe-election) — Axios
 
 ### Adam Wren — Politico
 Profile: https://press.lootura.com/us/author/politico.com/adam-wren/
@@ -3212,10 +3212,10 @@ Profile: https://press.lootura.com/us/author/time.com/barry-levitt/
 Collected articles: 1
 - 2026-10-31T00:09:18.000Z — [The True Story of Tragedy and Perseverance Behind Everest: The Other Side](https://time.com/article/2026/10/31/everest-the-other-side-documentary) — TIME
 
-### Stephen Clark — arstechnica.com
+### Stephen Clark — Ars Technica
 Profile: https://press.lootura.com/us/author/arstechnica.com/stephen-clark/
 Collected articles: 1
-- 2026-10-31T00:07:22.000Z — [Once again, NASA is asking for ideas to rescue Hubble from certain death](https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know) — arstechnica.com
+- 2026-10-31T00:07:22.000Z — [Once again, NASA is asking for ideas to rescue Hubble from certain death](https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know) — Ars Technica
 
 ### Taylor Dolven — The Colorado Sun
 Profile: https://press.lootura.com/us/author/coloradosun.com/taylor-dolven/
@@ -3379,15 +3379,15 @@ Profile: https://press.lootura.com/us/author/cbsnews.com/megan-cerullo/
 Collected articles: 1
 - 2026-10-12T16:55:00.000Z — [Starbucks denies plan to buy Chipotle after report of possible takeover](https://www.cbsnews.com/news/starbucks-chipotle-merger-brian-niccol) — CBS News
 
-### Azhar Sukri — cnbc.com
+### Azhar Sukri — CNBC
 Profile: https://press.lootura.com/us/author/cnbc.com/azhar-sukri/
 Collected articles: 1
-- 2026-10-11T11:45:10.000Z — [Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike](https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html) — cnbc.com
+- 2026-10-11T11:45:10.000Z — [Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike](https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html) — CNBC
 
-### Terri Cullen — cnbc.com
+### Terri Cullen — CNBC
 Profile: https://press.lootura.com/us/author/cnbc.com/terri-cullen/
 Collected articles: 1
-- 2026-10-11T11:45:10.000Z — [Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike](https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html) — cnbc.com
+- 2026-10-11T11:45:10.000Z — [Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike](https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html) — CNBC
 
 ### Melissa Goldin — PBS NewsHour
 Profile: https://press.lootura.com/us/author/pbs.org/melissa-goldin/
