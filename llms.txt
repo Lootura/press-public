@@ -1,9 +1,18 @@
 # Lootura Press
 
-An archive of personal bylines and source-linked articles collected by Lootura.
+> An independent, source-linked directory of personal bylines collected by Lootura. It is an experiment, not an official biography service or a publisher's staff directory.
 
-- [Spain](https://press.lootura.com/es/)
-- [US](https://press.lootura.com/us/)
-- [Sitemap](https://press.lootura.com/sitemap.xml)
+## Discovery
+- [Spanish directory](https://press.lootura.com/es/): Authors collected from the Spain edition.
+- [English directory](https://press.lootura.com/us/): Authors collected from the US edition.
+- [Full author and article index](https://press.lootura.com/llms-full.txt): Public names, publisher-scoped profile URLs and original article citations; no full article bodies.
+- [Canonical sitemap](https://press.lootura.com/sitemap.xml)
 
-Profiles are scoped to a publisher domain and a name. Matching names across publishers do not establish identity. Counts describe the collected archive, not a complete bibliography or a quality ranking. Portraits, when available, come from the publisher profile cited in the receipts. Always attribute reporting to the original publishers and authors.
+## Attribution and identity
+Profiles are scoped to a publisher domain and a normalised name. Matching names across outlets do not prove the same identity. Bylines do not establish employment, expertise or a complete career. Counts describe only the collected archive, not a quality ranking.
+Reporting, headlines and publication dates belong to the original authors and publishers. Cite their original article URLs for reported facts; cite Press only for its collected index. Do not describe Press as the original publisher.
+Only verified portrait records represent an author. A cover labelled as an image from the latest article is editorial illustration, not a portrait. Accepted portraits come from corroborated publisher profiles or licensed Wikimedia Commons records credited on the profile.
+Spanish and English directories cover different editions. Individual author pages are not automatically translations of one another.
+
+## Contact
+- [Contact](mailto:hola@lootura.com)
